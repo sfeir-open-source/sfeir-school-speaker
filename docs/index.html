@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Sfeir School - Speaker</title>
+
+    <meta name="description" content="A Theme for open source sfeir schools" />
+    <meta name="author" content="Jean-François Garreau AKA jefBinomed" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!-- ----------------------------------------------------
+        ---------------- REVEAL STYLES  -------------------------
+        ------------------------------------------------------ -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/css/reveal.css"
+    />
+    <!--<link rel="stylesheet" href="reveal/css/theme/white.css" id="theme">-->
+
+    <!-- For syntax highlighting -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/tomorrow.min.css"
+    />
+
+    <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+    <script>
+      document.write(
+        '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/css/print/' +
+          (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper') +
+          '.css" type="text/css" media="print">'
+      );
+    </script>
+
+    <!--[if lt IE 9]>
+      <script src="reveal/lib/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- ----------------------------------------------------
+	    ---------------- PREZ STYLES  ---------------------------
+	    ------------------------------------------------------ -->
+
+    <link rel="stylesheet" type="text/css" href="./school-theme/css/sfeir-school-theme.css" id="theme" />
+    <script type="module" src="./school-theme/js/sfeir-theme.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="./css/speaker.css" id="theme-custo" />
+  </head>
+
+  <body>
+    <div class="reveal">
+      <!-- Any section element inside of this container is displayed as a slide -->
+      <div class="slides" data-type-show="prez">
+        <!-- #region School -->
+        <section
+          data-markdown="./markdown/00-school/00-TITLE.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/00-school/01-INTRO.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/00-school/speaker-jef.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/00-school/02-content.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region Intro -->
+        <section
+          data-markdown="./markdown/intro/00-TITLE.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/intro/contexte.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region Find a Subject -->
+        <section
+          data-markdown="./markdown/find-a-subject/00-TITLE.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/find-a-subject/rules.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/find-a-subject/exercice.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <section
+          data-markdown="./markdown/find-a-subject/got-subject.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region Comm -->
+        <section
+          data-markdown="./markdown/00-school/com.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region Where -->
+        <section
+          data-markdown="./markdown/where/where.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region CFP -->
+        <section
+          data-markdown="./markdown/cfp/cfp.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <!-- #region Slides -->
+        <section
+          data-markdown="./markdown/slides/00-slides.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        <!-- #endregion -->
+        <section
+          data-markdown="./markdown/prez.md"
+          data-separator="##==##"
+          data-separator-vertical="##--##"
+          data-separator-notes="^Notes:"
+        ></section>
+        
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/lib/js/head.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/js/reveal.js"></script>
+
+    <script src="reveal-config.js"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+.reveal .slides section {
+  /**
+    * Block Quote Management
+    */ }
+  .reveal .slides section blockquote {
+    box-shadow: initial;
+    font-size: 1.5em; }
+
+/*# sourceMappingURL=theme-add.css.map */

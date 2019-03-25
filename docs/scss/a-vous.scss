@@ -1,0 +1,16 @@
+.reveal .slides section.a-vous{
+    h1.top{
+        color:white;
+        font-size: 4em;
+        position: absolute;
+        top: 0px;
+        width: 100%;
+    }
+
+    h1.bandeau.block {
+        top: 50%;
+        right: -200px;
+        left: initial;
+        padding-right: 300px;
+    }
+}

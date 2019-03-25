@@ -1,0 +1,26 @@
+// Caveat
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('./fonts/caveat-regular.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Caveat';
+    src: url('./fonts/caveat-bold.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+.reveal .slides section {
+    h1.caveat{
+        font-family: 'Caveat';
+        position: absolute;
+        top: 150px;
+        left: 600px;
+        font-weight: 300;
+        font-size: 70px;
+        color: black;
+    }
+}

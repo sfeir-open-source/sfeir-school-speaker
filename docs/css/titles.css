@@ -1,0 +1,38 @@
+.reveal .slides section h1.big.thin {
+  font-weight: 400;
+  font-size: 100px; }
+
+.reveal .slides section h1.bandeau {
+  background: rgba(135, 135, 135, 0.8);
+  color: white;
+  font-weight: 400;
+  font-size: 100px;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  width: 150vw;
+  margin-left: -75vw; }
+
+.reveal .slides section h1.bandeau.block {
+  top: 50%;
+  left: -200px;
+  padding-left: 300px;
+  width: 700px;
+  height: 500px;
+  margin-left: initial;
+  margin-top: -150px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; }
+
+.reveal .slides section h1.big.thin.bottom {
+  position: absolute;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  width: 150vw;
+  margin-left: -75vw; }
+
+/*# sourceMappingURL=titles.css.map */
