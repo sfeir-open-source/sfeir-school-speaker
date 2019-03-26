@@ -13,5 +13,33 @@
         }
     }
 
+    &.no-style{
+        h1{
+            color:black;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 400;
+        }
+    }
+
+    &.history{
+        h1{
+            color:black;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 400;
+            font-size: 1em;
+            position: absolute;
+            left: 500px;
+            top: 300px;
+        }
+    }
+
+    .moteur{
+        width: 45%;
+        .box-moteur{
+            border: black thin solid;
+        }
+    }
+
+
 
 }

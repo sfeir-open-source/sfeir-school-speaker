@@ -136,9 +136,11 @@ Qui en plus, ont beaucoup de texte, c’est vraiment pas cool
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="no-background no-style"-->
 
-Mais pas sans style non plus
+<br><br><br>
+
+# Mais pas sans style non plus
 
 
 ##==##
@@ -146,30 +148,46 @@ Mais pas sans style non plus
 
 # Evitez aussi les Bullets Points
 
+<br><br>
 
-Si vous mettez des bullets points
-C’est que vous avez une idée à développer
-Par bullet Point
-En plus les participants cherchent à lire ce qui est écrit
-
+* Si vous mettez des bullets points
+* C’est que vous avez une idée à développer
+* Par bullet Point
+* En plus les participants cherchent à lire ce qui est écrit
 
 ##==##
 <!-- .slide:-->
+
+# Privilégiez la simplicité
+
+<br><br>
+
+<ul>
+<li>Si vous mettez des <strong>bullets points</strong></li>
+<li class="fragment">C’est que vous avez une <strong>idée à développer</strong></li>
+<li class="fragment">Par bullet Point</li>
+<li class="fragment">En plus les participants cherchent à lire ce qui est écrit</li>
+</ul>
+
+
+##==##
+<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+
 
 # Une Idée = 1 Slide
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
 
-# 2 Fonts Maxi
-Par slide
+
+<h1> 2 Fonts Maxi<br>
+Par slide</h1>
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_56.png"-->
 
-![](./assets/images/g3a864e7b0c_0_56.png)
 
 Notes:
 Les plans ne servent à rien, vous dérouler vos slides, mais pourquoi annoncer aux gens le programme ? y a déjà la description pour ça
@@ -177,12 +195,10 @@ Les plans ne servent à rien, vous dérouler vos slides, mais pourquoi annoncer 
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_36.png"-->
+<!-- .slide: data-background="./assets/images/g3d67955561_0_317.png" class="history"-->
 
-créez une histoire
+# créez une histoire
 
-
-![](./assets/images/g3d67955561_0_317.png)
 
 Notes:
 parler de la vision du talk et l’histoire que l’on doit écrire pour aller de l’étape A à l’étape Z
@@ -202,7 +218,7 @@ Aller y respirez !
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3d67955561_0_323.png"-->
+<!-- .slide: data-background="./assets/images/g3d67955561_0_323.gif"-->
 
 Notes:
 Aller y respirez !
@@ -210,123 +226,146 @@ Aller y respirez !
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+
+<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
 
 # MONTRER DU CODE OU UNE DÉMO
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: class="with-code-dark" -->
 
-Hello World.js
+# Hello World.js
 
 
-class HelloWorld {  constructor() {    // some comments  }
+```javascript
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
   myFunction() {
    console.log('hello world !');
- }}
+ }
+}
+```
+<!-- .element: class="big-code" -->
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: class="with-code-dark" -->
 
-Hello World.js
+# Hello World.js
 
 
-class HelloWorld {  constructor() {    // some comments  }
+```javascript
+class HelloWorld {
+
+
+
+
+
+
+}
+```
+<!-- .element: class="big-code" -->
+
+##==##
+<!-- .slide: class="with-code-dark" -->
+
+# Hello World.js
+
+
+```javascript
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
+
+
+
+}
+```
+<!-- .element: class="big-code" -->
+
+
+##==##
+<!-- .slide: class="with-code-dark" -->
+
+# Hello World.js
+
+
+```javascript
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
   myFunction() {
    console.log('hello world !');
- }}
+ }
+}
+```
+<!-- .element: class="big-code" -->
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: class="with-code" -->
 
-Hello World.js
+# Hello World.js
 
 
-class HelloWorld {  constructor() {    // some comments  }
+```javascript
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
   myFunction() {
    console.log('hello world !');
- }}
-
+ }
+}
+```
+<!-- .element: class="big-code" -->
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: class="with-code" -->
 
-Hello World.js
+# Hello World.js
 
 
-class HelloWorld {  constructor() {    // some comments  }
+```javascript
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
+  /*myFunction() {
+   console.log('hello world !');
+ }*/
+}
+```
+<!-- .element: class="big-code" -->
+
+##==##
+<!-- .slide: class="with-code" -->
+
+# Hello World.js
+
+
+```javascript
+class HelloWorld {
+  /*constructor() {
+  // some comments
+  }*/
   myFunction() {
    console.log('hello world !');
- }}
+ }
+}
+```
+<!-- .element: class="big-code" -->
 
 
 ##==##
 <!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
 
-Hello World.js
-
-
-class HelloWorld {  constructor() {    // some comments  }
-  myFunction() {
-   console.log('hello world !');
- }}
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
-
-Hello World.js
-
-
-class HelloWorld {  constructor() {    // some comments  }
-  myFunction() {
-   console.log('hello world !');
- }}
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
-
-Hello World.js
-
-
-class HelloWorld {  constructor() {    // some comments  }
-  myFunction() {
-   console.log('hello world !');
- }}
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
-
-Hello World.js
-
-
-class HelloWorld {  constructor() {    // some comments  }
- 
-
-}
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
-
-Hello World.js
-
-
-class HelloWorld {  constructor() {    // some comments  }
-  myFunction() {
-   console.log('hello world !');
- }}
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
-
-![](./assets/images/g3e2a33239d_1_0.png)
+![h-700 full-center](./assets/images/g3e2a33239d_1_0.png)
 
 Notes:
 même chose pour les démos
@@ -336,50 +375,48 @@ même chose pour les démos
 ##==##
 <!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
 
-![](./assets/images/g3e2a33239d_1_2.png)
+![h-700 full-center](./assets/images/crop_image.png)
 
-![](./assets/images/g3e2a33239d_1_6.png)
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-background="./assets/images/g3e2b346e48_0_83.png"-->
 
 # A propos du tooling
+<!-- .element: class="bandeau" -->
 
 
-![](./assets/images/g3e2b346e48_0_83.png)
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: -->
 
-Moteurs WYSIWYG 
+<div class="flex-row">
+  <div class="moteur">
+    <h2>Moteurs WYSIWYG</h2><br>
+    <div class="flex-row box-moteur">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_11.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_12.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_13.png">
+      <img class="h-50" src="./assets/images/g3a864e7b0c_0_25.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_26.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_27.png">
+    </div>
+  </div>
+  <div class="moteur">
+    <h2>Moteurs à coder</h2><br>
+    <div class="flex-row box-moteur">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_28.png">
+      <img class="h-50" src="./assets/images/g3a864e7b0c_0_14.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_15.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_17.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_18.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_19.png">
+    </div>
+  </div>
+</div>
 
 
-Moteurs à coder 
 
 
-![](./assets/images/g3a864e7b0c_0_11.png)
-
-![](./assets/images/g3a864e7b0c_0_12.png)
-
-![](./assets/images/g3a864e7b0c_0_13.png)
-
-![](./assets/images/g3a864e7b0c_0_14.png)
-
-![](./assets/images/g3a864e7b0c_0_15.png)
-
-![](./assets/images/g3a864e7b0c_0_17.png)
-
-![](./assets/images/g3a864e7b0c_0_18.png)
-
-![](./assets/images/g3a864e7b0c_0_19.png)
-
-![](./assets/images/g3a864e7b0c_0_25.png)
-
-![](./assets/images/g3a864e7b0c_0_26.png)
-
-![](./assets/images/g3a864e7b0c_0_27.png)
-
-![](./assets/images/g3a864e7b0c_0_28.png)
 
 Notes:
 les outils, ce n’est pas ça qui manque, il faut trouver l’outils qui nous correspond !
@@ -393,14 +430,20 @@ Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? ….
 ##==##
 <!-- .slide:-->
 
-Et pour les démos ?
+
+<div class="flex-row">
+  <div class="moteur">
+    <h2>Et pour les démos ?</h2><br>
+    <div class="flex-row box-moteur">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_474.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_475.png">
+      <img class="h-200" src="./assets/images/g3a864e7b0c_0_476.png">
+    </div>
+  </div>
+</div>
 
 
-![](./assets/images/g3a864e7b0c_0_474.png)
 
-![](./assets/images/g3a864e7b0c_0_475.png)
-
-![](./assets/images/g3a864e7b0c_0_476.png)
 
 Notes:
 Codemiror / Codepen / Vidéo enregistrée
@@ -413,13 +456,13 @@ Codemiror / Codepen / Vidéo enregistrée
 # Quelques exemples
 
 
-Template générique 
-Templates Spécifiques
-Devtools 2018
-Rex Jeux Video 2015
-HoudiniCSS 2018
-Avenir du Web 2018
-Polymer 2017
+* [Template générique](https://jef.binomed.fr/binomed_docs/Prezs/DevTools2016/index.html#/)
+* Templates Spécifiques
+ * [Devtools 2018](https://jef.binomed.fr/binomed_docs/Prezs/DevTools2018/index.html#/)
+ * [Rex Jeux Video 2015](https://jef.binomed.fr/binomed_docs/Prezs/GameOver/index.html#/)
+ * [HoudiniCSS 2018](https://jef.binomed.fr/binomed_docs/Prezs/HoudiniCss/index.html#/)
+ * [Avenir du Web 2018](https://jef.binomed.fr/binomed_docs/Prezs/CuttingEdgeWeb/index.html#/)
+ * [Polymer 2017](https://jef.binomed.fr/binomed_docs/Prezs/Polymer2Discovery/index.html#/)
 
 
 Notes:
@@ -433,10 +476,11 @@ revenir sur des exemples de templates que j’ai fait
 # Quelques ressources
 
 
-Thèmes Reveal JS : 
-https://slides.com/explore
-https://github.com/hakimel/reveal.js/wiki/Example-Presentations
-Google Slides Themes : 
-https://www.slidescarnival.com/
-Site d’image libres
-https://unsplash.com/ 
+* Thèmes Reveal JS :
+  * https://slides.com/explore
+  * https://github.com/hakimel/reveal.js/wiki/Example-Presentations
+* Google Slides Themes :
+  * https://www.slidescarnival.com/
+* Site d’image libres
+  * https://unsplash.com/
+  * https://www.pexels.com/

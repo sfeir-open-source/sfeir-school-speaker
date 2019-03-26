@@ -1,0 +1,29 @@
+.reveal .slides section.awefull-slide .big-text {
+  font-size: 1.5em;
+  font-weight: 600; }
+
+.reveal .slides section.awefull-slide blockquote {
+  width: 800px;
+  color: black;
+  background: orange; }
+
+.reveal .slides section.no-style h1 {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400; }
+
+.reveal .slides section.history h1 {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  font-size: 1em;
+  position: absolute;
+  left: 500px;
+  top: 300px; }
+
+.reveal .slides section .moteur {
+  width: 45%; }
+  .reveal .slides section .moteur .box-moteur {
+    border: black thin solid; }
+
+/*# sourceMappingURL=slides.css.map */
