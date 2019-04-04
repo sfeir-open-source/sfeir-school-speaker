@@ -58,15 +58,15 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* Présentation du speaker
+* Agenda
+* Introduction
+* Stats
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
@@ -75,15 +75,15 @@ Questions
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* Agenda
+* Introduction
+* Stats
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
@@ -92,15 +92,15 @@ Questions
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* Introduction
+* Stats
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
@@ -108,6 +108,7 @@ Questions
 
 # Introduction : Pourquoi nous devons nous intéresser à cette problématique compliquée
 
+<br>
 
 L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
 En effet, la complexité de compréhension fait qu’il nous au moins une présentation
@@ -120,15 +121,15 @@ Cette présentation s’adresse à toutes les personnes qui se posent des questi
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~ 
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* ~~Introduction~~
+* Stats
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
@@ -137,7 +138,7 @@ Questions
 # Des stats importantes !
 
 
-![](./assets/images/g3a864e7b0c_0_97.png)
+![full-center h-800](./assets/images/g3a864e7b0c_0_97.png)
 
 ##==##
 <!-- .slide:-->
@@ -145,7 +146,7 @@ Questions
 # D’autres statistiques
 
 
-![](./assets/images/g3a864e7b0c_0_103.png)
+![full-center h-800](./assets/images/g3a864e7b0c_0_103.png)
 
 ##==##
 <!-- .slide:-->
@@ -153,15 +154,15 @@ Questions
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* ~~Introduction~~
+* ~~Stats~~
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
@@ -170,7 +171,7 @@ Questions
 # Une formule compliquée
 
 
-![](./assets/images/g3a864e7b0c_0_109.png)
+![full-center h-500](./assets/images/g3a864e7b0c_0_109.png)
 
 Notes:
 Lire les notes sur ce slide !!
@@ -180,15 +181,19 @@ La limite matémathique de l’infini de 2 puissance 2 multiplié par n log 7 di
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="two-column-layout"-->
 
 # Explication d’un autre truc compliqué
+
+##--##
 
 
 Comprendre l’astronomie et les maths, ce n’est pas simple et parfois même on a du mal à comprendre pourquoi il faut que ça soit compliqué !
 
 
-![](./assets/images/g3a864e7b0c_0_125.png)
+##--##
+
+![h-500](./assets/images/g3a864e7b0c_0_125.png)
 
 ##==##
 <!-- .slide:-->
@@ -196,23 +201,24 @@ Comprendre l’astronomie et les maths, ce n’est pas simple et parfois même o
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* ~~Introduction~~
+* ~~Stats~~
+* ~~Des données~~
+* Du code
+* La conclusion
+* Questions
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="with-code"-->
 
 # Un slide de code qui compile car c’est important
 
 
+```java
 package com.binomed.showtime.android;
 
 import greendroid.app.GDApplication;
@@ -251,6 +257,7 @@ public class CineShowTimeApplication extends GDApplication {
 		return startIntent;
 	}
 }
+```
 
 
 ##==##
@@ -259,15 +266,15 @@ public class CineShowTimeApplication extends GDApplication {
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* ~~Introduction~~
+* ~~Stats~~
+* ~~Des données~~
+* ~~Du code~~
+* La conclusion
+* Questions
 
 
 ##==##
@@ -285,15 +292,15 @@ Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un reto
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* ~~Titre~~
+* ~~Présentation du speaker~~
+* ~~Agenda~~
+* ~~Introduction~~
+* ~~Stats~~
+* ~~Des données~~
+* ~~Du code~~
+* ~~La conclusion~~
+* Questions
 
 
 ##==##
@@ -302,11 +309,11 @@ Questions
 # C’est le moment d'interagir
 
 
+<br>
 Avec un peu de technologie c’est encore mieux
 
-
-
-![](./assets/images/g3a864e7b0c_0_152.png)
+<br>
+![full-center](./assets/images/g3a864e7b0c_0_152.png)
 
 ##==##
 <!-- .slide:-->
@@ -314,7 +321,7 @@ Avec un peu de technologie c’est encore mieux
 # On peut faire mieux
 
 
-![](./assets/images/g3a864e7b0c_0_158.png)
+![full-center h-600](./assets/images/g3a864e7b0c_0_158.png)
 
 Notes:
 On va revoir tout ça ensemble pour faire mieux, vous aller m’aider
@@ -328,45 +335,47 @@ Toujours  en 2 temps, le slide qui va pas, on interroge les gens et on fait mieu
 
 
 ##==##
+
 <!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
 
-La circonvolution de la planète terre dans le système solaire appliqué à la théorie des corps via des intégrales et fractales de courbes de beziers
+<br><br><br><br>
+
+# La circonvolution de la planète terre dans le système solaire appliqué à la théorie des corps via des intégrales et fractales de courbes de beziers
 
 
-Nantes le 15 juillet 2018
-Jean-François Garreau : Director Engineering Sfeir Nantes
+Nantes le 15 juillet 2018 <!--.element: class="center" --><br>
 
+Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="center" -->
+
+<br>
 
 Notes:
-
-
 Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que le titre soit compréhensible
 
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
 
-Simplification des enjeux astronomiques
+<br><br><br><br>
+
+# Simplification des enjeux astronomiques
 
 
-Nantes le 15/07/18
+Nantes le 15/07/18<!--.element: class="center" --><br>
 
 
 
 ##==##
-<!-- .slide:-->
 
 # Jean-François Garreau
 
 
-Bac S spé Math
-Diplôme d’ingénieur en informatique
-Travaillé pour beaucoup de société en informatique
-Travaillé en tant qu’ingénieur web dans beaucoup de société
-J’ai parlé dans beaucoup de conférence
-J’aime jongler
-
+* Bac S spé Math
+* Diplôme d’ingénieur en informatique
+* Travaillé pour beaucoup de société en informatique
+* Travaillé en tant qu’ingénieur web dans beaucoup de société
+* J’ai parlé dans beaucoup de conférence
+* J’aime jongler
 
 Notes:
 On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h sur le sujet !
@@ -374,26 +383,22 @@ On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h s
 
 
 ##==##
-<!-- .slide:-->
+
+<!-- .slide: class="speaker-slide" -->
 
 # Présentation
 
+![speaker](./assets/images/jf.jpg)
+![badge](./assets/images/gde.png)
 
-JF Garreau
-CTO front
-@jefBinomed
+## Jean-François Garreau
 
+### CTO front
 
+### @jefbinomed
 
-![](./assets/images/masque_photo.png)
+![company](./assets/images/logo_sfeir_bleu_orange.png)
 
-![](./assets/images/g3a864e7b0c_0_276.png)
-
-![](./assets/images/masque_photo.png)
-
-![](./assets/images/g3a864e7b0c_0_278.png)
-
-![](./assets/images/g3a864e7b0c_0_279.png)
 
 Notes:
 ce qui est important pour les gens : votre nom, votre boite (histoire de faire un peu de pub), un moyen de vous suivre
@@ -406,15 +411,15 @@ ce qui est important pour les gens : votre nom, votre boite (histoire de faire u
 # Agenda
 
 
-Titre
-Présentation du speaker
-Agenda
-Introduction
-Stats
-Des données
-Du code
-La conclusion
-Questions
+* Titre
+* Présentation du speaker
+* Agenda
+* Introduction
+* Stats
+* Des données
+* Du code
+* La conclusion
+* Questions
 
 
 Notes:
