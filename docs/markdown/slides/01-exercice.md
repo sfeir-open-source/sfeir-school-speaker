@@ -110,9 +110,9 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 <br>
 
-L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
+* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
 
 ##==##
@@ -433,9 +433,11 @@ Notes:
 # Introduction : Pourquoi nous devons nous intéresser à cette problématique compliquée
 
 
-L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+<br>
+
+* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
+* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
 
 Notes:
@@ -448,10 +450,11 @@ Pas de bullets points, rappel, 1 bullet point = une idée et surtout il ne faut 
 
 # Pourquoi ?
 
+<br>
 
-L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
+* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
 
 Notes:
@@ -464,10 +467,11 @@ on va réduire le texte affiché !
 
 # Pourquoi ?
 
+<br>
 
-Revenir sur les concepts
-En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* Revenir sur les **concepts**
+* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
 
 
@@ -481,22 +485,12 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 # Pourquoi ?
 
+<br>
 
-Revenir sur les concepts
-Besoin d’une présentation
-Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* Revenir sur les **concepts**
+* Besoin d’une présentation
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
-
-
-##==##
-<!-- .slide:-->
-
-# Pourquoi ?
-
-
-Revenir sur les concepts
-Besoin d’une présentation
-Pour qui ?
 
 
 ##==##
@@ -504,11 +498,24 @@ Pour qui ?
 
 # Pourquoi ?
 
+<br>
 
-Revenir sur les concepts
-Besoin d’une présentation
-Pour qui ?
+* Revenir sur les **concepts**
+* Besoin d’une présentation
+* Pour **qui** ?
 
+
+##==##
+<!-- .slide:-->
+
+# Pourquoi ?
+
+<br>
+<ul>
+<li class="fragment">Revenir sur les <strong>concepts</strong></li>
+<li class="fragment">Besoin d’une présentation</li>
+<li class="fragment">Pour <strong>qui ?</strong></li>
+</ul>
 
 Notes:
 avec une animation d’affichage
@@ -518,7 +525,8 @@ avec une animation d’affichage
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_6.png"-->
+<!-- .slide: class="transition-white sfeir-bg-red" -->
+
 
 # Pourquoi ?
 
@@ -529,9 +537,9 @@ Ou alternative : 1 idée = 1 slide
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="transition"-->
 
-Concept important 1
+# Concept important 1
 
 
 Notes:
@@ -540,12 +548,13 @@ Soit juste du texte
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_418.png" -->
 
-Concept important 2
+# Concept important 2
+<!-- .element: class="bandeau" -->
 
 
-![](./assets/images/g3a864e7b0c_0_418.png)
+![]()
 
 Notes:
 Une image peut aider à faire passer un message
@@ -555,17 +564,15 @@ Une image peut aider à faire passer un message
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="flex-row"-->
 
 # Des stats importantes !
 
 
-On ne peut rien dégager comme information !!
+![h-500](./assets/images/g3a864e7b0c_0_202.png)
+![h-500](./assets/images/g3a864e7b0c_0_358.png)
 
-
-![](./assets/images/g3a864e7b0c_0_202.png)
-
-![](./assets/images/g3a864e7b0c_0_358.png)
+**On ne peut rien dégager comme information !!**<!-- .element: class="fragment"  -->
 
 Notes:
 Il faut donc soit des unitées, soit guider le participant
@@ -578,7 +585,7 @@ Il faut donc soit des unitées, soit guider le participant
 # Une formule compliquée
 
 
-![](./assets/images/g3a864e7b0c_0_219.png)
+![full-center h-500](./assets/images/g3a864e7b0c_0_219.png)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -586,15 +593,19 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="two-column-layout"-->
 
 # Explication d’un autre truc compliqué
+
+##--##
 
 
 Comprendre l’astronomie et les maths, ce n’est pas simple et parfois même on a du mal à comprendre pourquoi il faut que ça soit compliqué !
 
 
-![](./assets/images/g3a864e7b0c_0_225.png)
+##--##
+
+![h-500](./assets/images/g3a864e7b0c_0_125.png)
 
 Notes:
 il faut éviter le gros bloc de texte qui doit apporter de l’info
@@ -616,11 +627,12 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="with-code"-->
 
 # Un slide de code qui compile car c’est important
 
 
+```java
 package com.binomed.showtime.android;
 
 import greendroid.app.GDApplication;
@@ -659,6 +671,7 @@ public class CineShowTimeApplication extends GDApplication {
 		return startIntent;
 	}
 }
+```
 
 
 Notes:
@@ -667,23 +680,24 @@ un slide de code ne doit pas compiler !!! on doit faire passer des messages !
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="with-code"-->
 
 # CineShowTimeApplication.java
 
-
+```java
 @ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
 public class CineShowTimeApplication extends GDApplication {
   public void onCreate() {...}
-  public Intent getMainApplicationIntent() {
-    if (Integer.valueOf(Build.VERSION.SDK) <= 10) {
-      startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN,
-         TestSizeOther.checkLargeScreen(
-           getResources().getConfiguration().screenLayout));
-    }
-		...
-	}
+  
+  
+  
+  
+  
+  
+
+
 }
+```
 
 
 Notes:
@@ -692,11 +706,11 @@ c’est mieux si on guide l’attention du participant
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: class="with-code"-->
 
 # CineShowTimeApplication.java
 
-
+```
 @ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
 public class CineShowTimeApplication extends GDApplication {
   public void onCreate() {...}
@@ -709,6 +723,7 @@ public class CineShowTimeApplication extends GDApplication {
 		...
 	}
 }
+```
 
 
 ##==##
@@ -726,9 +741,8 @@ le pavé ne sert pas à grand chose sur scène
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_411.png"-->
 
-![](./assets/images/g3a864e7b0c_0_411.png)
 
 Notes:
 Une image vaut mieux parfois que du texte afin de poser sa conclusion
@@ -741,25 +755,35 @@ Une image vaut mieux parfois que du texte afin de poser sa conclusion
 # C’est le moment d'interagir
 
 
+<br>
 Avec un peu de technologie c’est encore mieux
 
-
-
-![](./assets/images/g3a864e7b0c_0_256.png)
+<br>
+![full-center](./assets/images/g3a864e7b0c_0_152.png)
 
 ##==##
-<!-- .slide:-->
 
 # Des Questions ?
 
 
 
 https://l-url-de-mes-slides.com
+<!-- .element: class="center" -->
 
 @jefbinomed
+<!-- .element: class="center" -->
 
+<br>
 
 Notes:
 Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !
 
+##==##
 
+<!-- .slide: data-background="./assets/images/g3e2b341858_0_0.png"-->
+
+<h1 class="bandeau block">J’ai fini<br>mes slides !</h1>
+
+
+Notes:
+vient l’heure de la répet et de jouer ma prez

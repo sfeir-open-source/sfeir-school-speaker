@@ -13,6 +13,10 @@
   width: 150vw;
   margin-left: -75vw; }
 
+.reveal .slides section h1.bandeau.top {
+  top: 50px;
+  bottom: inherit; }
+
 .reveal .slides section h1.bandeau.block {
   top: 50%;
   left: -200px;
