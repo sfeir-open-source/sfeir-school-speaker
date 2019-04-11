@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "after.css",
+	"sources": [
+		"../scss/after.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAEI,OAFG,CAAC,OAAO,CAAC,OAAO,CAEnB,SAAS,CAAC,SAAS,CAAA;EACf,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,UAAU,GACzB"
+}

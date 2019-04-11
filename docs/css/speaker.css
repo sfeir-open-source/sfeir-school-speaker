@@ -155,4 +155,9 @@ Specifics
   .reveal .slides section .moteur .box-moteur {
     border: black thin solid; }
 
+.reveal .slides section .flex-row .mid-size {
+  width: 45%;
+  text-align: center;
+  align-self: flex-start; }
+
 /*# sourceMappingURL=speaker.css.map */
