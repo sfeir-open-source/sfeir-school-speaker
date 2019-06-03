@@ -7,7 +7,7 @@
     "sass": "node-sass ./scss/speaker.scss -o ./css/ --source-map=true --watch=\"scss\" --recursive=\"scss\"",
     "sass-once": "node-sass ./scss/speaker.scss -o ./css/ --source-map=true ",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "live-server --port=4242 --open=\"./index.html\" --watch=\"markdown/\"",
+    "serve": "live-server --port=4242 --open=\"./index_prez.html\" --watch=\"markdown/\"",
     "start": "parallelshell \"npm run serve\" \"npm run sass\""
   },
   "repository": {

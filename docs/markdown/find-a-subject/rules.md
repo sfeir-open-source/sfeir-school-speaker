@@ -34,7 +34,7 @@ Avoir un sujet, c’est bien, savoir combien de temps on comptes en parler c’e
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-type-show="prez"-->
 
 <h1> Lightning Talk <br> (5 - 15 min)</h1>
 
@@ -49,6 +49,7 @@ Temps idéal pour démarrer
 
 
 ##==##
+<!-- .slide: data-type-show="prez"-->
 
 <h1>Tools In Action <br>(30 min)</h1>
 
@@ -62,6 +63,7 @@ permet de démontrer un truc, live coding, démo live ...
 
 
 ##==##
+<!-- .slide: data-type-show="prez"-->
 
 <h1>Conference<br>(40 - 60 min)</h1>
 
@@ -75,7 +77,7 @@ on peut vite s’égarer
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-type-show="prez"-->
 
 <h1>University<br>(120 - 180 min)</h1>
 
@@ -88,7 +90,7 @@ très dur mais permet de rentrer dans un sujet à fond
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-type-show="prez"-->
 
 <h1>Hand’s On<br>(120 - 180 min)</h1>
 
@@ -99,3 +101,17 @@ Notes:
 bien car possède l’avantage de la proximité
 
 
+##==##
+<!-- .slide: data-type-show="full"-->
+
+# Les timings
+
+<img class="w-100" src="./assets/images/g3d67955561_0_76.png"><span>Lightning Talk (5 - 15 min)</span>
+
+<img class="w-100" src="./assets/images/g3d67955561_0_97.png"><span>Tools In Action (30 min)</span>
+
+<img class="w-100" src="./assets/images/g3d67955561_0_100.png"><span>Conference (40 - 60 min)</span>
+
+<img class="w-100" src="./assets/images/g3d67955561_0_98.png"><span>University (120 - 180 min)</span>
+
+<img class="w-100" src="./assets/images/g3d67955561_0_101.png"><span>Hand’s On (120 - 180 min)</span>

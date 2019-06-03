@@ -91,7 +91,7 @@ Discutez avec les conférenciers, discutez avec les organisateurs, c’est le me
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_3_7.png"-->
+<!-- .slide: data-background="./assets/images/g3e3083f2f8_3_7.png" data-type-show="prez"-->
 
 # Axes d’amélioration
 <!-- .element: class="bandeau" -->
@@ -104,6 +104,19 @@ Travailler ses slides
 Répéter
 
 Travailler son intro ...
+
+
+##==##
+<!-- .slide: data-type-show="full" -->
+
+# Axes d’amélioration
+
+<br><br>
+
+* Travailler ses slides
+* Faire de l'humour
+* Répéter
+* Travailler son intro ...
 
 
 

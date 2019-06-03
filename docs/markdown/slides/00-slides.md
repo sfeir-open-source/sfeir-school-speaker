@@ -23,7 +23,7 @@ Parler du concept de mindmap
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
 
 # QUI EST MON AUDITOIRE ?
 
@@ -31,10 +31,18 @@ Parler du concept de mindmap
 Notes:
 Public technique vs Public non tech
 
+##==##
+<!-- .slide:  data-type-show="full" -->
+
+# Qui est mon auditoire ?
+
+<br>
+
+Un public technique n’attendra pas la même chose qu’un public de décideurs !
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
 
 # QU’ATTENDENT-ILS ?
 
@@ -42,12 +50,37 @@ Public technique vs Public non tech
 Notes:
 Ils attendent ce qui est écrit dans la description de votre cfp
 
+##==##
+<!-- .slide: data-type-show="full" -->
+
+# Qu'attendent-tils ?
+
+
+<br>
+
+La réponse est simple :  Ils attendent ce qui est marqué dans la description de votre conférence ! 
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
 
 # SLIDES AUTOPORTEURS ?
+
+
+Notes:
+Le plus important,c’est quoi ? vous ? ou les slides ? Clairement dans une conférence, les slides ne sont qu’un support, le plus important c’est vous et votre discours
+
+
+
+##==##
+<!-- .slide: data-type-show="full" -->
+
+# Slides autoporteurs ?
+
+<br>
+
+Est ce que mes slides ont vocation à être relus ?
+
 
 
 Notes:

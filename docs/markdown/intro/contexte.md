@@ -59,7 +59,7 @@ on partage à ses collègues, on partage à sa famille, dès tout petit, on le f
 
 
 ##==##
-<!-- .slide: class="flex-row"-->
+<!-- .slide: class="flex-row" data-type-show="prez"-->
 
 # Les différents types de speakers.euses
 
@@ -77,6 +77,30 @@ Notes:
 du talk dans sa boite à la rock star
 
 Expliquer que rock star n’est pas un achivement mais qu’au sein de chaque niveau, on travaille des choses
+
+##==##
+<!-- .slide: class="flex-row" data-type-show="full"-->
+
+# Les différents types de speakers.euses
+
+<br><br>
+
+<p>
+<img class="h-300" src="./assets/images/g3d67955561_0_58.png"><span>Le débutant</span>
+<img class="h-300" src="./assets/images/g3d67955561_0_55.png"><span>Le nationnal  
+/ Internationnal
+</p>
+
+<p>
+<img class="h-300" src="./assets/images/g3d67955561_0_54.png"><span>Le Local</span>
+<img class="h-300" src="./assets/images/g3d67955561_0_57.png"><span>La Rockstar</span>
+</p>
+
+Notes:
+du talk dans sa boite à la rock star
+
+Expliquer que rock star n’est pas un achivement mais qu’au sein de chaque niveau, on travaille des choses
+
 
 
 

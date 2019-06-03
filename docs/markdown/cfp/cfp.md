@@ -19,7 +19,7 @@ très important de prendre du recul sur une soumission dans un cfp !! ce n’est
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center" data-type-show="prez"-->
 
 # LE TITRE DOIT DONNER ENVIE
 <!-- .element: class="center" -->
@@ -29,10 +29,18 @@ très important de prendre du recul sur une soumission dans un cfp !! ce n’est
 Notes:
 attention au titre il est le seul élément que la majorité des participants vont lire avant de  voir votre talk. Retour sur l’expérience talk “WebRTC”
 
+##==##
+<!-- .slide: data-type-show="full"-->
+
+# Le titre
+
+<br>
+
+Il doit être clair et expliquer ce que vous allez présenter ou alors, il doit être attirant !
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center" data-type-show="prez" -->
 
 # LA DESCRIPTION DÉCRIT LE CONTENU
 <!-- .element: class="center" -->
@@ -44,10 +52,23 @@ attention au titre il est le seul élément que la majorité des participants vo
 Notes:
 la description doit donner un avant gout de votre conférence sans pour autant tout dévoiller 
 
+##==##
+<!-- .slide:  data-type-show="full"-->
+
+# La description
+
+<br>
+
+Elle doit être suffisamment courte pour ne pas endormir les gens mais en  même temps suffisamment détaillée pour leur donner envie de venir.
+
+Il ne faut pas hésiter à dévoiler un peu son plan et le niveau de conférence afin que les participants sachent s’ils doivent venir ou non à votre conférence.
+
+**Attention, la description représente un contrat entre vous et le participant !**
+
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3d67955561_0_240.png"-->
+<!-- .slide: data-background="./assets/images/g3d67955561_0_240.png" data-type-show="prez" -->
 
 Notes:
 La description est donc un contrat que vous signez avec les participants !!
@@ -55,7 +76,7 @@ La description est donc un contrat que vous signez avec les participants !!
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center" data-type-show="prez" -->
 
 # PRENEZ LA PLACE DU PARTICIPANT
 <!-- .element: class="center" -->
@@ -66,10 +87,20 @@ La description est donc un contrat que vous signez avec les participants !!
 Notes:
 Prenez du recul et demandez à vos collègues : viendrais tu à mon sujet ?
 
+##==##
+<!-- .slide:  data-type-show="full"-->
+
+# Prenez la place du participant
+
+<br>
+
+
+Demandez-vous si vous iriez voir votre propre talk ? 
+
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center" data-type-show="prez" -->
 
 # PRENEZ LA PLACE DE L’ORGANISATEUR
 <!-- .element: class="center" -->
@@ -84,7 +115,7 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center"  data-type-show="prez" -->
 
 # DONNEZ DES RÉFÉRENCES
 <!-- .element: class="center" -->
@@ -94,12 +125,23 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 
 
 ##==##
-<!-- .slide: class="transition-center"-->
+<!-- .slide: class="transition-center"  data-type-show="prez" -->
 
 # NOTES POUR LES ORGANISATEURS
 <!-- .element: class="center" -->
 
 <br>
+
+##==##
+<!-- .slide:  data-type-show="full" -->
+
+# Aidez les organisateurs
+
+<br>
+
+* Donner des références de conférences déjà données
+* Donner le lien vers les slides s’ils sont dispo ou vers le repository pour un codelab
+* Expliquez en détail votre talk, le fond de votre pensée
 
 
 
