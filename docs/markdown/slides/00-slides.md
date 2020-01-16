@@ -259,7 +259,7 @@ Par slide</h1>
 <!-- .slide: class="sfeir-bg-white-4 transition-center" -->
 
 
-<h1> Pas plus de septs mots par ligne</h1>
+<h1> Pas plus de sept mots par ligne</h1>
 
 
 ##==##
@@ -267,7 +267,7 @@ Par slide</h1>
 
 
 Notes:
-Les plans ne servent à rien, vous dérouler vos slides, mais pourquoi annoncer aux gens le programme ? y a déjà la description pour ça
+Les plans ne servent à rien, vous déroulez vos slides, mais pourquoi annoncer aux gens le programme ? y a déjà la description pour ça
 
 
 
@@ -578,8 +578,8 @@ Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? ….
     <div class="flex-row box-moteur">
       <ul>
         <li class="fragment">Rapide à faire</li>
-        <li class="fragment">Ajustements plus rapide</li>
-        <li class="fragment">Animations facilités</li>
+        <li class="fragment">Ajustements plus rapides</li>
+        <li class="fragment">Animations facilitées</li>
         <li class="fragment">Collaboratifs ?</li>
       </ul>
     </div>
@@ -606,8 +606,8 @@ Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? ….
     <div class="flex-row box-moteur">
       <ul>
         <li>Rapide à faire</li>
-        <li>Ajustements plus rapide</li>
-        <li>Animations facilités</li>
+        <li>Ajustements plus rapides</li>
+        <li>Animations facilitées</li>
         <li>Collaboratifs ?</li>
       </ul>
     </div>
@@ -715,6 +715,11 @@ revenir sur des exemples de templates que j’ai fait
   * https://giphy.com/ 
 * Meme : 
   * https://imgflip.com/memegenerator 
+* Icônes GSlide : 
+  * [Streamline Emoji · SlidesCarnival Resources](https://docs.google.com/presentation/d/1v2XM3Z_fAgj6n5aoPShRI5ZCaG225zYN7XMVrX3hDCg/edit#slide=id.g4b939c0ebb_0_0)
+  * [Hand Drawn Goods Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1Cf1vCzduRI2JZ-WT28Z-b0GrpFB92JuIzE4p9zYCUZ0/edit#slide=id.g4b939c0ebb_0_0)
+  * [Font Awesome Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1TCvrxwB47vjFybod0aHIm8rlU-Kyv_E1myUfNvIm9Sc/edit?usp=sharing)
+  * [Feather Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1PCvf62Y_XWecLXll4Kqt7r9Rs5kNse5JQUddqG7BjZ8/edit?usp=sharing)
 
 
 ##==##
