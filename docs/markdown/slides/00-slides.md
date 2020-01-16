@@ -695,7 +695,8 @@ revenir sur des exemples de templates que j’ai fait
 * Google Slides Themes :
   * https://www.slidescarnival.com/
 * Templates PowerPoint, Keynote, Google Slides : 
-  * https://graphicalpanda.net
+  * https://graphicpanda.net
+  * https://slidesgo.com/
 * Site d’image libres
   * https://unsplash.com/
   * https://www.pexels.com/
