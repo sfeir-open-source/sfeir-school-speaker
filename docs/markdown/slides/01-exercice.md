@@ -797,5 +797,5 @@ vient l’heure de la répet et de jouer ma prez
 
 <h1 class="fragment bandeau block">-10 Slides<br>
 -1 Intro<br>
--1 Conclusion<br>
+-1 Conclusion<br>
 </h1>
