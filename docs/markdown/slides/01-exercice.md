@@ -690,15 +690,11 @@ public class CineShowTimeApplication extends GDApplication {
   public void onCreate() {...}
   
   
-  
-  
-  
-  
 
 
 }
 ```
-
+<!-- .element: class="big-code" -->
 
 Notes:
 c’est mieux si on guide l’attention du participant
@@ -724,7 +720,7 @@ public class CineShowTimeApplication extends GDApplication {
 	}
 }
 ```
-
+<!-- .element: class="big-code" -->
 
 ##==##
 <!-- .slide:-->
@@ -787,3 +783,19 @@ Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discu
 
 Notes:
 vient l’heure de la répet et de jouer ma prez
+
+##==##
+
+<!-- .slide: data-background="#fcec00" class="a-vous"-->
+
+![full-width-screen bottom](./assets/images/g3d67955561_0_107.png)
+
+
+# A VOUS !
+<!-- .element: class="top" -->
+
+
+<h1 class="fragment bandeau block">-10 Slides<br>
+-1 Intro<br>
+-1 Conclusion<br>
+</h1>
