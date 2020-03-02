@@ -131,7 +131,7 @@ Simple & Personnes essayent & n'y arrivent pas => Elles sont stupides !
 Préférez : 
 <!-- .element: class="center" -->
 <br>
-Juste pour la mémoire, $X parle de ...
+Juste pour mémoire, $X parle de ...
 <!-- .element: class="center" -->
 
 <br>
