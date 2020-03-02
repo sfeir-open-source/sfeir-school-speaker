@@ -1,11 +1,5 @@
-# Speaker 100
+# Speaker 200
 Sfeir School Speaker. This trainning will help people to speak in conference
-
-# WIP 
-
-The migration of the shcool is not finish !!
-
-# PWA 200
 
 A [SFEIR School](https://www.sfeir.com/formation/school/)
 
@@ -19,11 +13,8 @@ You can view the slides [here](https://sfeir-open-source.github.io/sfeir-school-
 
 # Run Slides
 
-    # Go to directory
-    `cd docs`
+## Install
+    `npm --prefix docs i`
 
-    # Install dependencies
-    `npm i`
-
-    # Run application
-    `npm start`
+## Run
+    `npm --prefix docs start`
