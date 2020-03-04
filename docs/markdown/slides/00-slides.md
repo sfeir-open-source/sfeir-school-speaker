@@ -722,6 +722,16 @@ revenir sur des exemples de templates que j’ai fait
   * [Font Awesome Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1TCvrxwB47vjFybod0aHIm8rlU-Kyv_E1myUfNvIm9Sc/edit?usp=sharing)
   * [Feather Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1PCvf62Y_XWecLXll4Kqt7r9Rs5kNse5JQUddqG7BjZ8/edit?usp=sharing)
 
+##==##
+
+# Autres ressources
+
+* Code helpers : 
+ * [Coloration syntaxique pour GSlides](https://romannurik.github.io/SlidesCodeHighlighter/)
+ * [Image depuis du code](https://carbon.now.sh/)
+ * [Highlight.js](https://highlightjs.org/)
+ * [Prism](https://prismjs.com/)
+
 
 ##==##
 <!-- .slide: data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
