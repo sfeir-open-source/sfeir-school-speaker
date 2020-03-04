@@ -115,3 +115,12 @@ bien car possède l’avantage de la proximité
 <img class="w-100" src="./assets/images/g3d67955561_0_98.png"><span>University (120 - 180 min)</span>
 
 <img class="w-100" src="./assets/images/g3d67955561_0_101.png"><span>Hand’s On (120 - 180 min)</span>
+
+##==##
+
+<!-- .slide:-->
+
+![full-center](./assets/images/g3d67955561_0_48.png)
+
+Notes:
+Retour sur la courbe et comment placer les timings dans la courbe
