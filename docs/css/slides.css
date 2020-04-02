@@ -21,6 +21,9 @@
   left: 500px;
   top: 300px; }
 
+.reveal .slides section#dark-theme-slide h1 {
+  color: orange; }
+
 .reveal .slides section .moteur {
   width: 45%; }
   .reveal .slides section .moteur .box-moteur {

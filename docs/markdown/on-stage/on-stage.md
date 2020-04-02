@@ -1,17 +1,15 @@
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_5.png"-->
+<!-- .slide: class="transition underline top" data-background="./assets/images/g3e2b346e48_0_5.png"-->
 
 # Le jour J
-<!-- .element: class="bandeau top" -->
 
 
 Notes:
 vous voilà arriver au jour J !
 
 ##==##
-<!-- .slide: data-background="./assets/images/amirali-mirhashemian-1299696-unsplash.jpg"-->
+<!-- .slide: class="transition top" data-background="./assets/images/amirali-mirhashemian-1299696-unsplash.jpg"-->
 
 # Évitez de trop manger
-<!-- .element: class="bandeau top" -->
 
 
 Notes:
@@ -20,10 +18,9 @@ Pour ne pas être trop lourd
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_0.png"-->
+<!-- .slide: class="transition top" data-background="./assets/images/g3a864e7b0c_0_0.png"-->
 
 # Chauffez-vous
-<!-- .element: class="bandeau top" -->
 
 
 Notes:
@@ -32,10 +29,9 @@ Il faut s’échauffer, faire des exercices de dictions, avoir une bouteille d�
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_19.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_19.png"-->
 
 # Se lancer
-<!-- .element: class="bandeau" -->
 
 
 Notes:
@@ -44,10 +40,9 @@ Notes:
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_43.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_43.png"-->
 
 # Attention à votre image
-<!-- .element: class="bandeau" -->
 
 
 Notes:
@@ -55,19 +50,17 @@ vous représentez votre société !! donc attention Nous ne sommes pas non plus 
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/black-and-white-elderly-grayscale-1266005.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/black-and-white-elderly-grayscale-1266005.jpg"-->
 
 # Que faire de ses mains ?
-<!-- .element: class="bandeau" -->
 
 Notes:
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/adorable-animal-cat-1645631.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/adorable-animal-cat-1645631.jpg"-->
 
 # Pensez à boire
-<!-- .element: class="bandeau" -->
 
 Notes:
 Il est important de boire afin de ne pas avoir la gorge sèche. Il faut donc tout le temps prévoir une bouteille d’eau
@@ -83,18 +76,16 @@ Notes:
 très pratique pour passer les slides
 
 ##==##
-<!-- .slide: data-background="./assets/images/cuddly-toy-smile-smiling-12211.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/cuddly-toy-smile-smiling-12211.jpg"-->
 
 # Souriez
-<!-- .element: class="bandeau" -->
 
 Notes:
 
 ##==##
-<!-- .slide: data-background="./assets/images/black-and-white-cry-crying-18494.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/black-and-white-cry-crying-18494.jpg"-->
 
 # Choses à ne pas dire
-<!-- .element: class="bandeau" -->
 
 Notes:
 Tout ne sera pas forcément destructeur ! 
@@ -161,7 +152,7 @@ Si on peut pas l'utiliser => On est pas tout le monde ?
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 # Très bon article sur le sujet
 
@@ -172,17 +163,15 @@ https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-ev
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/blur-chart-check-up-415779.jpg"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/blur-chart-check-up-415779.jpg"-->
 
 # Changez de rythme
-<!-- .element: class="bandeau" -->
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_50.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_50.png"-->
 
 # Posez des questions
-<!-- .element: class="bandeau" -->
 
 
 
@@ -192,17 +181,15 @@ celà permet de resyncrhoniser le public avec soi
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_57.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_57.png"-->
 
 # Osez dire : je ne sais pas
-<!-- .element: class="bandeau" -->
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/alarm-clock-art-background-1037993.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/alarm-clock-art-background-1037993.jpg"-->
 
 # Gérez votre timing
-<!-- .element: class="bandeau" -->
 
 
 Notes:
@@ -210,10 +197,9 @@ Pour cela, il est important de bien avoir ses slides en tête et d’avoir ses �
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_64.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_64.png"-->
 
 # Expliquez ce que vous faites
-<!-- .element: class="bandeau" -->
 
 
 Notes:
@@ -222,10 +208,9 @@ ne laissez pas le public dans le flou, il ne voient pas ce que vous faites, donc
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_71.png"-->
+<!-- .slide: class="transition top" data-background="./assets/images/g3e2b346e48_0_71.png"-->
 
 # Ayez un plan B
-<!-- .element: class="bandeau top" -->
 
 Notes:
 la démo ne marchera jamais donc penser à plan B, la vidéo est souvent un bon plan B ;)

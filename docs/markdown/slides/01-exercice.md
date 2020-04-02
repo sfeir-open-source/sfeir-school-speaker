@@ -1,4 +1,4 @@
-<!-- .slide: data-background="./assets/images/g15645683e6_0_6.png" class="transition-white"-->
+<!-- .slide: data-background="./assets/images/g15645683e6_0_6.png" class="transition"-->
 
 # CAS PRATIQUE
 
@@ -9,7 +9,7 @@ On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: -->
 
 <br><br><br><br>
 
@@ -336,9 +336,10 @@ Toujours  en 2 temps, le slide qui va pas, on interroge les gens et on fait mieu
 
 ##==##
 
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+<!-- .slide: -->
 
 <br><br><br><br>
+
 
 # La circonvolution de la planète terre dans le système solaire appliqué à la théorie des corps via des intégrales et fractales de courbes de beziers
 
@@ -384,20 +385,22 @@ On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h s
 
 ##==##
 
-<!-- .slide: class="speaker-slide" -->
+<!-- .slide: class="speaker-slide" data-type-show="prez" -->
 
 # Présentation
 
 ![speaker](./assets/images/jf.jpg)
 ![badge](./assets/images/gde.png)
 
-## Jean-François Garreau
+<h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
+<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
+<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo_sfeir_bleu_orange.png)
+![company](./assets/images/logo-sfeir-blanc.png)
 
 
 Notes:
@@ -525,7 +528,7 @@ avec une animation d’affichage
 
 
 ##==##
-<!-- .slide: class="transition-white sfeir-bg-red" -->
+<!-- .slide: class="transition bg-pink" -->
 
 
 # Pourquoi ?
@@ -548,10 +551,9 @@ Soit juste du texte
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_418.png" -->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3a864e7b0c_0_418.png" -->
 
 # Concept important 2
-<!-- .element: class="bandeau" -->
 
 
 ![]()

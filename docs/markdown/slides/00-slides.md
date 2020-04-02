@@ -1,7 +1,6 @@
-<!-- .slide: data-background="./assets/images/g3d67955561_0_202.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_202.png"-->
 
 # Bien préparer ses slides
-<!-- .element: class="bandeau" -->
 
 ##==##
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_0.png"-->
@@ -17,13 +16,13 @@ Parler du concept de mindmap
 
 
 ##==##
-<!-- .slide: class="transition-white sfeir-bg-red"-->
+<!-- .slide: class="transition bg-pink"-->
 
 # POSEZ-VOUS CES QUESTIONS :
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
+<!-- .slide: class="transition bg-white" data-type-show="prez" -->
 
 # QUI EST MON AUDITOIRE ?
 
@@ -42,7 +41,7 @@ Un public technique n’attendra pas la même chose qu’un public de décideurs
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
+<!-- .slide: class="bg-white transition" data-type-show="prez" -->
 
 # QU’ATTENDENT-ILS ?
 
@@ -62,7 +61,7 @@ La réponse est simple :  Ils attendent ce qui est marqué dans la description d
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" data-type-show="prez" -->
+<!-- .slide: class="bg-white transition" data-type-show="prez" -->
 
 # SLIDES AUTOPORTEURS ?
 
@@ -135,10 +134,9 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 <!-- .slide: data-background="black"-->
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_3_26.png"-->
+<!-- .slide:  class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
 
 # Tuez des chiots
-<!-- .element: class="bandeau" -->
 
 
 <br>
@@ -149,10 +147,9 @@ Il faut supprimer ces idées qu’on a qui font qu’on va déborder
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png" class="transition-center"-->
+<!-- .slide: class="transition"-->
 
 # MISEZ SUR LA SIMPLICITÉ
-<!-- .element: class="center" -->
 
 <br>
 
@@ -195,7 +192,7 @@ Qui en plus, ont beaucoup de texte, c’est vraiment pas cool
 # Mais pas sans style non plus
 
 ##==##
-<!-- .slide: data-background="#434343"-->
+<!-- .slide: data-background="#434343" id="dark-theme-slide"-->
 
 <br><br><br>
 
@@ -205,7 +202,7 @@ Notes:
 Car au niveau contraste ça passe pas toujours !!
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 
 <h1>Attention aux contrastes <br><a href="https://contrast-ratio.com" target="_blank">https://contrast-ratio.com</a></h1>
@@ -242,33 +239,33 @@ Car au niveau contraste ça passe pas toujours !!
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 
 # Une Idée = 1 Slide
 
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 
 <h1> 2 Fonts Maxi<br>
 Par slide</h1>
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 
 <h1> Pas plus de sept mots par ligne</h1>
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_56.png"-->
+
+<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_56.png" -->
 
 
 Notes:
 Les plans ne servent à rien, vous déroulez vos slides, mais pourquoi annoncer aux gens le programme ? y a déjà la description pour ça
-
 
 
 ##==##
@@ -304,7 +301,7 @@ Aller y respirez !
 
 ##==##
 
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 # MONTRER DU CODE OU UNE DÉMO
 
@@ -440,7 +437,7 @@ class HelloWorld {
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+
 
 ![h-700 full-center](./assets/images/g3e2a33239d_1_0.png)
 
@@ -450,14 +447,14 @@ même chose pour les démos
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g15645683e6_0_32.png"-->
+
 
 ![h-700 full-center](./assets/images/crop_image.png)
 
 
 ##==##
 
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 # DOIS JE METTRE UN SLIDE D'INTRO ?
 
@@ -470,13 +467,15 @@ même chose pour les démos
 ![speaker](./assets/images/jf.jpg)
 ![badge](./assets/images/gde.png)
 
-## Jean-François Garreau
+<h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
+<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
+<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo_sfeir_bleu_orange.png)
+![company](./assets/images/logo-sfeir-blanc.png)
 
 Notes:
 Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontacter / Pub
@@ -503,17 +502,15 @@ Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontact
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/alex-413259-unsplash.jpg" data-type-show="full" -->
+<!-- .slide: class="transition underline top" data-background="./assets/images/alex-413259-unsplash.jpg" data-type-show="full" -->
 
 # N'oubliez pas de conclure
-<!-- .element: class="bandeau top" -->
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a83c5854a_0_5.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3a83c5854a_0_5.png"-->
 
 # Quand terminer ses slides ?
-<!-- .element: class="bandeau" -->
 
 <br>
 
@@ -521,10 +518,9 @@ Notes:
 Au moins 1 semaine avant, la deadline n’est pas le jour de la prez mais 1 semaine avant ! ça nous permet d’être plus serein, de répéter, de faire des ajustements
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e2b346e48_0_83.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_83.png"-->
 
 # A propos du tooling
-<!-- .element: class="bandeau" -->
 
 
 
@@ -734,13 +730,12 @@ revenir sur des exemples de templates que j’ai fait
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
+<!-- .slide: class="transition" data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
 
 # Que vérifier pour son template ?
-<!-- .element: class="bandeau" -->
 
 ##==##
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 
 # Un slide de titre
@@ -757,13 +752,15 @@ revenir sur des exemples de templates que j’ai fait
 ![speaker](./assets/images/jf.jpg)
 ![badge](./assets/images/gde.png)
 
-## Jean-François Garreau
+<h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
+<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
+<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo_sfeir_bleu_orange.png)
+![company](./assets/images/logo-sfeir-blanc.png)
 
 Notes:
 Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontacter / Pub
@@ -776,13 +773,12 @@ Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontact
 avec du contenu classique
 
 ##==##
-<!-- .slide: data-background="./assets/images/memories-nostalgic-people-5842.jpg"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/memories-nostalgic-people-5842.jpg"-->
 
 # Du contenu avec une image
-<!-- .element: class="bandeau" -->
 
 ##==##
-<!-- .slide: class="sfeir-bg-red transition-white" -->
+<!-- .slide: class="bg-pink transition" -->
 
 
 # Slide de transition
@@ -797,7 +793,7 @@ avec du contenu classique
 
 ##==##
 
-<!-- .slide: class="sfeir-bg-white-4 transition-center" -->
+<!-- .slide: class="bg-white transition" -->
 
 # Merci
 

@@ -32,6 +32,6 @@
     "node-sass": "^4.11.0",
     "parallelshell": "3.0.1",
     "reveal.js": "^3.7.0",
-    "sfeir-school-theme": "^1.0.0"
+    "sfeir-school-theme": "^2.0.0-rc"
   }
 }

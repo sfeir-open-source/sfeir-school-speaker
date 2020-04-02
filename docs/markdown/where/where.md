@@ -1,8 +1,7 @@
 
-<!-- .slide: data-background="./assets/images/g3d67955561_0_120.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_120.png"-->
 
 # Où aller ?
-<!-- .element: class="bandeau" -->
 
 
 Notes:

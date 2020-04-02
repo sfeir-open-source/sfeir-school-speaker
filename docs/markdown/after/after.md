@@ -1,8 +1,7 @@
-<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_440.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3a864e7b0c_0_440.png"-->
 
 
 # Publiez votre présentation
-<!-- .element: class="bandeau" -->
 
 ##==##
 
@@ -34,10 +33,9 @@ SlideShare / SpeakerDeck / Github Pages / ...
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_0_3.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_0_3.png"-->
 
 # Sachez marquer des points
-<!-- .element: class="bandeau" -->
 
 
 ##==##
@@ -54,10 +52,9 @@ Ne pas se limiter qu’à sa ville ! aller parler dans une autre ville montre qu
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_0_16.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_0_16.png"-->
 
 # Réseaux sociaux
-<!-- .element: class="bandeau" -->
 
 
 
@@ -67,10 +64,9 @@ Soyez présent sur les réseaux sociaux, ayez du contenu de qualité
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_1_8.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_1_8.png"-->
 
 # Blog
-<!-- .element: class="bandeau" -->
 
 
 Notes:
@@ -79,10 +75,9 @@ Ayez éventuellement un blog, aujourd’hui Medium vous permet d’avoir une pr�
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_3_0.png"-->
+<!-- .slide: class="transition top" data-background="./assets/images/g3e3083f2f8_3_0.png"-->
 
 # Développez votre réseau
-<!-- .element: class="bandeau top" -->
 
 
 Notes:
@@ -91,10 +86,9 @@ Discutez avec les conférenciers, discutez avec les organisateurs, c’est le me
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3e3083f2f8_3_7.png" data-type-show="prez"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_3_7.png" data-type-show="prez"-->
 
 # Axes d’amélioration
-<!-- .element: class="bandeau" -->
 
 
 

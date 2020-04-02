@@ -19,10 +19,9 @@ très important de prendre du recul sur une soumission dans un cfp !! ce n’est
 
 
 ##==##
-<!-- .slide: class="transition-center" data-type-show="prez"-->
+<!-- .slide: class="transition" data-type-show="prez"-->
 
 # LE TITRE DOIT DONNER ENVIE
-<!-- .element: class="center" -->
 
 <br>
 
@@ -40,10 +39,9 @@ Il doit être clair et expliquer ce que vous allez présenter ou alors, il doit 
 
 
 ##==##
-<!-- .slide: class="transition-center" data-type-show="prez" -->
+<!-- .slide: class="transition" data-type-show="prez" -->
 
 # LA DESCRIPTION DÉCRIT LE CONTENU
-<!-- .element: class="center" -->
 
 <br>
 
@@ -76,10 +74,9 @@ La description est donc un contrat que vous signez avec les participants !!
 
 
 ##==##
-<!-- .slide: class="transition-center" data-type-show="prez" -->
+<!-- .slide: class="transition" data-type-show="prez" -->
 
 # PRENEZ LA PLACE DU PARTICIPANT
-<!-- .element: class="center" -->
 
 <br>
 
@@ -100,10 +97,9 @@ Demandez-vous si vous iriez voir votre propre talk ?
 
 
 ##==##
-<!-- .slide: class="transition-center" data-type-show="prez" -->
+<!-- .slide: class="transition" data-type-show="prez" -->
 
 # PRENEZ LA PLACE DE L’ORGANISATEUR
-<!-- .element: class="center" -->
 
 <br>
 
@@ -115,20 +111,18 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 
 
 ##==##
-<!-- .slide: class="transition-center"  data-type-show="prez" -->
+<!-- .slide: class="transition"  data-type-show="prez" -->
 
 # DONNEZ DES RÉFÉRENCES
-<!-- .element: class="center" -->
 
 <br>
 
 
 
 ##==##
-<!-- .slide: class="transition-center"  data-type-show="prez" -->
+<!-- .slide: class="transition"  data-type-show="prez" -->
 
 # NOTES POUR LES ORGANISATEURS
-<!-- .element: class="center" -->
 
 <br>
 
@@ -146,10 +140,9 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a83c5854a_0_5.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3a83c5854a_0_5.png"-->
 
 # Attention aux deadlines !
-<!-- .element: class="bandeau" -->
 
 <br>
 
