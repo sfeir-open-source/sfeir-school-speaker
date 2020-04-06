@@ -1,8 +1,10 @@
-.reveal .slides section h1.big.thin {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin {
+  text-align: center;
   font-weight: 400;
-  font-size: 100px; }
+  font-size: 100px;
+  color: #dd3355; }
 
-.reveal .slides section h1.bandeau {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau {
   background: rgba(135, 135, 135, 0.8);
   color: white;
   font-weight: 400;
@@ -13,11 +15,11 @@
   width: 150vw;
   margin-left: -75vw; }
 
-.reveal .slides section h1.bandeau.top {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.top {
   top: 50px;
   bottom: inherit; }
 
-.reveal .slides section h1.bandeau.block {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.block {
   top: 50%;
   left: -200px;
   padding-left: 300px;
@@ -31,7 +33,7 @@
   justify-content: center;
   align-items: flex-start; }
 
-.reveal .slides section h1.big.thin.bottom {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin.bottom {
   position: absolute;
   position: absolute;
   bottom: -50px;

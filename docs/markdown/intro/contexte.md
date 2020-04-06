@@ -32,10 +32,9 @@ On a tendance à se sous estimer
 
 ##==##
 
-<!-- .slide: data-background="./assets/images/g3d67955561_0_26.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_26.png"-->
 
 # Pourtant on aime partager
-<!-- .element: class="bandeau" -->
 
 <br>
 

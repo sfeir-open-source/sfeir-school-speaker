@@ -8,10 +8,9 @@ expliquer le principe de la courbe du hype
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a864e7b0c_0_496.png"-->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3a864e7b0c_0_496.png"-->
 
 # Seul ou accompagné ?
-<!-- .element: class="bandeau" -->
 
 Notes:
 Ne pas hésité à présenter un sujet à 2  car c’est aussi gage de dynamisme

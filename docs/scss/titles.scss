@@ -1,7 +1,9 @@
-.reveal .slides section {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) {
     h1.big.thin{
+        text-align: center;
         font-weight: 400;
         font-size: 100px;
+        color:#dd3355;
     }
     
     h1.bandeau {

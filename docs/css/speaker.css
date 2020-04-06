@@ -43,11 +43,13 @@ To integrate to theme
 /** 
 Specifics
 */
-.reveal .slides section h1.big.thin {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin {
+  text-align: center;
   font-weight: 400;
-  font-size: 100px; }
+  font-size: 100px;
+  color: #dd3355; }
 
-.reveal .slides section h1.bandeau {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau {
   background: rgba(135, 135, 135, 0.8);
   color: white;
   font-weight: 400;
@@ -58,11 +60,11 @@ Specifics
   width: 150vw;
   margin-left: -75vw; }
 
-.reveal .slides section h1.bandeau.top {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.top {
   top: 50px;
   bottom: inherit; }
 
-.reveal .slides section h1.bandeau.block {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.block {
   top: 50%;
   left: -200px;
   padding-left: 300px;
@@ -76,7 +78,7 @@ Specifics
   justify-content: center;
   align-items: flex-start; }
 
-.reveal .slides section h1.big.thin.bottom {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin.bottom {
   position: absolute;
   position: absolute;
   bottom: -50px;
@@ -118,13 +120,14 @@ Specifics
   left: initial;
   padding-right: 300px; }
 
-.reveal .slides section.cfp.title h1 {
+.reveal .slides section.cfp:not(.stack):not(.specific-slide):not([class*=transition]).title h1 {
   margin-top: 350px;
   text-align: left;
   padding-left: 250px;
-  width: 500px; }
+  width: 500px;
+  color: white; }
 
-.reveal .slides section.cfp.transition-center h1.center {
+.reveal .slides section.cfp:not(.stack):not(.specific-slide):not([class*=transition]).transition-center h1.center {
   text-align: center; }
 
 .reveal .slides section.awefull-slide .big-text {
@@ -149,6 +152,9 @@ Specifics
   position: absolute;
   left: 500px;
   top: 300px; }
+
+.reveal .slides section#dark-theme-slide h1 {
+  color: orange; }
 
 .reveal .slides section .moteur {
   width: 45%; }
