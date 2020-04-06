@@ -152,6 +152,14 @@ Ne jamais attendre le dernier moment pour soumettre !!!
 On a pas le temps de faire une review correcte !
 
 ##==##
+
+<!-- .slide: class="full-center" -->
+
+# Attention aux deadlines !
+
+![h-800](./assets/images/chart_deadline.png)
+
+##==##
 <!-- .slide: data-background="#fcec00" class="a-vous"-->
 
 ![full-width-screen bottom](./assets/images/g3d67955561_0_107.png)
