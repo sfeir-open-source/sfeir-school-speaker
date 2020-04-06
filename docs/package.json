@@ -8,14 +8,17 @@
     "sass-once": "node-sass ./scss/speaker.scss -o ./css/ --source-map=true ",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "live-server --port=4242 --open=\"./index_prez.html\" --watch=\"markdown/\"",
-    "start": "parallelshell \"npm run serve\" \"npm run sass\""
+    "start": "parallelshell \"npm run serve\" \"npm run sass\"",
+    "copy-highlight": "cpx \"node_modules/highlight.js/styles/**/*\" \"web_modules/highlight.js/styles\" ",
+    "copy-reveal": "cpx \"node_modules/reveal.js/**/*\" \"web_modules/reveal.js\" ",
+    "prepare": "parallelshell \"npm run copy-reveal\"  \"npm run copy-highlight\" \"snowpack\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sfeir-open-source/sfeir-school-speaker.git"
   },
   "keywords": [
-    "pwa",
+    "speaker",
     "sfeir"
   ],
   "author": "jefbinomed",
@@ -25,13 +28,23 @@
   },
   "homepage": "https://github.com/sfeir-open-source/sfeir-school-speaker#readme",
   "dependencies": {
-    "chokidar-cli": "^1.2.1",
+    "highlight.js": "^9.15.6",
+    "lit-html": "^1.2.1",
+    "reveal.js": "^3.9.2",
+    "sfeir-school-theme": "^2.0.1"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^1.2.2",
     "cpx": "^1.5.0",
-    "highlight.js": "^9.13.1",
     "live-server": "^1.2.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.12.0",
     "parallelshell": "3.0.1",
-    "reveal.js": "^3.7.0",
-    "sfeir-school-theme": "^2.0.0-rc"
+    "snowpack": "^1.6.0"
+  },
+  "snowpack": {
+    "webDependencies": [
+      "sfeir-school-theme/dist/**/*",
+      "lit-html"
+    ]
   }
 }

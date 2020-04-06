@@ -310,9 +310,11 @@ Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un reto
 
 
 <br>
+
 Avec un peu de technologie c’est encore mieux
 
 <br>
+
 ![full-center](./assets/images/g3a864e7b0c_0_152.png)
 
 ##==##
@@ -754,9 +756,11 @@ Une image vaut mieux parfois que du texte afin de poser sa conclusion
 
 
 <br>
+
 Avec un peu de technologie c’est encore mieux
 
 <br>
+
 ![full-center](./assets/images/g3a864e7b0c_0_152.png)
 
 ##==##

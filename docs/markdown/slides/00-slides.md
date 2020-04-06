@@ -163,19 +163,19 @@ Il faut supprimer ces idées qu’on a qui font qu’on va déborder
 
 
 <p class="float-left">
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100">
 </p>
 
 <p class="float-right">
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)<br>
-![h-100](./assets/images/logo_sfeir_bleu_orange.png)
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
+<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100">
 </p>
 
 >Evitez les slides trop chargés !

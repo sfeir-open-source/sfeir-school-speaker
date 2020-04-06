@@ -96,13 +96,16 @@ Même si l'audience est composée d'expert
 ##==##
 
 <br>
+
 > C'est facile
 <!-- .element: class="center" -->
 
 <br><br>
+
 Préférez : 
 <!-- .element: class="center" -->
 <br>
+
 Voici quelques étapes pour y arriver…
 La manière de faire cela est ...
 <!-- .element: class="center" -->
@@ -115,17 +118,22 @@ Simple & Personnes essayent & n'y arrivent pas => Elles sont stupides !
 ##==##
 
 <br>
+
 > Je vais le répéter rapidement, pour ceux qui ne savent pas
 <!-- .element: class="center" -->
 
 <br><br>
+
 Préférez : 
+
 <!-- .element: class="center" -->
 <br>
+
 Juste pour mémoire, $X parle de ...
 <!-- .element: class="center" -->
 
 <br>
+
 Notes: 
 Suppose que tout le monde dans la salle est déjà dans le même délire
 Donc ceux qui n'y sont pas ce sentent déprécier. Si l'idée est faire une intro rapide vaut mieux récap
@@ -133,17 +141,22 @@ Donc ceux qui n'y sont pas ce sentent déprécier. Si l'idée est faire une intr
 ##==##
 
 <br>
+
 >Tout le monde peut faire ça
 <!-- .element: class="center" -->
 
 <br><br>
+
 Préférez : 
 <!-- .element: class="center" -->
+
 <br>
+
 Si vous connaissez une façon de faire $x, $y et $z, vous pourrez trouver simple de faire ...
 <!-- .element: class="center" -->
 
 <br>
+
 Notes: 
 Si c'est si simple pourquoi m'écouter ?
 Pourquoi je l'ai pas déjà fait ?
