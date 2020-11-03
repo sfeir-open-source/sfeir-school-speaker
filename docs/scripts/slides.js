@@ -10,18 +10,18 @@ function schoolSlides() {
 
 function introSlides() {
   return [
-  'intro/00-TITLE.md',
-  'intro/contexte.md',
+  '01-intro/00-TITLE.md',
+  '01-intro/01-contexte.md',
   ];
 }
 
 function findASubject(){
   return[
-    'find-a-subject/00-TITLE.md',
-    'find-a-subject/rules.md',
-    'find-a-subject/being-pertinent.md',
-    'find-a-subject/exercice.md',
-    'find-a-subject/got-subject.md',
+    '02-find-a-subject/00-TITLE.md',
+    '02-find-a-subject/01-rules.md',
+    '02-find-a-subject/02-being-pertinent.md',
+    '02-find-a-subject/03-exercice.md',
+    '02-find-a-subject/99-got-subject.md',
   ]
 }
 
@@ -33,33 +33,33 @@ function comm(){
 
 function where(){
   return[
-    'where/where.md',
+    '03-where/01-where.md',
   ];
 }
 
 function cfp(){
   return[
-    'cfp/cfp.md',
+    '04-cfp/01-cfp.md',
   ];
 }
 
 function slides(){
  return [
-   'slides/00-slides.md',
-   'slides/01-exercice.md',
+   '05-slides/00-slides.md',
+   '05-slides/01-exercice.md',
  ];
 }
 
 function onStage(){
   return [
-    'on-stage/repetition.md',
-    'on-stage/on-stage.md',
+    '06-on-stage/01-repetition.md',
+    '06-on-stage/02-on-stage.md',
   ]
 }
 
 function after(){
   return [
-    'after/after.md',
+    '07-after/01-after.md',
   ]
 }
 
