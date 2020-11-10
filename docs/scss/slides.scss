@@ -1,4 +1,4 @@
-.reveal .slides section {
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition])  {
 
     &.awefull-slide{
         .big-text{
@@ -26,24 +26,31 @@
             color:black;
             font-family: 'Courier New', Courier, monospace;
             font-weight: 400;
-            font-size: 1em;
+            font-size: 1.1em;
             position: absolute;
-            left: 500px;
-            top: 300px;
+            left: 400px;
+            top: 200px;
         }
     }
 
+    
     &#dark-theme-slide h1{
         color: orange;
     }
-
+    
     .moteur{
         width: 45%;
         .box-moteur{
             border: black thin solid;
         }
     }
+    
+}
 
-
-
+.reveal .slides section[class*="transition"].bg-white {
+    &.no-more-seven-words{
+        h1{
+            font-size: 2.9em;
+        }
+    }
 }

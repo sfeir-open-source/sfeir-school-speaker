@@ -253,7 +253,7 @@ Car au niveau contraste ça passe pas toujours !!
 Par slide</h1>
 
 ##==##
-<!-- .slide: class="bg-white transition" -->
+<!-- .slide: class="bg-white transition no-more-seven-words" -->
 
 
 <h1> Pas plus de sept mots par ligne</h1>
