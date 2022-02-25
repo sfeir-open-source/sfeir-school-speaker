@@ -157,7 +157,7 @@ On a pas le temps de faire une review correcte !
 
 # Attention aux deadlines !
 
-![h-800](./assets/images/chart_deadline.png)
+![h-800](./assets/images/courbe-cfp.png)
 
 ##==##
 <!-- .slide: data-background="#fcec00" class="a-vous"-->

@@ -35,7 +35,21 @@ Avoir un sujet, c’est bien, savoir combien de temps on comptes en parler c’e
 ##==##
 <!-- .slide: data-type-show="prez"-->
 
-<h1> Lightning Talk <br> (5 - 15 min)</h1>
+<h1> Lightning Talk <br> (5min)</h1>
+
+
+<br>
+
+![w-500 center](./assets/images/g3d67955561_0_76.png)
+
+Notes:
+Très difficile
+
+
+##==##
+<!-- .slide: data-type-show="prez"-->
+
+<h1> Quickie <br> (15 - 20 min)</h1>
 
 
 <br>
@@ -105,7 +119,9 @@ bien car possède l’avantage de la proximité
 
 # Les timings
 
-<img class="w-100" src="./assets/images/g3d67955561_0_76.png"><span>Lightning Talk (5 - 15 min)</span>
+<img class="w-100" src="./assets/images/g3d67955561_0_76.png"><span>Lightning Talk (5 min)</span>
+
+<img class="w-100" src="./assets/images/g3d67955561_0_76.png"><span>Quickie (15 - 20 min)</span>
 
 <img class="w-100" src="./assets/images/g3d67955561_0_97.png"><span>Tools In Action (30 min)</span>
 
@@ -119,7 +135,7 @@ bien car possède l’avantage de la proximité
 
 <!-- .slide:-->
 
-![full-center](./assets/images/g3d67955561_0_48.png)
+![h-900 center](./assets/images/gartner-timing.png)
 
 Notes:
 Retour sur la courbe et comment placer les timings dans la courbe
