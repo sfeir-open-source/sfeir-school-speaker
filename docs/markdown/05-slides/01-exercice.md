@@ -2,6 +2,8 @@
 
 # CAS PRATIQUE
 
+## Mon Pire talk technique © Chet Haase
+
 
 Notes:
 On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la trame !
@@ -28,7 +30,8 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 
 * Bac S spé Math
-* Diplôme d’ingénieur en informatique
+* DEUG MIAS
+* Ingénieur SIRL
 * Travaillé pour beaucoup de société en informatique
 * Travaillé en tant qu’ingénieur web dans beaucoup de société
 * J’ai parlé dans beaucoup de conférence
@@ -188,7 +191,9 @@ La limite matémathique de l’infini de 2 puissance 2 multiplié par n log 7 di
 ##--##
 
 
-Comprendre l’astronomie et les maths, ce n’est pas simple et parfois même on a du mal à comprendre pourquoi il faut que ça soit compliqué !
+La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+
+<blockquote><cite>Einstein</cite></blockquote>
 
 
 ##--##
@@ -313,6 +318,8 @@ Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un reto
 
 Avec un peu de technologie c’est encore mieux
 
+https://docs.google.com/forms/d/e/1FAIpQLSe30j2ELgFY8-Jwhl5EMjyQaFpePx5BBxg2o9qpFi2wi2wROg/viewform?param1=dfslmkss21&param2=sdsdfsf
+
 <br>
 
 ![full-center](./assets/images/g3a864e7b0c_0_152.png)
@@ -353,7 +360,7 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 <br>
 
 Notes:
-Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que le titre soit compréhensible
+Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que le titre soit compréhensible. REX Sujet du talk !
 
 
 
@@ -364,8 +371,7 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 # Simplification des enjeux astronomiques
 
 
-Nantes le 15/07/18<!--.element: class="center" --><br>
-
+Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 
 
 ##==##
@@ -374,7 +380,8 @@ Nantes le 15/07/18<!--.element: class="center" --><br>
 
 
 * Bac S spé Math
-* Diplôme d’ingénieur en informatique
+* DEUG MIAS
+* Ingénieur SIRL
 * Travaillé pour beaucoup de société en informatique
 * Travaillé en tant qu’ingénieur web dans beaucoup de société
 * J’ai parlé dans beaucoup de conférence
@@ -527,6 +534,12 @@ avec une animation d’affichage
 
 
 
+##==##
+<!-- .slide: class="bg-white transition" -->
+
+
+# Une Idée = 1 Slide
+
 
 
 ##==##
@@ -580,6 +593,7 @@ Une image peut aider à faire passer un message
 
 Notes:
 Il faut donc soit des unitées, soit guider le participant
+D'un côté, contextualiser ! De l'autre trop fouilli
 
 
 
@@ -594,7 +608,72 @@ Il faut donc soit des unitées, soit guider le participant
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+##==##
+<!-- .slide:-->
 
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/formule_math_1.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/formule_math_2.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/formule_math_3.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/formule_math_4.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/formule_math_5.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+
+##==##
+<!-- .slide:-->
+
+# Une formule compliquée
+
+
+![full-center h-500](./assets/images/g3a864e7b0c_0_219.png)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
 ##==##
 <!-- .slide: class="two-column-layout"-->
@@ -604,7 +683,9 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##--##
 
 
-Comprendre l’astronomie et les maths, ce n’est pas simple et parfois même on a du mal à comprendre pourquoi il faut que ça soit compliqué !
+La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+
+<blockquote><cite>Einstein</cite></blockquote>
 
 
 ##--##
@@ -622,7 +703,27 @@ il faut éviter le gros bloc de texte qui doit apporter de l’info
 # Explication d’un autre truc compliqué
 
 
-Quelques mots clés suffisent
+<br>
+<ul>
+<li class="fragment">La <strong>Théorie</strong> = On sait mais ça ne marche pas</li>
+<li class="fragment">La <strong>Pratique</strong> = Ça marche mais on sait pas pourquoi </li>
+<li class="fragment">Ici : Rien ne fonctionne... et personne ne sait pourquoi !</li>
+</ul>
+
+
+
+Notes:
+Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pas hésiter à mettre juste des mots clés
+
+##==##
+
+<!-- .slide:-->
+
+# Explication d’un autre truc compliqué (Logique !)
+
+
+
+![h-500 center](./assets/images/g3a864e7b0c_0_125.png)
 
 
 Notes:
@@ -716,15 +817,26 @@ public class CineShowTimeApplication extends GDApplication {
   public void onCreate() {...}
   public Intent getMainApplicationIntent() {
     if (Integer.valueOf(Build.VERSION.SDK) <= 10) {
-      startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN,
-         TestSizeOther.checkLargeScreen(
-           getResources().getConfiguration().screenLayout));
+      startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, ...);
     }
 		...
-	}
-}
+}}
 ```
 <!-- .element: class="big-code" -->
+
+
+
+##==##
+<!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
+
+
+Notes:
+le plus important c’est le focus !!! c’est le conseil numéro 1
+
+
+
+##==##
+<!-- .slide: data-background="black"-->
 
 ##==##
 <!-- .slide:-->
@@ -747,13 +859,18 @@ le pavé ne sert pas à grand chose sur scène
 Notes:
 Une image vaut mieux parfois que du texte afin de poser sa conclusion
 
+##==##
+<!-- .slide: data-background="black"-->
 
+Notes:
+Conclusion bis
 
 ##==##
 <!-- .slide:-->
 
 # C’est le moment d'interagir
 
+https://docs.google.com/forms/d/e/1FAIpQLSe30j2ELgFY8-Jwhl5EMjyQaFpePx5BBxg2o9qpFi2wi2wROg/viewform?param1=dfslmkss21&param2=sdsdfsf
 
 <br>
 
@@ -763,22 +880,28 @@ Avec un peu de technologie c’est encore mieux
 
 ![full-center](./assets/images/g3a864e7b0c_0_152.png)
 
+
 ##==##
 
-# Des Questions ?
+<!-- .slide: class="speaker-slide" -->
+
+# Merci de votre attention
 
 
+![speaker](./assets/images/jf.jpg)
 
-https://l-url-de-mes-slides.com
-<!-- .element: class="center" -->
+<h2> Jean-François<span> Garreau</span></h2>
 
-@jefbinomed
-<!-- .element: class="center" -->
+### @jefbinomed
+<!-- .element: class="icon-twitter icon-second" -->
 
-<br>
+![company](./assets/images/logo-sfeir-blanc.png)
+
+<a style="color:white" href="https://url-slides">https://url-slides</a>
 
 Notes:
 Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !
+
 
 ##==##
 
