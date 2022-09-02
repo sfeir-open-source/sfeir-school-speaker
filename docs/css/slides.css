@@ -1,35 +1,183 @@
+.reveal .slides section .center {
+  text-align: center;
+}
+.reveal .slides section .big-text {
+  font-size: 3em;
+}
+.reveal .slides section.sfeir-basic-slide .center-big {
+  text-align: center;
+  font-size: 2.5em;
+  color: black;
+}
+.reveal .slides section.sfeir-basic-slide h1.center-big {
+  font-size: 3em;
+}
+.reveal .slides section.with-code pre.big-code:not(.literal), .reveal .slides section.with-code-dark pre.big-code:not(.literal) {
+  position: relative;
+  top: 0;
+}
+.reveal .slides section img[alt*=full-width-screen] {
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.reveal .slides section img[alt*=bottom] {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.reveal .slides section.transition-center h1.center {
+  text-align: center;
+}
+
+/**
+To integrate to theme 
+*/
+.reveal .slides section {
+  /**
+  * Block Quote Management
+  */
+}
+.reveal .slides section blockquote {
+  box-shadow: initial;
+  font-size: 1.5em;
+}
+
+/** 
+Specifics
+*/
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin {
+  text-align: center;
+  font-weight: 400;
+  font-size: 100px;
+  color: #dd3355;
+}
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau {
+  background: rgba(135, 135, 135, 0.8);
+  color: white;
+  font-weight: 400;
+  font-size: 100px;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  width: 150vw;
+  margin-left: -75vw;
+}
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.top {
+  top: 50px;
+  bottom: inherit;
+}
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.bandeau.block {
+  top: 50%;
+  left: -200px;
+  padding-left: 300px;
+  width: 700px;
+  height: 500px;
+  margin-left: initial;
+  margin-top: -150px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) h1.big.thin.bottom {
+  position: absolute;
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  width: 150vw;
+  margin-left: -75vw;
+}
+
+@font-face {
+  font-family: "Caveat";
+  src: url("./fonts/caveat-regular.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Caveat";
+  src: url("./fonts/caveat-bold.ttf");
+  font-weight: 800;
+  font-style: normal;
+}
+.reveal .slides section h1.caveat {
+  font-family: "Caveat";
+  position: absolute;
+  top: 150px;
+  left: 600px;
+  font-weight: 300;
+  font-size: 70px;
+  color: black;
+}
+
+.reveal .slides section.a-vous h1.top {
+  color: white;
+  font-size: 4em;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.reveal .slides section.a-vous h1.bandeau.block {
+  top: 50%;
+  right: -200px;
+  left: initial;
+  padding-right: 300px;
+}
+
+.reveal .slides section.cfp:not(.stack):not(.specific-slide):not([class*=transition]).title h1 {
+  margin-top: 350px;
+  text-align: left;
+  padding-left: 250px;
+  width: 500px;
+  color: white;
+}
+.reveal .slides section.cfp:not(.stack):not(.specific-slide):not([class*=transition]).transition-center h1.center {
+  text-align: center;
+}
+
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]).awefull-slide .big-text {
   font-size: 1.5em;
-  font-weight: 600; }
-
+  font-weight: 600;
+}
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]).awefull-slide blockquote {
   width: 800px;
   color: black;
-  background: orange; }
-
+  background: orange;
+}
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]).no-style h1 {
   color: black;
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: 400; }
-
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+}
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]).history h1 {
   color: black;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: 400;
   font-size: 1.1em;
   position: absolute;
   left: 485px;
-  top: 200px; }
-
+  top: 200px;
+}
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition])#dark-theme-slide h1 {
-  color: orange; }
-
+  color: orange;
+}
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) .moteur {
-  width: 45%; }
-  .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) .moteur .box-moteur {
-    border: black thin solid; }
+  width: 45%;
+}
+.reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) .moteur .box-moteur {
+  border: black thin solid;
+}
 
-.reveal .slides section[class*="transition"].bg-white.no-more-seven-words h1 {
-  font-size: 2.9em; }
+.reveal .slides section[class*=transition].bg-white.no-more-seven-words h1 {
+  font-size: 2.9em;
+}
+
+.reveal .slides section .flex-row .mid-size {
+  width: 45%;
+  text-align: center;
+  align-self: flex-start;
+}
 
 /*# sourceMappingURL=slides.css.map */

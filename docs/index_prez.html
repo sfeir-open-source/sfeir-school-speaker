@@ -15,38 +15,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
   <!-- ----------------------------------------------------
-        ---------------- REVEAL STYLES  -------------------------
-        ------------------------------------------------------ -->
-  <link rel="stylesheet" type="text/css" href="./web_modules/reveal.js/css/reveal.css" />
-  <!--<link rel="stylesheet" href="reveal/css/theme/white.css" id="theme">-->
-
-  <!-- For syntax highlighting - hightlightjs -->
-  <link rel="stylesheet" type="text/css" href="./web_modules/highlight.js/styles/tomorrow.css" />
-
-  <!-- If the query includes 'print-pdf', use the PDF print sheet -->
-  <script>
-    document.write(
-      '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0/css/print/' +
-      (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper') +
-      '.css" type="text/css" media="print">'
-    );
-  </script>
-
-  <!--[if lt IE 9]>
-      <script src="reveal/lib/js/html5shiv.js"></script>
-    <![endif]-->
-
-  <!-- ----------------------------------------------------
 	    ---------------- PREZ STYLES  ---------------------------
 	    ------------------------------------------------------ -->
 
-  <link rel="stylesheet" type="text/css" href="./web_modules/sfeir-school-theme/dist/css/sfeir-school-theme.css"
-    id="theme" />
-  <script type="module" src="./web_modules/sfeir-school-theme/dist/js/sfeir-theme.js"></script>
-
-  <script type="module" src="scripts/dont-touch/reveal-config.js"></script>
-
-  <link rel="stylesheet" type="text/css" href="./css/speaker.css" id="theme-custo" />
+  <script type="module" src="./scripts/slides.js"></script>
+  <link rel="stylesheet" type="text/css" href="./web_modules/sfeir-school-theme/sfeir-school-theme.css" id="theme" />
+  <link rel="stylesheet" type="text/css" href="./css/slides.css" id="theme-custo" />
 </head>
 
 <body>
@@ -55,17 +29,7 @@
     <div class="slides" data-type-show="prez">
     </div>
   </div>
-  <script src="./web_modules/reveal.js/js/reveal.js"></script>
-  <script type="text/javascript">
-    (() => {
-      setTimeout(() => {
-        const realHour = document.getElementById('real-hour');
-        if (realHour) {
-          realHour.innerHTML = `Ici le ${new Intl.DateTimeFormat('fr-FR').format(new Date())}`;
-        }
-      }, 1000)
-    })();
-  </script>
+
 </body>
 
 </html>
