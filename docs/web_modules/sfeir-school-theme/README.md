@@ -171,7 +171,6 @@ Here are the impacts of the mode :
 <!-- .slide: class="first-slide" sfeir-level="1" sfeir-techno="pwa" -->
 
 # **Welcome to SFEIR School**
-
 ## **PWA 100**
 ```
 
@@ -402,7 +401,6 @@ There is a way to show content in a blur area for introducing pause in your trai
 <br>
 
 On se retrouve à
-
 <!-- .element: class="center" -->
 <br>
 
@@ -456,7 +454,6 @@ A paragraph with some text and a [link](http://hakim.se).
 <!-- .slide: class="two-column" data-background="./docs/images/images/dark_background.jpeg" -->
 
 ##--##
-
 ## Slide 2
 ```
 
@@ -795,7 +792,6 @@ To have image that take all the horizontal space, you could use 3 ways:
 <!-- Second way -->
 <img class="full-width" src="./docs/images/images/logo_sfeir_bleu_orange.png">
 ```
-
 ![](./docs/images/helper-full-width.png)
 
 ### Full Height Image
@@ -807,7 +803,6 @@ You can ask to an image to take the whole height of it's parent
     <img class="full-height" src="./docs/images/images/logo_sfeir_bleu_orange.png">
 </div>
 ```
-
 ![](./docs/images/helper-full-height.png)
 
 ### Float Left or Right
@@ -879,7 +874,6 @@ With this technique, you can easily create 2 versions of your index.hml, one wit
 A few words !
 
 ##==##
-
 <!-- .slide: data-type-show="full" -->
 
 ## A slide for publication only
