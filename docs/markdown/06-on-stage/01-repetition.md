@@ -55,7 +55,7 @@ Répéter devant des collègues
 
 
 ##==##
-<!-- .slide: class="transition underline top" data-background="./assets/images/g3a864e7b0c_0_437.png"-->
+<!-- .slide: class="transition underline top mask" data-background="./assets/images/g3a864e7b0c_0_437.png"-->
 
 # Avoir les slides en tête 
 

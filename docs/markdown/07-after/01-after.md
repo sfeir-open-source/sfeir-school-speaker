@@ -1,4 +1,4 @@
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3a864e7b0c_0_440.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3a864e7b0c_0_440.png"-->
 
 
 # Publiez votre présentation
@@ -52,7 +52,7 @@ Ne pas se limiter qu’à sa ville ! aller parler dans une autre ville montre qu
 
 
 ##==##
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_0_16.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3e3083f2f8_0_16.png"-->
 
 # Réseaux sociaux
 
@@ -64,7 +64,7 @@ Soyez présent sur les réseaux sociaux, ayez du contenu de qualité
 
 
 ##==##
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_1_8.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3e3083f2f8_1_8.png"-->
 
 # Blog
 

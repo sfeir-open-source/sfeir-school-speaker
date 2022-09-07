@@ -8,7 +8,7 @@ expliquer le principe de la courbe du hype
 
 
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3a864e7b0c_0_496.png"-->
+<!-- .slide: class="transition underline bottom mask" data-background="./assets/images/g3a864e7b0c_0_496.png"-->
 
 # Seul ou accompagné ?
 

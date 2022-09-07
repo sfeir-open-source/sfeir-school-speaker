@@ -1,4 +1,4 @@
-<!-- .slide: data-background="./assets/images/g15645683e6_0_6.png" class="transition"-->
+<!-- .slide: class="transition-bg-sfeir-3"-->
 
 # CAS PRATIQUE
 

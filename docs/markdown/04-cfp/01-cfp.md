@@ -140,7 +140,7 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 
 
 ##==##
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3a83c5854a_0_5.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3a83c5854a_0_5.png"-->
 
 # Attention aux deadlines !
 

@@ -7,7 +7,7 @@ Notes:
 vous voilà arriver au jour J !
 
 ##==##
-<!-- .slide: class="transition top" data-background="./assets/images/amirali-mirhashemian-1299696-unsplash.jpg"-->
+<!-- .slide: class="transition top mask" data-background="./assets/images/amirali-mirhashemian-1299696-unsplash.jpg"-->
 
 # Évitez de trop manger
 
@@ -18,7 +18,7 @@ Pour ne pas être trop lourd
 
 
 ##==##
-<!-- .slide: class="transition top" data-background="./assets/images/g3a864e7b0c_0_0.png"-->
+<!-- .slide: class="transition top mask" data-background="./assets/images/g3a864e7b0c_0_0.png"-->
 
 # Chauffez-vous
 
@@ -76,7 +76,7 @@ Notes:
 très pratique pour passer les slides
 
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/cuddly-toy-smile-smiling-12211.jpg"-->
+<!-- .slide: class="transition underline right" data-background="./assets/images/cuddly-toy-smile-smiling-12211.jpg"-->
 
 # Souriez
 
@@ -95,7 +95,7 @@ Même si l'audience est composée d'expert
 
 ##==##
 
-<br>
+<!-- .slide: class="quote-slide" -->
 
 > C'est facile
 <!-- .element: class="center" -->
@@ -117,7 +117,7 @@ Simple & Personnes essayent & n'y arrivent pas => Elles sont stupides !
 
 ##==##
 
-<br>
+<!-- .slide: class="quote-slide" -->
 
 > Je vais le répéter rapidement, pour ceux qui ne savent pas
 <!-- .element: class="center" -->
@@ -140,7 +140,7 @@ Donc ceux qui n'y sont pas ce sentent déprécier. Si l'idée est faire une intr
 
 ##==##
 
-<br>
+<!-- .slide: class="quote-slide" -->
 
 >Tout le monde peut faire ça
 <!-- .element: class="center" -->
@@ -176,7 +176,7 @@ https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-ev
 
 
 ##==##
-<!-- .slide: class="transition bottom" data-background="./assets/images/blur-chart-check-up-415779.jpg"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/blur-chart-check-up-415779.jpg"-->
 
 # Changez de rythme
 
@@ -221,7 +221,7 @@ ne laissez pas le public dans le flou, il ne voient pas ce que vous faites, donc
 
 
 ##==##
-<!-- .slide: class="transition top" data-background="./assets/images/g3e2b346e48_0_71.png"-->
+<!-- .slide: class="transition top mask" data-background="./assets/images/g3e2b346e48_0_71.png"-->
 
 # Ayez un plan B
 

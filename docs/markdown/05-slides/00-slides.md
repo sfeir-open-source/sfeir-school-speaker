@@ -134,7 +134,7 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 <!-- .slide: data-background="black"-->
 
 ##==##
-<!-- .slide:  class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
+<!-- .slide:  class="transition underline bottom mask" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
 
 # Tuez des chiots
 
@@ -163,19 +163,19 @@ Il faut supprimer ces idées qu’on a qui font qu’on va déborder
 
 
 <p class="float-left">
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100">
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100">
 </p>
 
 <p class="float-right">
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100"><br>
-<img src="./assets/images/logo_sfeir_bleu_orange.png" class="h-100">
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100"><br>
+<img src="./assets/images/Sfeir-Gris-vector.svg" class="h-100">
 </p>
 
 >Evitez les slides trop chargés !
@@ -508,7 +508,7 @@ Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontact
 
 
 ##==##
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3a83c5854a_0_5.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3a83c5854a_0_5.png"-->
 
 # Quand terminer ses slides ?
 
@@ -730,12 +730,12 @@ revenir sur des exemples de templates que j’ai fait
 
 
 ##==##
-<!-- .slide: class="transition" data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
 
 # Que vérifier pour son template ?
 
 ##==##
-<!-- .slide: class="bg-white transition" -->
+<!-- .slide: class="transition" -->
 
 
 # Un slide de titre

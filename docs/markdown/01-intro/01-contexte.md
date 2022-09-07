@@ -13,8 +13,7 @@ Histoire du traducteur de la langue des signes au discours de Obama pour la mort
 
 
 ##==##
-<!-- .slide:-->
-<br>
+<!-- .slide: class="quote-slide"-->
 
 >Les personnes atteintes du **syndrome de l'imposteur** expriment une forme de doute maladif qui consiste essentiellement à nier la propriété de tout accomplissement personnel
 
@@ -32,7 +31,7 @@ On a tendance à se sous estimer
 
 ##==##
 
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_26.png"-->
+<!-- .slide: class="transition underline bottom mask" data-background="./assets/images/g3d67955561_0_26.png"-->
 
 # Pourtant on aime partager
 
@@ -44,7 +43,7 @@ on partage à ses collègues, on partage à sa famille, dès tout petit, on le f
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g47f049d591_0_1.png"-->
+<!-- .slide: data-background="./assets/images/g47f049d591_0_1.png" class="transition mask"-->
 
 # Cercle Vertueux
 <!-- .element: class="big thin bottom" -->
