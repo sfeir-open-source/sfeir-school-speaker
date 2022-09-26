@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/sfeir-open-source/sfeir-school-speaker#readme",
   "dependencies": {
-    "sfeir-school-theme": "^3.0.0-rc-1"
+    "sfeir-school-theme": "^3.0.0-rc-3"
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
-    "live-server": "^1.2.1",
-    "sass": "^1.51.0",
+    "live-server": "^1.1.0",
     "parallelshell": "3.0.1",
+    "sass": "^1.51.0",
     "shelljs": "^0.8.5"
   }
 }
