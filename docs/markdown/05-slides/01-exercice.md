@@ -152,7 +152,7 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 ![full-center h-800](./assets/images/g3a864e7b0c_0_103.png)
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-state="hide-notification-event"-->
 
 # Agenda
 
@@ -169,7 +169,7 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide:  data-state="show-notification-event"-->
 
 # Une formule compliquée
 
@@ -184,7 +184,7 @@ La limite matémathique de l’infini de 2 puissance 2 multiplié par n log 7 di
 
 
 ##==##
-<!-- .slide: class="two-column-layout"-->
+<!-- .slide: class="two-column-layout" data-state="hide-notification-event"-->
 
 # Explication d’un autre truc compliqué
 
@@ -581,7 +581,7 @@ Une image peut aider à faire passer un message
 
 
 ##==##
-<!-- .slide: class="flex-row"-->
+<!-- .slide: class="flex-row" data-state="hide-notification-event"-->
 
 # Des stats importantes !
 
@@ -598,7 +598,7 @@ D'un côté, contextualiser ! De l'autre trop fouilli
 
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-state="show-notification-event"-->
 
 # Une formule compliquée
 
@@ -609,7 +609,7 @@ Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-state="hide-notification-event"-->
 
 # Une formule compliquée
 
