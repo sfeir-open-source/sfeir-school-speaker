@@ -114,17 +114,17 @@ You can still use RevealJS API by importing `Reveal` object in `import { Reveal 
     -   Speaker Slide
     -   Transitions Slides
     -   Multiples backgrounds
--   Code Higlighting (sequential highlighting will come after)
-    -   Choice of Dark code or Light code
-    -   Choice of font
-    -   Progess Highlithing
--   Two columns layout
--   Somes helpers for images
--   Compatibility with feather icons
--   Easyer management of restitution slides.
--   Expose some custom properties corresponding to the theme.
--   As it's controlled by class, it's compatible with markdown syntax or html
--   Two theme mode available : institute or school
+    -   Code Higlighting (sequential highlighting will come after)
+        -   Choice of Dark code or Light code
+        -   Choice of font
+        -   Progess Highlithing
+    -   Two columns layout
+    -   Somes helpers for images
+    -   Compatibility with feather icons
+    -   Easyer management of restitution slides.
+    -   Expose some custom properties corresponding to the theme.
+    -   As it's controlled by class, it's compatible with markdown syntax or html
+    -   Three theme mode available : institute, school or conf
 
 ## Play with mode theme
 
@@ -132,12 +132,35 @@ Lot's of training given by SFEIR School program are also available with the paid
 
 In the html, where you could configure the restitution mode (see below for more details). You could define mode for displaying the slides :
 
-**Index.html Configuration**
+-   **[Institute](https://sfeir-school-theme.netlify.app/index-mode.html#/)**
+    -   _Index.html Configuration_
 
 ```html
 <body>
     <div class="reveal">
         <div class="slides" data-theme-slides="institute">...</div>
+    </div>
+</body>
+```
+
+-   **[School](https://sfeir-school-theme.netlify.app/index.html#/)**
+    -   _Index.html Configuration_
+
+```html
+<body>
+    <div class="reveal">
+        <div class="slides" data-theme-slides="school">...</div>
+    </div>
+</body>
+```
+
+-   **[Conf](https://sfeir-school-theme.netlify.app/index-conf.html#/)**
+    -   _Index.html Configuration_
+
+```html
+<body>
+    <div class="reveal">
+        <div class="slides" data-theme-slides="conf">...</div>
     </div>
 </body>
 ```
@@ -149,6 +172,10 @@ Here is an example of first slide according to if you set mode to institute or n
 ### Institute mode :
 
 ![](./docs/images/first-slide-institute.png)
+
+### Conf mode :
+
+![](./docs/images/first-slide-conf.png)
 
 ### Normal mode (or school mode):
 
@@ -171,6 +198,7 @@ Here are the impacts of the mode :
 <!-- .slide: class="first-slide" sfeir-level="1" sfeir-techno="pwa" -->
 
 # **Welcome to SFEIR School**
+
 ## **PWA 100**
 ```
 
@@ -401,6 +429,7 @@ There is a way to show content in a blur area for introducing pause in your trai
 <br>
 
 On se retrouve à
+
 <!-- .element: class="center" -->
 <br>
 
@@ -454,6 +483,7 @@ A paragraph with some text and a [link](http://hakim.se).
 <!-- .slide: class="two-column" data-background="./docs/images/images/dark_background.jpeg" -->
 
 ##--##
+
 ## Slide 2
 ```
 
@@ -792,6 +822,7 @@ To have image that take all the horizontal space, you could use 3 ways:
 <!-- Second way -->
 <img class="full-width" src="./docs/images/images/logo_sfeir_bleu_orange.png">
 ```
+
 ![](./docs/images/helper-full-width.png)
 
 ### Full Height Image
@@ -803,6 +834,7 @@ You can ask to an image to take the whole height of it's parent
     <img class="full-height" src="./docs/images/images/logo_sfeir_bleu_orange.png">
 </div>
 ```
+
 ![](./docs/images/helper-full-height.png)
 
 ### Float Left or Right
@@ -874,6 +906,7 @@ With this technique, you can easily create 2 versions of your index.hml, one wit
 A few words !
 
 ##==##
+
 <!-- .slide: data-type-show="full" -->
 
 ## A slide for publication only
