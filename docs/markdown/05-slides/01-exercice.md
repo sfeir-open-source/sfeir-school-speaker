@@ -8,6 +8,7 @@
 Notes:
 On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la trame !
 
+Pendant la prez, ne pas regarder le public mais juste l'écran
 
 
 ##==##
@@ -28,15 +29,21 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 # Jean-François Garreau
 
-
-* Bac S spé Math
-* DEUG MIAS
-* Ingénieur SIRL
+* Mutiples diplômes
+  * Bac S spé Math
+  * DEUG MIAS
+  * SIRL
+  * Bafa
+  * SB
+  * GDE 
+  * MTS
 * Travaillé pour beaucoup de société en informatique
 * Travaillé en tant qu’ingénieur web dans beaucoup de société
-* J’ai parlé dans beaucoup de conférence
 * J’aime jongler
+* J’ai parlé dans beaucoup de conférence
 
+Notes:
+MTS = Mozilla Tech Speaker
 
 ##==##
 <!-- .slide:-->
@@ -117,6 +124,8 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 * En effet, la complexité de compréhension fait qu’il nous au moins une présentation
 * Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
 
+Notes:
+Ne pas regarder les participants
 
 ##==##
 <!-- .slide:-->
@@ -143,6 +152,11 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 ![full-center h-800](./assets/images/g3a864e7b0c_0_97.png)
 
+Notes: 
+Ici ça représente 100% des personnes qui s'intéresse à l'astronomie dont les 25% n'y comprennent rien 
+
+Faire volontairement une phrase qui ne veut rien dire
+
 ##==##
 <!-- .slide:-->
 
@@ -150,6 +164,9 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 
 ![full-center h-800](./assets/images/g3a864e7b0c_0_103.png)
+
+Notes: 
+Qui dit astronomie dit Lune et qui dit lune dit mouvement de marée et donc impact de la marée par la lune -> Données exaustives !
 
 ##==##
 <!-- .slide: data-state="hide-notification-event"-->
@@ -184,19 +201,24 @@ La limite matémathique de l’infini de 2 puissance 2 multiplié par n log 7 di
 
 
 ##==##
-<!-- .slide: class="two-column-layout" data-state="hide-notification-event"-->
+<!-- .slide: class="two-column" data-state="hide-notification-event"-->
 
 # Explication d’un autre truc compliqué
-
-##--##
-
 
 La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
 
 <blockquote><cite>Einstein</cite></blockquote>
 
+Notes: 
+Alors là c'est facile ! 
+
+La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+
+Trivial non ?
 
 ##--##
+
+<br><br>
 
 ![h-500](./assets/images/g3a864e7b0c_0_125.png)
 
@@ -322,7 +344,26 @@ https://docs.google.com/forms/d/e/1FAIpQLSe30j2ELgFY8-Jwhl5EMjyQaFpePx5BBxg2o9qp
 
 <br>
 
-![full-center](./assets/images/g3a864e7b0c_0_152.png)
+![full-center](./assets/images/qrcode.png)
+
+Notes:
+Rester 2 sec
+
+##==##
+
+# Merci de votre attention
+
+## Jean-François Garreau
+
+* Titulaire d'un bac S, DEUG MIAS, Diplome SLIR, Bafa
+* Contactez moi par Phax au +33666555444333
+
+
+##==##
+
+<!-- .slide: data-background="./assets/images/seriously.gif" class="transition" -->
+
+# T'es sérieux là ?
 
 ##==##
 <!-- .slide:-->
@@ -379,13 +420,18 @@ Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 # Jean-François Garreau
 
 
-* Bac S spé Math
-* DEUG MIAS
-* Ingénieur SIRL
+* Mutiples diplômes
+  * Bac S spé Math
+  * DEUG MIAS
+  * SIRL
+  * Bafa
+  * SB
+  * GDE 
+  * MTS
 * Travaillé pour beaucoup de société en informatique
 * Travaillé en tant qu’ingénieur web dans beaucoup de société
-* J’ai parlé dans beaucoup de conférence
 * J’aime jongler
+* J’ai parlé dans beaucoup de conférence
 
 Notes:
 On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h sur le sujet !
@@ -676,26 +722,26 @@ Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
 ##==##
-<!-- .slide: class="two-column-layout"-->
+<!-- .slide: class="two-column" data-state="hide-notification-event"-->
 
 # Explication d’un autre truc compliqué
-
-##--##
-
 
 La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
 
 <blockquote><cite>Einstein</cite></blockquote>
 
+Notes: 
+Alors là c'est facile ! 
+
+La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+
+Trivial non ?
 
 ##--##
 
+<br><br>
+
 ![h-500](./assets/images/g3a864e7b0c_0_125.png)
-
-Notes:
-il faut éviter le gros bloc de texte qui doit apporter de l’info
-
-
 
 ##==##
 <!-- .slide:-->
@@ -878,7 +924,7 @@ Avec un peu de technologie c’est encore mieux
 
 <br>
 
-![full-center](./assets/images/g3a864e7b0c_0_152.png)
+![full-center](./assets/images/qrcode.png)
 
 
 ##==##

@@ -47,7 +47,7 @@ function cfp(){
 
 function slides(){
  return [
-   '05-slides/00-slides.md',
+   //'05-slides/00-slides.md',
    '05-slides/01-exercice.md',
  ];
 }
@@ -68,15 +68,15 @@ function after(){
 function formation() {
   return [
     //
-    ...schoolSlides(), //
-    ...introSlides(), //
-    ...findASubject(), //
-    ...comm(), //
-    ...where(), //
-    ...cfp(), //
+    //...schoolSlides(), //
+    //...introSlides(), //
+    //...findASubject(), //
+    //...comm(), //
+    //...where(), //
+    //...cfp(), //
     ...slides(), //
-    ...onStage(), //
-    ...after(), //
+    //...onStage(), //
+    //...after(), //
   ].map(slidePath => {
     return { path: slidePath };
   });
