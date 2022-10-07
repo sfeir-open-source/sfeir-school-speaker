@@ -223,7 +223,7 @@ Trivial non ?
 ![h-500](./assets/images/g3a864e7b0c_0_125.png)
 
 ##==##
-<!-- .slide:-->
+<!-- .slide: data-state="hide-notification-event"-->
 
 # Agenda
 
