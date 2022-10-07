@@ -435,6 +435,25 @@ class HelloWorld {
 ```
 <!-- .element: class="big-code" -->
 
+##==##
+
+<!-- .slide: class="with-code-dark" -->
+
+# Hello World.js
+
+
+```javascript[1|2-4|5-7]
+class HelloWorld {
+  constructor() {
+  // some comments
+  }
+  myFunction() {
+   console.log('hello world !');
+ }
+}
+```
+<!-- .element: class="big-code" -->
+
 
 ##==##
 
@@ -684,7 +703,6 @@ revenir sur des exemples de templates que j’ai fait
 
 # Quelques ressources
 
-
 * Thèmes Reveal JS :
   * https://slides.com/explore
   * https://github.com/hakimel/reveal.js/wiki/Example-Presentations
@@ -693,6 +711,8 @@ revenir sur des exemples de templates que j’ai fait
 * Templates PowerPoint, Keynote, Google Slides : 
   * https://graphicpanda.net
   * https://slidesgo.com/
+* Site de vidéos libres
+  * https://mixkit.co/
 * Site d’image libres
   * https://unsplash.com/
   * https://www.pexels.com/
