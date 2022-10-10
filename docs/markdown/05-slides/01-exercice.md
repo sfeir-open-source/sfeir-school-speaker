@@ -10,6 +10,16 @@ On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la
 
 Pendant la prez, ne pas regarder le public mais juste l'écran
 
+##==##
+
+<!-- .slide: class="transition-bg-sfeir-3"-->
+
+# Talk ICI
+
+
+Notes:
+Penser à prendre le pain pour chouchou ce soir
+
 
 ##==##
 <!-- .slide: -->
