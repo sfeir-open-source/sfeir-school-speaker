@@ -26,7 +26,7 @@ Penser à prendre le pain pour chouchou ce soir
 
 <br><br><br><br>
 
-# La circonvolution de la planète terre dans le système solaire appliqué à la théorie des corps via des intégrales et fractales de courbes de beziers
+# L'importance des nombres premiers dans l'informatique et comment on peut optimiser nos algorithmes pour savoir si un nombre des premier ou pas
 
 
 Nantes le 15 juillet 2018 <!--.element: class="center" --><br>
@@ -65,8 +65,8 @@ MTS = Mozilla Tech Speaker
 * Présentation du speaker
 * Agenda
 * Introduction
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -82,8 +82,8 @@ MTS = Mozilla Tech Speaker
 * Présentation du speaker
 * Agenda
 * Introduction
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -99,8 +99,8 @@ MTS = Mozilla Tech Speaker
 * ~~Présentation du speaker~~
 * Agenda
 * Introduction
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -116,8 +116,8 @@ MTS = Mozilla Tech Speaker
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * Introduction
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -130,9 +130,10 @@ MTS = Mozilla Tech Speaker
 
 <br>
 
-* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* L’objectif de cette présentation est de revenir sur l'importance des nombres premiers
+* Pour rappel un nombre premier est un nombre dont le reste de la division par lui et 1 et uniquement par ces chiffres est 0. 1 exclu
+* En effet, ils sont souvent utilisés pour les calculs de crytpograhie
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 Notes:
 Ne pas regarder les participants
@@ -147,8 +148,8 @@ Ne pas regarder les participants
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * ~~Introduction~~
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -157,26 +158,24 @@ Ne pas regarder les participants
 ##==##
 <!-- .slide:-->
 
-# Des stats importantes !
+# Des nombres premiers !
 
 
-![full-center h-800](./assets/images/g3a864e7b0c_0_97.png)
+![full-center h-900](./assets/images/first-1000-prime-numbers-thumb.png)
 
 Notes: 
-Ici ça représente 100% des personnes qui s'intéresse à l'astronomie dont les 25% n'y comprennent rien 
-
-Faire volontairement une phrase qui ne veut rien dire
+Ici on voit très bien les 1000 premiers nombres premiers c'est important comme information !!
 
 ##==##
 <!-- .slide:-->
 
-# D’autres statistiques
+# Des statistiques de nombres
 
 
-![full-center h-800](./assets/images/g3a864e7b0c_0_103.png)
+![full-center h-800](./assets/images/distribution-chiffres.avif)
 
 Notes: 
-Qui dit astronomie dit Lune et qui dit lune dit mouvement de marée et donc impact de la marée par la lune -> Données exaustives !
+Très très important de constater cette répartition de nombres surtout si on parle de nombres premiers.
 
 ##==##
 <!-- .slide: data-state="hide-notification-event"-->
@@ -188,8 +187,8 @@ Qui dit astronomie dit Lune et qui dit lune dit mouvement de marée et donc impa
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * ~~Introduction~~
-* ~~Stats~~
-* Des données
+* ~~Des nombres premiers~~
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -198,33 +197,36 @@ Qui dit astronomie dit Lune et qui dit lune dit mouvement de marée et donc impa
 ##==##
 <!-- .slide:  data-state="show-notification-event"-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/g3a864e7b0c_0_109.png)
+![full-center h-500](./assets/images/generation-nb-premiers.svg)
 
 Notes:
 Lire les notes sur ce slide !!
 
-La limite matémathique de l’infini de 2 puissance 2 multiplié par n log 7 divissé par l’intégrale de t puissance 2 exposant dt multiplié par la somme des radians de 8 Pi divisé par la variable k le tout divisé par 2 intégrales de 0 à l’infini qui doit nous donner le résultat de 50 !
+Pour connaitre le Nième nombre premier, il suffit d'ajouter à 1 la somme des en allant de 1 à n au carré le chiffre n divisé par la somme des cosinus entre 1 et i précédement donné donc du cosinus du factoriel de (j-1) + 1 divisé par j le tout multiplié par Pi qu'on met au carré. Cette division est ensuite mise à la puissance 1/n
+
+Il s'agit du théorème de Wilson créé en 1964
 
 
 
 ##==##
 <!-- .slide: class="two-column" data-state="hide-notification-event"-->
 
-# Explication d’un autre truc compliqué
+# Le saviez-vous ?
 
-La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+Il existe des nombres probablement premiers qui permettent de calculer si un nombre peut être considéré comme premier.
 
-<blockquote><cite>Einstein</cite></blockquote>
+N est probablement premier sur une base B si :
+
+
+<blockquote><cite>N>1 et B^(N-1)%N ==1 </cite></blockquote>
 
 Notes: 
 Alors là c'est facile ! 
 
-La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
-
-Trivial non ?
+ça sert en fait pour éviter de partir sur des calculs trop longs ou complexes surtout en crypto où on va chercher à avoir des grands chiffres premiers et donc on aura besoin d'avoir une méthode de calcul plus rapide
 
 ##--##
 
@@ -242,8 +244,8 @@ Trivial non ?
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * ~~Introduction~~
-* ~~Stats~~
-* ~~Des données~~
+* ~~Des nombres premiers~~
+* ~~Formules~~
 * Du code
 * La conclusion
 * Questions
@@ -256,43 +258,49 @@ Trivial non ?
 
 
 ```java
-package com.binomed.showtime.android;
+package com.sfeir.school.speaker;
 
-import greendroid.app.GDApplication;
-import org.acra.ACRA;
-import org.acra.annotation.ReportsCrashes;
-import android.content.Intent;
-import android.os.Build;
-import com.binomed.showtime.android.cst.CineShowtimeCst;
-import com.binomed.showtime.android.cst.ParamIntent;
-import com.binomed.showtime.android.screen.main.CineShowTimeMainActivity;
-import com.binomed.showtime.android.util.activity.TestSizeHoneyComb;
-import com.binomed.showtime.android.util.activity.TestSizeOther;
+import java.lang.Math;
 
-@ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
-public class CineShowTimeApplication extends GDApplication {
+public class ProbablePrimeClassMain {
 
-	@Override
-	public void onCreate() {
-		ACRA.init(this);
-		super.onCreate();
+	public static void main(String[] args) {
+		
+		int nbr = 17;
+		ProbablePrimeClass instance = new ProbablePrimeClass();
+		int result = instance.isWeakProbablePrime(nbr, 10);
+		
+		if(result == 1)
+			System.out.println(nbr + " is a probable prime");
+		else
+			System.out.println(nbr + " is not a probable prime");
 	}
 
-	@Override
-	public Class<?> getHomeActivityClass() {
-		return CineShowTimeMainActivity.class;
-	}6
+}
 
-	@Override
-	public Intent getMainApplicationIntent() {
-		Intent startIntent = new Intent(getApplicationContext(), CineShowTimeMainActivity.class);
-		if (Integer.valueOf(Build.VERSION.SDK) <= 10) {
-			startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, TestSizeOther.checkLargeScreen(getResources().getConfiguration().screenLayout));
-		} else {
-			startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, TestSizeHoneyComb.checkLargeScreen(getResources().getConfiguration().screenLayout));
+public class ProbablePrimeClass {
+
+	public ProbablePrimeClass(){
+	}
+
+	public boolean isWeakProbablePrime(int n, int base) {
+		boolean result = modularExponentiation(base, n - 1, n) == 1;
+
+  		return result;
+	}
+
+
+	public integer modularExponentiation(int base, int exp, int mod){
+		int result = 1;
+		while (exp > 0){
+			if (exp %2 != 0){
+				result = (result * base) % mod
+			}
+			exp = exp >> 1;
+			base = Math.pow(base,2) % mod 
 		}
-		return startIntent;
-	}
+		return result;
+	}  
 }
 ```
 
@@ -307,8 +315,8 @@ public class CineShowTimeApplication extends GDApplication {
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * ~~Introduction~~
-* ~~Stats~~
-* ~~Des données~~
+* ~~Des nombres premiers~~
+* ~~Formules~~
 * ~~Du code~~
 * La conclusion
 * Questions
@@ -320,7 +328,7 @@ public class CineShowTimeApplication extends GDApplication {
 # Pour conclure
 
 
-Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un retour ce qu’on a appris pendant la conférence et donc permettre ainsi aux gens de savoir quels étaient les points importants à retenir!
+Pour conclure, les nombres premiers sont une chose complexe pouvant demander une très grande puissance de calcul et donc, on doit toujours manipuler ses nombres avec précautions et éventuellement faire appels à des variantes comme les nombres probablement premiers vus précédement.
 
 
 ##==##
@@ -333,8 +341,8 @@ Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un reto
 * ~~Présentation du speaker~~
 * ~~Agenda~~
 * ~~Introduction~~
-* ~~Stats~~
-* ~~Des données~~
+* ~~Des nombres premiers~~
+* ~~Formules~~
 * ~~Du code~~
 * ~~La conclusion~~
 * Questions
@@ -401,7 +409,7 @@ Toujours  en 2 temps, le slide qui va pas, on interroge les gens et on fait mieu
 <br><br><br><br>
 
 
-# La circonvolution de la planète terre dans le système solaire appliqué à la théorie des corps via des intégrales et fractales de courbes de beziers
+# L'importance des nombres premiers dans l'informatique et comment on peut optimiser nos algorithmes pour savoir si un nombre des premier ou pas
 
 
 Nantes le 15 juillet 2018 <!--.element: class="center" --><br>
@@ -419,7 +427,7 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 
 <br><br><br><br>
 
-# Simplification des enjeux astronomiques
+# Les nombres premiers et ses enjeux
 
 
 Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
@@ -483,8 +491,8 @@ ce qui est important pour les gens : votre nom, votre boite (histoire de faire u
 * Présentation du speaker
 * Agenda
 * Introduction
-* Stats
-* Des données
+* Des nombres premiers
+* Formules
 * Du code
 * La conclusion
 * Questions
@@ -500,13 +508,12 @@ Notes:
 
 # Introduction : Pourquoi nous devons nous intéresser à cette problématique compliquée
 
-
 <br>
 
-* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
-
+* L’objectif de cette présentation est de revenir sur l'importance des nombres premiers
+* Pour rappel un nombre premier est un nombre dont le reste de la division par lui et 1 et uniquement par ces chiffres est 0. 1 exclu
+* En effet, ils sont souvent utilisés pour les calculs de crytpograhie
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 Notes:
 Pas de bullets points, rappel, 1 bullet point = une idée et surtout il ne faut pas des pavés ! sinon les gens lisent
@@ -520,9 +527,10 @@ Pas de bullets points, rappel, 1 bullet point = une idée et surtout il ne faut 
 
 <br>
 
-* L’objectif de cette présentation est de revenir sur les concepts parfois abstrait des mathématiques appliqués à l’astronomie
-* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* L’objectif de cette présentation est de revenir sur l'importance des nombres premiers
+* Pour rappel un nombre premier est un nombre dont le reste de la division par lui et 1 et uniquement par ces chiffres est 0. 1 exclu
+* En effet, ils sont souvent utilisés pour les calculs de crytpograhie
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
 Notes:
@@ -537,9 +545,10 @@ on va réduire le texte affiché !
 
 <br>
 
-* Revenir sur les **concepts**
-* En effet, la complexité de compréhension fait qu’il nous au moins une présentation
-* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* Revenir sur **l'importance** des nombres premiers
+* Pour rappel un nombre premier est un nombre dont le reste de la division par lui et 1 et uniquement par ces chiffres est 0. 1 exclu
+* En effet, ils sont souvent utilisés pour les calculs de crytpograhie
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
 
@@ -555,9 +564,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 <br>
 
-* Revenir sur les **concepts**
-* Besoin d’une présentation
-* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension de l’astronomie
+* Revenir sur **l'importance** des nombres premiers
+* N est premier si **N%N & N%1 == 0** et que pour eux !!
+* En effet, ils sont souvent utilisés pour les calculs de crytpograhie
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
 
@@ -568,9 +578,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 <br>
 
-* Revenir sur les **concepts**
-* Besoin d’une présentation
-* Pour **qui** ?
+* Revenir sur **l'importance** des nombres premiers
+* N est premier si **N%N & N%1 == 0** et que pour eux !!
+* Utile en **crytpograhie**
+* Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
 ##==##
@@ -579,11 +590,23 @@ on met des mots en gras, pour faire apparaître les infos principales
 # Pourquoi ?
 
 <br>
-<ul>
-<li class="fragment">Revenir sur les <strong>concepts</strong></li>
-<li class="fragment">Besoin d’une présentation</li>
-<li class="fragment">Pour <strong>qui ?</strong></li>
-</ul>
+
+* Revenir sur **l'importance** des nombres premiers
+* N est premier si **N%N & N%1 == 0** et que pour eux !!
+* Utile en **crytpograhie**
+* Pour **qui ?**
+
+
+##==##
+<!-- .slide:-->
+
+# Pourquoi ?
+
+* Revenir sur **l'importance** des nombres premiers
+* N est premier si **N%N & N%1 == 0** et que pour eux !!
+* Utile en **crytpograhie**
+* Pour **qui ?**
+<!-- .element: class="list-fragment" -->
 
 Notes:
 avec une animation d’affichage
@@ -642,8 +665,8 @@ Une image peut aider à faire passer un message
 # Des stats importantes !
 
 
-![h-500](./assets/images/g3a864e7b0c_0_202.png)
-![h-500](./assets/images/g3a864e7b0c_0_358.png)
+![h-500](./assets/images/first-1000-prime-numbers-thumb.png)
+![h-500](./assets/images/distribution-chiffres.avif)
 
 **On ne peut rien dégager comme information !!**<!-- .element: class="fragment"  -->
 
@@ -656,10 +679,10 @@ D'un côté, contextualiser ! De l'autre trop fouilli
 ##==##
 <!-- .slide: data-state="show-notification-event"-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/g3a864e7b0c_0_219.png)
+![full-center h-500](./assets/images/generation-nb-premiers.svg)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -667,21 +690,10 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##==##
 <!-- .slide: data-state="hide-notification-event"-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/formule_math_1.png)
-
-Notes:
-En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
-
-##==##
-<!-- .slide:-->
-
-# Une formule compliquée
-
-
-![full-center h-500](./assets/images/formule_math_2.png)
+![full-center h-500](./assets/images/generation-nb-premiers-1.svg)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -689,21 +701,10 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##==##
 <!-- .slide:-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/formule_math_3.png)
-
-Notes:
-En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
-
-##==##
-<!-- .slide:-->
-
-# Une formule compliquée
-
-
-![full-center h-500](./assets/images/formule_math_4.png)
+![full-center h-500](./assets/images/generation-nb-premiers-2.svg)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -711,10 +712,32 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##==##
 <!-- .slide:-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/formule_math_5.png)
+![full-center h-500](./assets/images/generation-nb-premiers-3.svg)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule triviale
+
+
+![full-center h-500](./assets/images/generation-nb-premiers-4.svg)
+
+Notes:
+En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
+
+##==##
+<!-- .slide:-->
+
+# Une formule triviale
+
+
+![full-center h-500](./assets/images/generation-nb-premiers-5.svg)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -723,10 +746,10 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##==##
 <!-- .slide:-->
 
-# Une formule compliquée
+# Une formule triviale
 
 
-![full-center h-500](./assets/images/g3a864e7b0c_0_219.png)
+![full-center h-500](./assets/images/generation-nb-premiers.svg)
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
@@ -734,11 +757,14 @@ En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant
 ##==##
 <!-- .slide: class="two-column" data-state="hide-notification-event"-->
 
-# Explication d’un autre truc compliqué
+# Le saviez-vous ?
 
-La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
+Il existe des nombres probablement premiers qui permettent de calculer si un nombre peut être considéré comme premier.
 
-<blockquote><cite>Einstein</cite></blockquote>
+N est probablement premier sur une base B si :
+
+
+<blockquote><cite>N>1 et B^(N-1)%N ==1 </cite></blockquote>
 
 Notes: 
 Alors là c'est facile ! 
@@ -756,16 +782,15 @@ Trivial non ?
 ##==##
 <!-- .slide:-->
 
-# Explication d’un autre truc compliqué
+# Le saviez-vous ?
 
 
-<br>
-<ul>
-<li class="fragment">La <strong>Théorie</strong> = On sait mais ça ne marche pas</li>
-<li class="fragment">La <strong>Pratique</strong> = Ça marche mais on sait pas pourquoi </li>
-<li class="fragment">Ici : Rien ne fonctionne... et personne ne sait pourquoi !</li>
-</ul>
+* Il existe des nombres **probables premiers**
+* Calculé de la manière suivante : 
+<!-- .element: class="list-fragment" -->
 
+> b^n-1 % n = 1
+<!-- .element: class="fragment" -->
 
 
 Notes:
@@ -775,7 +800,7 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 <!-- .slide:-->
 
-# Explication d’un autre truc compliqué (Logique !)
+# Le saviez-vous ? (Logique !)
 
 
 
@@ -794,43 +819,49 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 
 ```java
-package com.binomed.showtime.android;
+package com.sfeir.school.speaker;
 
-import greendroid.app.GDApplication;
-import org.acra.ACRA;
-import org.acra.annotation.ReportsCrashes;
-import android.content.Intent;
-import android.os.Build;
-import com.binomed.showtime.android.cst.CineShowtimeCst;
-import com.binomed.showtime.android.cst.ParamIntent;
-import com.binomed.showtime.android.screen.main.CineShowTimeMainActivity;
-import com.binomed.showtime.android.util.activity.TestSizeHoneyComb;
-import com.binomed.showtime.android.util.activity.TestSizeOther;
+import java.lang.Math;
 
-@ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
-public class CineShowTimeApplication extends GDApplication {
+public class ProbablePrimeClassMain {
 
-	@Override
-	public void onCreate() {
-		ACRA.init(this);
-		super.onCreate();
+	public static void main(String[] args) {
+		
+		int nbr = 17;
+		ProbablePrimeClass instance = new ProbablePrimeClass();
+		int result = instance.isWeakProbablePrime(nbr, 10);
+		
+		if(result == 1)
+			System.out.println(nbr + " is a probable prime");
+		else
+			System.out.println(nbr + " is not a probable prime");
 	}
 
-	@Override
-	public Class<?> getHomeActivityClass() {
-		return CineShowTimeMainActivity.class;
+}
+
+public class ProbablePrimeClass {
+
+	public ProbablePrimeClass(){
 	}
 
-	@Override
-	public Intent getMainApplicationIntent() {
-		Intent startIntent = new Intent(getApplicationContext(), CineShowTimeMainActivity.class);
-		if (Integer.valueOf(Build.VERSION.SDK) <= 10) {
-			startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, TestSizeOther.checkLargeScreen(getResources().getConfiguration().screenLayout));
-		} else {
-			startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, TestSizeHoneyComb.checkLargeScreen(getResources().getConfiguration().screenLayout));
+	public boolean isWeakProbablePrime(int n, int base) {
+		boolean result = modularExponentiation(base, n - 1, n) == 1;
+
+  		return result;
+	}
+
+
+	public integer modularExponentiation(int base, int exp, int mod){
+		int result = 1;
+		while (exp > 0){
+			if (exp %2 != 0){
+				result = (result * base) % mod
+			}
+			exp = exp >> 1;
+			base = Math.pow(base,2) % mod 
 		}
-		return startIntent;
-	}
+		return result;
+	}  
 }
 ```
 
@@ -841,21 +872,23 @@ un slide de code ne doit pas compiler !!! on doit faire passer des messages !
 
 
 ##==##
-<!-- .slide: class="with-code"-->
+<!-- .slide: class="with-code max-height"-->
 
-# CineShowTimeApplication.java
+# WeakProbalePrime.java
 
 ```java
-@ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
-public class CineShowTimeApplication extends GDApplication {
-  public void onCreate() {...}
-  
-  
-
-
-}
+public integer modularExponentiation(int base, int exp, int mod){
+	int result = 1;
+	
+	
+	
+	
+	
+	
+	return result;
+}  
 ```
-<!-- .element: class="big-code" -->
+<!-- .element: class="big-code " -->
 
 Notes:
 c’est mieux si on guide l’attention du participant
@@ -863,23 +896,64 @@ c’est mieux si on guide l’attention du participant
 
 
 ##==##
-<!-- .slide: class="with-code"-->
+<!-- .slide: class="with-code max-height"-->
 
-# CineShowTimeApplication.java
+# WeakProbalePrime.java
 
 ```
-@ReportsCrashes(formKey = CineShowtimeCst.ACRA_FORM_KEY)
-public class CineShowTimeApplication extends GDApplication {
-  public void onCreate() {...}
-  public Intent getMainApplicationIntent() {
-    if (Integer.valueOf(Build.VERSION.SDK) <= 10) {
-      startIntent.putExtra(ParamIntent.ACTIVITY_LARGE_SCREEN, ...);
-    }
-		...
-}}
+public integer modularExponentiation(int base, int exp, int mod){
+	int result = 1;
+	while (exp > 0){
+		if (exp %2 != 0)
+			result = (result * base) % mod
+		
+	
+	}
+	return result;
+}  
 ```
 <!-- .element: class="big-code" -->
 
+
+##==##
+<!-- .slide: class="with-code max-height"-->
+
+# WeakProbalePrime.java
+
+```
+public integer modularExponentiation(int base, int exp, int mod){
+	int result = 1;
+	while (exp > 0){
+		if (exp %2 != 0)
+			result = (result * base) % mod
+		exp = exp >> 1;
+		base = Math.pow(base,2) % mod 
+	}
+	return result;
+}  
+```
+<!-- .element: class="big-code" -->
+
+
+
+##==##
+<!-- .slide: class="with-code max-height"-->
+
+# WeakProbalePrime.java
+
+```[1-2,10-11|3-5,8|6-7|1-10]
+public integer modularExponentiation(int base, int exp, int mod){
+	int result = 1;
+	while (exp > 0){
+		if (exp %2 != 0)
+			result = (result * base) % mod
+		exp = exp >> 1;
+		base = Math.pow(base,2) % mod 
+	}
+	return result;
+}  
+```
+<!-- .element: class="big-code" -->
 
 
 ##==##
@@ -900,7 +974,7 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 # Pour conclure
 
 
-Pour conclure, c’est pas mal d’avoir une idée à communiquer, faire un retour ce qu’on a appris pendant la conférence et donc permettre ainsi aux gens de savoir quels étaient les points importants à retenir!
+Pour conclure, les nombres premiers sont une chose complexe pouvant demander une très grande puissance de calcul et donc, on doit toujours manipuler ses nombres avec précautions et éventuellement faire appels à des variantes comme les nombres probablement premiers vus précédement.
 
 
 Notes:
