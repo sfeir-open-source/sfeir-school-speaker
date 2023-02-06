@@ -10,6 +10,8 @@ On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la
 
 Pendant la prez, ne pas regarder le public mais juste l'écran
 
+Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone
+
 ##==##
 
 <!-- .slide: class="transition-bg-sfeir-3"-->
@@ -20,6 +22,9 @@ Pendant la prez, ne pas regarder le public mais juste l'écran
 Notes:
 Penser à prendre le pain pour chouchou ce soir
 
+Liste de choses à ne pas oublier : parler des nombres premiers / Promener le chien / sortir les poubelles / Appeler Maman
+
+Prépa -> TEL / ECRAN
 
 ##==##
 <!-- .slide: -->
