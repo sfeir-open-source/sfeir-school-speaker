@@ -44,6 +44,8 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 # Jean-François Garreau
 
+![float-left](./assets/images/photo-jf-old.png)
+
 * Mutiples diplômes
   * Bac S spé Math
   * DEUG MIAS
@@ -378,6 +380,8 @@ Rester 2 sec
 
 ## Jean-François Garreau
 
+![float-left](./assets/images/photo-jf-old.png)
+
 * Titulaire d'un bac S, DEUG MIAS, Diplome SLIR, Bafa
 * Contactez moi par Phax au +33666555444333
 
@@ -442,6 +446,7 @@ Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 
 # Jean-François Garreau
 
+![float-left](./assets/images/photo-jf-old.png)
 
 * Mutiples diplômes
   * Bac S spé Math
