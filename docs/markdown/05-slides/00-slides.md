@@ -13,6 +13,26 @@
 Notes:
 Parler du concept de mindmap
 
+##==##
+
+# Storytelling
+<!-- .element: class="big thin" -->
+
+![full-center h-700](./assets/images/storytelling.svg)
+
+Notes:
+Toute histoire suit une même logique 
+
+##==##
+
+# Storytelling - Phases et phrases
+<!-- .element: class="big thin" -->
+
+![full-center h-700](./assets/images/storytelling-phrases.svg)
+
+Notes:
+On peut utiliser des phrases toutes faites
+
 
 
 ##==##
