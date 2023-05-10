@@ -26,9 +26,9 @@
             color:black;
             font-family: 'Courier New', Courier, monospace;
             font-weight: 400;
-            font-size: 1.1em;
+            font-size: 1.05em;
             position: absolute;
-            left: 485px;
+            left: 510px;
             top: 200px;
         }
     }
@@ -45,6 +45,13 @@
         }
     }
     
+
+    .objet{
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        background: var(--black);
+    }
 }
 
 .reveal .slides section[class*="transition"].bg-white {

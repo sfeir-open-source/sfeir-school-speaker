@@ -434,7 +434,8 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 
 ##==##
 
-<br><br><br><br>
+<!-- .slide: data-background="./assets/images/numbers.jpeg" class="transition" -->
+
 
 # Les nombres premiers et ses enjeux
 
@@ -489,8 +490,6 @@ On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h s
 Notes:
 ce qui est important pour les gens : votre nom, votre boite (histoire de faire un peu de pub), un moyen de vous suivre
 
-
-
 ##==##
 <!-- .slide:-->
 
@@ -511,6 +510,22 @@ ce qui est important pour les gens : votre nom, votre boite (histoire de faire u
 Notes:
 à remplacer par rien du tout !!! si le menu ne plait pas, les gens ont le droit de s’en aller ?
 
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+## ⏳
+
+<img src="./assets/images/meme-agenda.jpeg" class="h-800">
+<!--<blockquote>
+<cite>  
+</cite>
+</blockquote>-->
+
+
+
+Notes:
+https://imgflip.com/meme/Running-Away-Balloon
 
 
 ##==##
@@ -632,7 +647,7 @@ avec une animation d’affichage
 
 
 ##==##
-<!-- .slide: class="transition bg-pink" -->
+<!-- .slide: data-background="./assets/images/numbers-why.jpeg" class="transition right" -->
 
 
 # Pourquoi ?
@@ -657,17 +672,13 @@ Soit juste du texte
 ##==##
 <!-- .slide: class="transition underline bottom" data-background="./assets/images/g3a864e7b0c_0_418.png" -->
 
-# Concept important 2
+# Idée importante
 
 
 ![]()
 
 Notes:
 Une image peut aider à faire passer un message
-
-
-
-
 
 ##==##
 <!-- .slide: class="flex-row" data-state="hide-notification-event"-->
@@ -683,6 +694,46 @@ Une image peut aider à faire passer un message
 Notes:
 Il faut donc soit des unitées, soit guider le participant
 D'un côté, contextualiser ! De l'autre trop fouilli
+
+
+##==##
+<!-- .slide: class="flex-row" data-state="hide-notification-event"-->
+
+# Nombres premiers dans les 100 premiers chiffres
+
+
+![h-700](./assets/images/Primencomposite0100.svg.png)
+
+Notes:
+
+##==##
+<!-- .slide: class="flex-row" data-state="hide-notification-event"-->
+
+# Loi de Benford
+
+
+![h-700](./assets/images/distribution-chiffres.avif)
+
+Fréquence relative d'apparition de la 1ère décimale
+
+Notes:
+La loi de Benford, initialement appelée loi des nombres anormaux par Benford1,2, fait référence à une fréquence de distribution statistique observée empiriquement sur de nombreuses sources de données dans la vraie vie, ainsi qu'en mathématiques.
+
+
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+
+
+<blockquote>
+<cite>
+  Une prez avec des chiffres c'est comme une boite de chocolats, on sait jamais ce qu'on va en dégager
+</cite>
+</blockquote>
+
+[Forest Gump](http://www.sfeir.com)
+<!-- .element: class="credits" -->
 
 
 
@@ -810,15 +861,32 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 <!-- .slide:-->
 
-# Le saviez-vous ? (Logique !)
+# Logique !
 
 
 
-![h-500 center](./assets/images/g3a864e7b0c_0_125.png)
+![h-700 center](./assets/images/g3a864e7b0c_0_125.png)
 
 
 Notes:
 Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pas hésiter à mettre juste des mots clés
+
+
+
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+# 🦶 💻
+
+<blockquote>
+<cite>
+  Je mets les pieds où je veux et c'est souvent dans le code
+</cite>
+</blockquote>
+
+[Chuck Norris](http://www.sfeir.com)
+<!-- .element: class="credits" -->
 
 
 
@@ -966,6 +1034,7 @@ public integer modularExponentiation(int base, int exp, int mod){
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
 
@@ -974,9 +1043,62 @@ Notes:
 le plus important c’est le focus !!! c’est le conseil numéro 1
 
 
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+
+##==##
+
+# Voici ma place !
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# Mince c'est quoi déjà ?
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# A oui et quel siège ?
+
+![center h-600](./assets/images/billet-train.png)
+
+
 
 ##==##
 <!-- .slide: data-background="black"-->
+
+
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+# 🧂
+
+<blockquote>
+<cite>
+  Un slide sans conclusion, 
+  C'est comme la mer sans les vagues.
+  C'est comme les vagues sans l'écume.
+  C'est comme l'écume sans le sel.
+  C'est comme le sel sans le poivre
+</cite>
+</blockquote>
+
+[Les inconnus (oui je suis plus tout jeune)](http://www.sfeir.com)
+<!-- .element: class="credits" -->
+
 
 ##==##
 <!-- .slide:-->

@@ -148,6 +148,35 @@ Le plus important,c’est quoi ? vous ? ou les slides ? Clairement dans une conf
 Notes:
 le plus important c’est le focus !!! c’est le conseil numéro 1
 
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# Voici ma place !
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# Mince c'est quoi déjà ?
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# A oui et quel siège ?
+
+![center h-600](./assets/images/billet-train.png)
 
 
 ##==##
@@ -277,6 +306,68 @@ Par slide</h1>
 
 
 <h1> Pas plus de sept mots par ligne</h1>
+
+##==##
+
+<!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition"-->
+# Jouons un petit jeu
+
+##==##
+<!-- .slide: class="flew-row" -->
+
+# Combien d'objets ?
+
+<div class="center objet"></div>
+
+##==##
+<!-- .slide: class="flew-row" -->
+
+# Combien d'objets ?
+
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
+
+
+##==##
+<!-- .slide: class="flew-row" -->
+
+# Combien d'objets ?
+
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
+<br><br><br>
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
+
+##==##
+<!-- .slide: class="flew-row" -->
+
+# Combien d'objets ?
+
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
+<br><br><br>
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
+<br><br><br>
+<div class="flex-row">
+  <div class="objet"></div>
+  <div class="objet"></div>
+  <div class="objet"></div>
+</div>
 
 
 ##==##
@@ -576,6 +667,7 @@ Au moins 1 semaine avant, la deadline n’est pas le jour de la prez mais 1 sema
       <img class="h-50" src="./assets/images/g3a864e7b0c_0_25.png">
       <img class="h-200" src="./assets/images/g3a864e7b0c_0_26.png">
       <img class="h-200" src="./assets/images/g3a864e7b0c_0_27.png">
+      <img class="h-200" src="./assets/images/canvas.jpeg">
     </div>
   </div>
   <div class="moteur">

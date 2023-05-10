@@ -29,6 +29,15 @@ Il faut s’échauffer, faire des exercices de dictions, avoir une bouteille d�
 
 
 ##==##
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/pexels-stanislav-kondratiev-2908959.jpg"-->
+
+# Entrer sur scène
+
+
+Notes:
+parler aussi de la notion de déplacements
+
+##==##
 <!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_19.png"-->
 
 # Se lancer
@@ -198,6 +207,13 @@ celà permet de resyncrhoniser le public avec soi
 
 # Osez dire : je ne sais pas
 
+Notes:
+Parler de la gestion des questions / réponses avec les tips : 
+* Pas le temps
+* Patate chaude 
+* Prise à part
+* Pas de questions tout court
+* Reformuler
 
 ##==##
 <!-- .slide: class="transition underline bottom" data-background="./assets/images/alarm-clock-art-background-1037993.jpg"-->

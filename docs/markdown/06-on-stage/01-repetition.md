@@ -52,7 +52,14 @@ Expérimenter, ne pas hésiter à s’intérrompre
 Répéter devant des collègues
 
 
+##==##
 
+<!-- .slide: class="transition underline bottom mask" data-background="./assets/images/pexels-gustavo-fring-5622557.jpg"-->
+
+# Donner un bon feedback
+
+Notes:
+Il faut savoir donner un bon feedback -> Toujours des choses qu'on peut améliorer et pas juste se contenter du c'était bien ^^'
 
 ##==##
 <!-- .slide: class="transition underline top mask" data-background="./assets/images/g3a864e7b0c_0_437.png"-->
