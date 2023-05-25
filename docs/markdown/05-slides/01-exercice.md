@@ -434,7 +434,7 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 
 ##==##
 
-<!-- .slide: data-background="./assets/images/numbers.jpeg" class="transition" -->
+<!-- .slide: data-background="./assets/images/numbers.jpeg" class="transition mask" -->
 
 
 # Les nombres premiers et ses enjeux
@@ -699,7 +699,7 @@ D'un côté, contextualiser ! De l'autre trop fouilli
 ##==##
 <!-- .slide: class="flex-row" data-state="hide-notification-event"-->
 
-# Nombres premiers dans les 100 premiers chiffres
+# Nombres premiers dans les 100 premiers nombres
 
 
 ![h-700](./assets/images/Primencomposite0100.svg.png)
