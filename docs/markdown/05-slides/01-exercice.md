@@ -1,4 +1,4 @@
-<!-- .slide: class="transition-bg-sfeir-3"-->
+<!-- .slide: class="transition-bg-sfeir-3" data-type-show="prez"-->
 
 # CAS PRATIQUE
 
@@ -516,7 +516,7 @@ Notes:
 
 ## ⏳
 
-<img src="./assets/images/meme-agenda.jpeg" class="h-800">
+<img src="./assets/images/meme-agenda.png" class="h-800">
 <!--<blockquote>
 <cite>  
 </cite>
@@ -605,7 +605,7 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 * Revenir sur **l'importance** des nombres premiers
 * N est premier si **N%N & N%1 == 0** et que pour eux !!
-* Utile en **crytpograhie**
+* Utile en **cryptograhie**
 * Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
@@ -618,7 +618,7 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 * Revenir sur **l'importance** des nombres premiers
 * N est premier si **N%N & N%1 == 0** et que pour eux !!
-* Utile en **crytpograhie**
+* Utile en **cryptograhie**
 * Pour **qui ?**
 
 
@@ -629,7 +629,7 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 * Revenir sur **l'importance** des nombres premiers
 * N est premier si **N%N & N%1 == 0** et que pour eux !!
-* Utile en **crytpograhie**
+* Utile en **cryptograhie**
 * Pour **qui ?**
 <!-- .element: class="list-fragment" -->
 
@@ -724,16 +724,9 @@ La loi de Benford, initialement appelée loi des nombres anormaux par Benford1,2
 
 <!-- .slide: class="quote-slide" -->
 
+<br><br>
 
-
-<blockquote>
-<cite>
-  Une prez avec des chiffres c'est comme une boite de chocolats, on sait jamais ce qu'on va en dégager
-</cite>
-</blockquote>
-
-[Forest Gump](http://www.sfeir.com)
-<!-- .element: class="credits" -->
+<img src="./assets/images/meme-distraction.jpeg" class="h-700 center">
 
 
 
@@ -877,16 +870,11 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 <!-- .slide: class="quote-slide" -->
 
-# 🦶 💻
 
-<blockquote>
-<cite>
-  Je mets les pieds où je veux et c'est souvent dans le code
-</cite>
-</blockquote>
+<br><br>
 
-[Chuck Norris](http://www.sfeir.com)
-<!-- .element: class="credits" -->
+<img src="./assets/images/meme-code.jpeg" class="h-700 center">
+
 
 
 
@@ -1036,14 +1024,6 @@ public integer modularExponentiation(int base, int exp, int mod){
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
-
-
-Notes:
-le plus important c’est le focus !!! c’est le conseil numéro 1
-
-
-##==##
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
@@ -1075,6 +1055,13 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 ![center h-600](./assets/images/billet-train.png)
 
 
+##==##
+<!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
+
+
+Notes:
+le plus important c’est le focus !!! c’est le conseil numéro 1
+
 
 ##==##
 <!-- .slide: data-background="black"-->
@@ -1084,20 +1071,11 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 
 <!-- .slide: class="quote-slide" -->
 
-# 🧂
 
-<blockquote>
-<cite>
-  Un slide sans conclusion, 
-  C'est comme la mer sans les vagues.
-  C'est comme les vagues sans l'écume.
-  C'est comme l'écume sans le sel.
-  C'est comme le sel sans le poivre
-</cite>
-</blockquote>
+<br><br>
 
-[Les inconnus (oui je suis plus tout jeune)](http://www.sfeir.com)
-<!-- .element: class="credits" -->
+<img src="./assets/images/meme-conclusion.jpeg" class="h-700 center">
+
 
 
 ##==##
@@ -1120,12 +1098,6 @@ le pavé ne sert pas à grand chose sur scène
 
 Notes:
 Une image vaut mieux parfois que du texte afin de poser sa conclusion
-
-##==##
-<!-- .slide: data-background="black"-->
-
-Notes:
-Conclusion bis
 
 ##==##
 <!-- .slide:-->
@@ -1167,7 +1139,35 @@ Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discu
 
 ##==##
 
-<!-- .slide: data-background="./assets/images/g3e2b341858_0_0.png"-->
+<!-- .slide: data-background="./assets/images/pexels-ann-h-6980523.jpg" data-type-show="terrible"-->
+
+Notes:
+Conclusion !
+
+##==##
+
+<!-- .slide: class="speaker-slide" data-type-show="terrible" -->
+
+# Des Questions ?
+
+
+![speaker](./assets/images/jf.jpg)
+
+<h2> Jean-François<span> Garreau</span></h2>
+
+### @jefbinomed
+<!-- .element: class="icon-twitter icon-second" -->
+
+![company](./assets/images/logo-sfeir-blanc.png)
+
+<a style="color:white; top: 400px;" href="https://bit.ly/terrible-talk">https://bit.ly/terrible-talk</a>
+
+Notes:
+Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !
+
+##==##
+
+<!-- .slide: data-background="./assets/images/g3e2b341858_0_0.png" data-type-show="prez"-->
 
 <h1 class="bandeau block">J’ai fini<br>mes slides !</h1>
 
@@ -1177,7 +1177,7 @@ vient l’heure de la répet et de jouer ma prez
 
 ##==##
 
-<!-- .slide: data-background="#fcec00" class="a-vous"-->
+<!-- .slide: data-background="#fcec00" class="a-vous" data-type-show="prez"-->
 
 ![full-width-screen bottom](./assets/images/g3d67955561_0_107.png)
 
