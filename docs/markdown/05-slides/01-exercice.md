@@ -10,7 +10,7 @@ On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la
 
 Pendant la prez, ne pas regarder le public mais juste l'écran
 
-Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone / Commencer sans montrer le bon écran
+Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone / Commencer sans montrer le bon écran / Paramétrage du fond d'écran 'fake-desktop'
 
 ##==##
 
@@ -51,7 +51,7 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 * Mutiples diplômes
   * Bac S spé Math
   * DEUG MIAS
-  * SIRL
+  * SILR
   * Bafa
   * SB
   * GDE 
@@ -429,6 +429,9 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 
 <br>
 
+<div class="fragment" data-fragment-index="1" style="border-radius:60px; border:3px solid red; width:120px; height:120px; position: absolute; left:250px; top:370px;"></div>
+<div class="fragment" data-fragment-index="1" style="border-bottom:3px solid red; width:410px; height:120px; position: absolute; left:750px; top:520px;"></div>
+
 Notes:
 Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que le titre soit compréhensible. REX Sujet du talk !
 
@@ -454,7 +457,7 @@ Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 * Mutiples diplômes
   * Bac S spé Math
   * DEUG MIAS
-  * SIRL
+  * SILR
   * Bafa
   * SB
   * GDE 
@@ -464,9 +467,27 @@ Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 * J’aime jongler
 * J’ai parlé dans beaucoup de conférence
 
+
+<div class="fragment" data-fragment-index="1" style="border-bottom:3px solid red; width:200px; height:120px; position: absolute; left:900px; top:620px;"></div>
+<div class="fragment" data-fragment-index="1" style="border-bottom:3px solid red; width:200px; height:120px; position: absolute; left:1400px; top:675px;"></div>
+<div class="fragment" data-fragment-index="1" style="border-bottom:3px solid red; width:200px; height:120px; position: absolute; left:1000px; top:800px;"></div>
+
+
 Notes:
 On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h sur le sujet !
 
+
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+## 🤷
+
+<img src="./assets/images/meme-who-care.jpeg" class="h-800">
+<!--<blockquote>
+<cite>  
+</cite>
+</blockquote>-->
 
 
 ##==##
