@@ -170,6 +170,7 @@ Specifics
   border: black thin solid;
 }
 .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) .objet {
+  position: relative;
   width: 100px;
   height: 100px;
   border-radius: 100px;

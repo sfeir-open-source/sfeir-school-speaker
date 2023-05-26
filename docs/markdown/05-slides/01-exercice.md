@@ -10,13 +10,15 @@ On va maintenant faire un talk Horrible :) Merci Chet Haase pour l’idée et la
 
 Pendant la prez, ne pas regarder le public mais juste l'écran
 
-Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone
+Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone / Commencer sans montrer le bon écran
 
 ##==##
 
-<!-- .slide: class="transition-bg-sfeir-3"-->
+<!-- .slide: class="transition-bg-sfeir-3" data-type-show="terrible"-->
 
 # Talk ICI
+
+## Mon Pire talk technique
 
 
 Notes:
@@ -469,7 +471,7 @@ On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h s
 
 ##==##
 
-<!-- .slide: class="speaker-slide" data-type-show="prez" -->
+<!-- .slide: class="speaker-slide" -->
 
 # Présentation
 
@@ -1056,6 +1058,75 @@ public integer modularExponentiation(int base, int exp, int mod){
 
 
 ##==##
+
+<!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition" data-type-show="terrible"-->
+# Jouons un petit jeu
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+<div class="flex-row">
+  <div class="objet" style="top:100px; left:0px;"></div>
+  <div class="objet" style="top:200px; left:50px;"></div>
+  <div class="objet" style="top:40px; left:-60px;"></div>
+  <div class="objet" style="top:-80px; left:-80px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:-150px; left:100px;"></div>
+  <div class="objet" style="top:250px; left:-200px;"></div>
+  <div class="objet" style="top:-40px; left:50px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:-200px;"></div>
+  <div class="objet" style="top:260px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-90px;"></div>
+</div>
+
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+
+<div class="flex-row">
+  <div class="objet" style="top:-100px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-50px;"></div>
+  <div class="objet" style="top:-40px; left:160px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-100px;"></div>
+  <div class="objet" style="top:-90px; left:50px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:190px;"></div>
+  <div class="objet" style="top:350px; left:90px;"></div>
+</div>
+
+
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+
+<div class="flex-row">
+  <div class="objet" style="top:-100px; left:150px;"></div>
+  <div class="objet" style="top:40px; left:60px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-200px;"></div>
+  <div class="objet" style="top:-90px; left:-450px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-90px;"></div>
+</div>
+
+
+##==##
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
 
 
@@ -1161,6 +1232,9 @@ Conclusion !
 ![company](./assets/images/logo-sfeir-blanc.png)
 
 <a style="color:white; top: 400px;" href="https://bit.ly/terrible-talk">https://bit.ly/terrible-talk</a>
+
+© Chet Haase
+<!-- .element: class="credits"-->
 
 Notes:
 Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !

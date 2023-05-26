@@ -317,17 +317,21 @@ Par slide</h1>
 
 # Combien d'objets ?
 
-<div class="center objet"></div>
-
-##==##
-<!-- .slide: class="flew-row" -->
-
-# Combien d'objets ?
-
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:100px; left:0px;"></div>
+  <div class="objet" style="top:200px; left:50px;"></div>
+  <div class="objet" style="top:40px; left:-60px;"></div>
+  <div class="objet" style="top:-80px; left:-80px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:-150px; left:100px;"></div>
+  <div class="objet" style="top:250px; left:-200px;"></div>
+  <div class="objet" style="top:-40px; left:50px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:-200px;"></div>
+  <div class="objet" style="top:260px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-90px;"></div>
 </div>
 
 
@@ -336,38 +340,41 @@ Par slide</h1>
 
 # Combien d'objets ?
 
+
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:-100px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-50px;"></div>
+  <div class="objet" style="top:-40px; left:160px;"></div>
 </div>
-<br><br><br>
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:150px; left:-100px;"></div>
+  <div class="objet" style="top:-90px; left:50px;"></div>
 </div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:190px;"></div>
+  <div class="objet" style="top:350px; left:90px;"></div>
+</div>
+
+
 
 ##==##
 <!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
 
+
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:-100px; left:150px;"></div>
+  <div class="objet" style="top:40px; left:60px;"></div>
 </div>
-<br><br><br>
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:150px; left:-200px;"></div>
+  <div class="objet" style="top:-90px; left:-450px;"></div>
 </div>
-<br><br><br>
 <div class="flex-row">
-  <div class="objet"></div>
-  <div class="objet"></div>
-  <div class="objet"></div>
+  <div class="objet" style="top:150px; left:-90px;"></div>
 </div>
+
 
 
 ##==##
