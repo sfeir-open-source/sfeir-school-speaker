@@ -394,6 +394,14 @@ Rester 2 sec
 
 # T'es sérieux là ?
 
+Notes: 
+### revenir sur : 
+* Bureau 
+* Ecran non préparé
+* T-shirt
+* Ne pas regarder le public
+* Non inclusif
+
 ##==##
 <!-- .slide:-->
 
@@ -402,8 +410,13 @@ Rester 2 sec
 
 ![full-center h-600](./assets/images/g3a864e7b0c_0_158.png)
 
-Notes:
-On va revoir tout ça ensemble pour faire mieux, vous aller m’aider
+Notes: 
+### revenir sur : 
+* Bureau 
+* Ecran non préparé
+* T-shirt
+* Ne pas regarder le public
+* Non inclusif
 
 
 
