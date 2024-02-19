@@ -137,6 +137,50 @@ Tout ce que peut aider les organisateurs à décider, vous devez leur donner ! V
 * Donner le lien vers les slides s’ils sont dispo ou vers le repository pour un codelab
 * Expliquez en détail votre talk, le fond de votre pensée
 
+##==##
+
+<!-- .slide: data-type-show="prez" -->
+
+# Répartition des types de conférences
+
+
+![h-800 center](./assets/images/chart-proportion.svg)
+
+Notes:
+Exemple du DevFest 2023, Sur 777 propositions de conférences, 73% sont des conférences, 20% sont des quickies et 7% sont des codelabs.
+
+##==##
+
+<!-- .slide: data-type-show="full" -->
+
+# Répartition des types de conférences
+
+
+![h-600 center](./assets/images/chart-proportion.svg)
+
+Sur 777 propositions de conférences, 73% sont des conférences, 20% sont des quickies et 7% sont des codelabs.
+##==##
+
+<!-- .slide: data-type-show="prez" -->
+
+# Chances d'être retenu·e
+
+
+![h-800 center](./assets/images/chart-proportion-2.svg)
+
+Notes:
+Exemple du DevFest 2023, Au final, seuls 7% des confs proposées sont retenues, 10% des quickies et 23% des codelabs. sachant qu'en plus il y a des conférences invitées
+
+##==##
+
+<!-- .slide: data-type-show="full" -->
+
+# Chances d'être retenu·e
+
+
+![h-600 center](./assets/images/chart-proportion-2.svg)
+
+Au final, seuls 7% des confs proposées sont retenues, 10% des quickies et 23% des codelabs.
 
 
 ##==##

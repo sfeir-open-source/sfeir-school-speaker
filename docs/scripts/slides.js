@@ -49,6 +49,8 @@ function slides(){
  return [
    '05-slides/00-slides.md',
    '05-slides/01-exercice.md',
+   '05-slides/02-imposed-slides.md',
+   '05-slides/90-end-chapter.md',
  ];
 }
 

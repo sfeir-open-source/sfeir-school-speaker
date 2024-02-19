@@ -27,11 +27,45 @@ Notes:
 Il faut s’échauffer, faire des exercices de dictions, avoir une bouteille d’eau pour ne pas avoir la george sèche
 
 
+##==##
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/cafer-mert-ceyhan-LAY19dUD_ro-unsplash.jpg" -->
+
+# Préparez votre environnement
+
+Notes:
+* Bureau (fond d'éran) clean
+* Double écran configuré
+* Bureau virtuels
+* Notifications coupées
+* Mode plein écran pour la présentation
+* Notes speakers à portée de mains
+* Timer à dispo
 
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/pexels-stanislav-kondratiev-2908959.jpg"-->
 
-# Entrer sur scène
+<!-- .slide: data-type-show="full" -->
+
+# Préparez votre environnement
+
+## Choses à checker
+
+<br><br>
+
+* Bureau (fond d'éran) clean
+* Double écran configuré
+* Bureau virtuels
+* Notifications coupées
+* Mode plein écran pour la présentation
+* Notes speakers à portée de mains
+* Timer à dispo
+
+
+
+##==##
+<!-- .slide: class="transition underline top" data-background="./assets/images/pexels-stanislav-kondratiev-2908959.jpg"-->
+
+# Entrée sur scène
 
 
 Notes:
@@ -76,10 +110,9 @@ Il est important de boire afin de ne pas avoir la gorge sèche. Il faut donc tou
 
 
 ##==##
-<!-- .slide: data-background="./assets/images/gerardo-barreto-1566791-unsplash.jpg"-->
+<!-- .slide: class="transition top" data-background="./assets/images/gerardo-barreto-1566791-unsplash.jpg"-->
 
 # Ayez une télécommande
-<!-- .element: class="big thin" -->
 
 Notes:
 très pratique pour passer les slides
@@ -174,7 +207,7 @@ Si on peut pas l'utiliser => On est pas tout le monde ?
 
 
 ##==##
-<!-- .slide: class="bg-white transition" -->
+<!-- .slide: class="transition-bg-sfeir-2" -->
 
 # Très bon article sur le sujet
 
@@ -206,6 +239,15 @@ celà permet de resyncrhoniser le public avec soi
 <!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_57.png"-->
 
 # Osez dire : je ne sais pas
+
+Notes:
+Il est acceptable de ne pas être expert sur tout !
+
+##==##
+
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/camylla-battani-AoqgGAqrLpU-unsplash.jpg"-->
+
+# Comment gérer les questions ?
 
 Notes:
 Parler de la gestion des questions / réponses avec les tips : 
