@@ -26,6 +26,34 @@ Pour ne pas être trop lourd
 Notes:
 Il faut s’échauffer, faire des exercices de dictions, avoir une bouteille d’eau pour ne pas avoir la george sèche
 
+##==##
+
+<!-- .slide: class="transition right" data-background="./assets/images/roberto-nickson-Gvm2wM3V5PA-unsplash.jpg" -->
+
+# En cas de webinaire
+
+Notes:
+* Vérifiez votre connexion
+* Vérifiez votre matériel
+* Tester le micro
+* Standing desk
+* Tips du Picture in Picture -> Bien setup ses écrans
+
+
+##==##
+
+<!-- .slide: data-type-show="full" -->
+
+# Matériel idéal pour un webinaire
+
+<br><br>
+
+* Une webcam FullHD positionnable -> Alternative du téléphone
+* Une ring light
+* Un microphone à condensateur -> Alternative des écouteurs avec micro
+* Un casque audio
+* Un double écran -> Alternative de l'ordinateur portable + téléphone
+* Un standing desk -> Alternative (lits enfant, cartons, etc.)
 
 ##==##
 

@@ -13,6 +13,20 @@
 Notes:
 Parler du concept de mindmap
 
+
+##==##
+<!-- .slide:  class="transition underline bottom mask" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
+
+# Tuez des chiots
+
+
+<br>
+
+Notes:
+Il faut supprimer ces idées qu’on a qui font qu’on va déborder
+
+
+
 ##==##
 
 # Storytelling
@@ -182,18 +196,6 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 ##==##
 <!-- .slide: data-background="black"-->
 
-##==##
-<!-- .slide:  class="transition underline bottom mask" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
-
-# Tuez des chiots
-
-
-<br>
-
-Notes:
-Il faut supprimer ces idées qu’on a qui font qu’on va déborder
-
-
 
 ##==##
 <!-- .slide: class="transition"-->
@@ -254,7 +256,7 @@ Car au niveau contraste ça passe pas toujours !!
 <!-- .slide: class="bg-white transition" -->
 
 
-<h1>Attention aux contrastes <br><a href="https://contrast-ratio.com" target="_blank">https://contrast-ratio.com</a></h1>
+<h1>Attention aux contrastes <br><a href="https://contrast-ratio.com" target="_blank" style="color:black">https://contrast-ratio.com</a></h1>
 
 Notes:
 Car au niveau contraste ça passe pas toujours !!
