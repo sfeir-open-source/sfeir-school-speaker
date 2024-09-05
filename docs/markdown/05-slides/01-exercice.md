@@ -18,7 +18,7 @@ Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone / Commen
 
 # Talk ICI
 
-## Mon Pire talk technique
+## L'art de bien rater sa conf
 
 
 Notes:
@@ -695,9 +695,9 @@ Ou alternative : 1 idée = 1 slide
 
 
 ##==##
-<!-- .slide: class="transition"-->
+<!-- .slide: class="transition mask" data-background="./assets/images/pexels-black-ice-551383-1314543.jpg" -->
 
-# Concept important 1
+# Pourquoi c'est important
 
 
 Notes:
@@ -706,12 +706,10 @@ Soit juste du texte
 
 
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3a864e7b0c_0_418.png" -->
+<!-- .slide: class="transition underline bottom" data-background="./assets/images/markus-spiske-iar-afB0QQw-unsplash.jpg" -->
 
-# Idée importante
+# utile en cryptographie
 
-
-![]()
 
 Notes:
 Une image peut aider à faire passer un message
@@ -754,15 +752,6 @@ Fréquence relative d'apparition de la 1ère décimale
 
 Notes:
 La loi de Benford, initialement appelée loi des nombres anormaux par Benford1,2, fait référence à une fréquence de distribution statistique observée empiriquement sur de nombreuses sources de données dans la vraie vie, ainsi qu'en mathématiques.
-
-
-##==##
-
-<!-- .slide: class="quote-slide" -->
-
-<br><br>
-
-<img src="./assets/images/meme-distraction.jpeg" class="h-700 center">
 
 
 
@@ -899,6 +888,130 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 Notes:
 Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pas hésiter à mettre juste des mots clés
+
+
+
+##==##
+
+<!-- .slide: class="quote-slide" -->
+
+<br><br>
+
+<img src="./assets/images/meme-distraction.jpeg" class="h-700 center">
+
+
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+
+##==##
+
+# Voici ma place !
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# Mince c'est quoi déjà ?
+
+![center h-600](./assets/images/billet-train.png)
+
+##==##
+
+<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
+
+##==##
+
+# A oui et quel siège ?
+
+![center h-600](./assets/images/billet-train.png)
+
+
+##==##
+
+<!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition" data-type-show="terrible"-->
+# Jouons un petit jeu
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+<div class="flex-row">
+  <div class="objet" style="top:100px; left:0px;"></div>
+  <div class="objet" style="top:200px; left:50px;"></div>
+  <div class="objet" style="top:40px; left:-60px;"></div>
+  <div class="objet" style="top:-80px; left:-80px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:-150px; left:100px;"></div>
+  <div class="objet" style="top:250px; left:-200px;"></div>
+  <div class="objet" style="top:-40px; left:50px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:-200px;"></div>
+  <div class="objet" style="top:260px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-90px;"></div>
+</div>
+
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+
+<div class="flex-row">
+  <div class="objet" style="top:-100px; left:50px;"></div>
+  <div class="objet" style="top:150px; left:-50px;"></div>
+  <div class="objet" style="top:-40px; left:160px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-100px;"></div>
+  <div class="objet" style="top:-90px; left:50px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:200px; left:190px;"></div>
+  <div class="objet" style="top:350px; left:90px;"></div>
+</div>
+
+
+
+##==##
+<!-- .slide: class="flew-row" data-type-show="terrible"-->
+
+# Combien d'objets ?
+
+
+<div class="flex-row">
+  <div class="objet" style="top:-100px; left:150px;"></div>
+  <div class="objet" style="top:40px; left:60px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-200px;"></div>
+  <div class="objet" style="top:-90px; left:-450px;"></div>
+</div>
+<div class="flex-row">
+  <div class="objet" style="top:150px; left:-90px;"></div>
+</div>
+
+
+##==##
+<!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
+
+
+Notes:
+le plus important c’est le focus !!! c’est le conseil numéro 1
+
+
+##==##
+<!-- .slide: data-background="black"-->
 
 
 
@@ -1057,119 +1170,6 @@ public integer modularExponentiation(int base, int exp, int mod){
 ```
 <!-- .element: class="big-code" -->
 
-
-
-##==##
-
-<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
-
-
-##==##
-
-# Voici ma place !
-
-![center h-600](./assets/images/billet-train.png)
-
-##==##
-
-<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
-
-##==##
-
-# Mince c'est quoi déjà ?
-
-![center h-600](./assets/images/billet-train.png)
-
-##==##
-
-<!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
-
-##==##
-
-# A oui et quel siège ?
-
-![center h-600](./assets/images/billet-train.png)
-
-
-##==##
-
-<!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition" data-type-show="terrible"-->
-# Jouons un petit jeu
-
-##==##
-<!-- .slide: class="flew-row" data-type-show="terrible"-->
-
-# Combien d'objets ?
-
-<div class="flex-row">
-  <div class="objet" style="top:100px; left:0px;"></div>
-  <div class="objet" style="top:200px; left:50px;"></div>
-  <div class="objet" style="top:40px; left:-60px;"></div>
-  <div class="objet" style="top:-80px; left:-80px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:-150px; left:100px;"></div>
-  <div class="objet" style="top:250px; left:-200px;"></div>
-  <div class="objet" style="top:-40px; left:50px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:200px; left:-200px;"></div>
-  <div class="objet" style="top:260px; left:50px;"></div>
-  <div class="objet" style="top:150px; left:-90px;"></div>
-</div>
-
-
-##==##
-<!-- .slide: class="flew-row" data-type-show="terrible"-->
-
-# Combien d'objets ?
-
-
-<div class="flex-row">
-  <div class="objet" style="top:-100px; left:50px;"></div>
-  <div class="objet" style="top:150px; left:-50px;"></div>
-  <div class="objet" style="top:-40px; left:160px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:150px; left:-100px;"></div>
-  <div class="objet" style="top:-90px; left:50px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:200px; left:190px;"></div>
-  <div class="objet" style="top:350px; left:90px;"></div>
-</div>
-
-
-
-##==##
-<!-- .slide: class="flew-row" data-type-show="terrible"-->
-
-# Combien d'objets ?
-
-
-<div class="flex-row">
-  <div class="objet" style="top:-100px; left:150px;"></div>
-  <div class="objet" style="top:40px; left:60px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:150px; left:-200px;"></div>
-  <div class="objet" style="top:-90px; left:-450px;"></div>
-</div>
-<div class="flex-row">
-  <div class="objet" style="top:150px; left:-90px;"></div>
-</div>
-
-
-##==##
-<!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
-
-
-Notes:
-le plus important c’est le focus !!! c’est le conseil numéro 1
-
-
-##==##
-<!-- .slide: data-background="black"-->
 
 
 ##==##
