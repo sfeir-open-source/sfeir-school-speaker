@@ -129,6 +129,7 @@ function migrateFile(filePath) {
             content = applyRules(content, V3_TO_V4_RULES.HTML);
         }
         else if (extension === '.js') {
+            console.log('try to migrate file JS : ', filePath);
             content = applyRules(content, V3_TO_V4_RULES.JAVASCRIPT);
         }
         if (content !== originalContent) {
@@ -141,15 +142,25 @@ function migrateFile(filePath) {
     }
 }
 function findFiles(dir, filter) {
+    console.log(`Searching Files here : ${dir}`);
     let results = [];
     const list = fs.readdirSync(dir);
     list.forEach(function (file) {
         const fullPath = path.join(dir, file);
+        console.log(`path : ${path} | vs full path: ${fullPath}`);
         if (path.basename(fullPath) === 'web_modules') {
+            console.log('Will ignore web_modules directory');
             return; // Skip web_modules directory
+        }
+        if (path.basename(fullPath) === 'scripts') {
+            console.log(`Script directory : 
+                ${fs.statSync(fullPath)},
+                ${fs.statSync(fullPath).isDirectory()}`);
+            console.log(findFiles(fullPath, filter));
         }
         const stat = fs.statSync(fullPath);
         if (stat && stat.isDirectory()) {
+            console.log('Find a directory to migrate ', fullPath);
             results = results.concat(findFiles(fullPath, filter));
         }
         else {

@@ -8,6 +8,12 @@
 
 <div class="speaker-slide">
 <div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
 
 # Hello ! @SFEIR
 
@@ -19,16 +25,22 @@
 
 ### @jefbinomed
 
-![](./assets/images/jf.jpg 'speaker' '')
+![](./assets/images/jf.jpg 'speaker' '' '' '' '' '' '' '')
 
-![](./assets/images/logo-sfeir-blanc.png 'company' '')
+![](./assets/images/logo-sfeir-blanc.png 'company' '' '' '' '' '' '' '')
 
-![](./assets/images/gde.png 'badge' '')
+![](./assets/images/gde.png 'badge' '' '' '' '' '' '' '')
 
-![](./assets/images/GDG-Logo-carre.png 'badge' '')
+![](./assets/images/GDG-Logo-carre.png 'badge' '' '' '' '' '' '' '')
 
-![](./assets/images/mts.png 'badge' '')
+![](./assets/images/mts.png 'badge' '' '' '' '' '' '' '')
 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 
@@ -43,6 +55,12 @@
 
 <div class="speaker-slide">
 <div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
+<div class="speaker-slide">
 
 # Hello ! @SFEIR
 
@@ -54,17 +72,23 @@
 
 ### @jefbinomed
 
-![](./assets/images/jf.jpg 'speaker' '')
+![](./assets/images/jf.jpg 'speaker' '' '' '' '' '' '' '')
 
-![](./assets/images/logo-sfeir-blanc.png 'company' '')
+![](./assets/images/logo-sfeir-blanc.png 'company' '' '' '' '' '' '' '')
 
-![](./assets/images/gde.png 'badge' '')
+![](./assets/images/gde.png 'badge' '' '' '' '' '' '' '')
 
-![](./assets/images/GDG-Logo-carre.png 'badge' '')
+![](./assets/images/GDG-Logo-carre.png 'badge' '' '' '' '' '' '' '')
 
-![](./assets/images/mts.png 'badge' '')
+![](./assets/images/mts.png 'badge' '' '' '' '' '' '' '')
 
 </div>
 ```
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 
