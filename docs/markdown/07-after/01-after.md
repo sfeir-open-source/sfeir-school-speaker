@@ -3,7 +3,9 @@
 
 # Publiez votre présentation
 
+
 ##==##
+
 
 # Ou publier ?
 
@@ -32,26 +34,33 @@ SlideShare / SpeakerDeck / Github Pages / ...
 
 
 
+
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_0_3.png"-->
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_0_3.png"-->
 
 # Sachez marquer des points
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # En local ou pas ;)
 
 
-![full-center h-700](./assets/images/g3e3083f2f8_0_8.png)
+![](./assets/images/g3e3083f2f8_0_8.png 'h-700') 
+<!-- .element: class="full-center" -->
 
 Notes:
 Ne pas se limiter qu’à sa ville ! aller parler dans une autre ville montre quitte même à organiser un tour de france ?
 
 
 
+
 ##==##
+
 <!-- .slide: class="transition bottom mask" data-background="./assets/images/g3e3083f2f8_0_16.png"-->
 
 # Réseaux sociaux
@@ -63,7 +72,9 @@ Soyez présent sur les réseaux sociaux, ayez du contenu de qualité
 
 
 
+
 ##==##
+
 <!-- .slide: class="transition bottom mask" data-background="./assets/images/g3e3083f2f8_1_8.png"-->
 
 # Blog
@@ -74,7 +85,9 @@ Ayez éventuellement un blog, aujourd’hui Medium vous permet d’avoir une pr�
 
 
 
+
 ##==##
+
 <!-- .slide: class="transition top" data-background="./assets/images/g3e3083f2f8_3_0.png"-->
 
 # Développez votre réseau
@@ -85,8 +98,10 @@ Discutez avec les conférenciers, discutez avec les organisateurs, c’est le me
 
 
 
+
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e3083f2f8_3_7.png" data-type-show="prez"-->
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3e3083f2f8_3_7.png" data-type-show="prez"-->
 
 # Axes d’amélioration
 
@@ -100,7 +115,9 @@ Répéter
 Travailler son intro ...
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="full" -->
 
 # Axes d’amélioration
@@ -114,10 +131,12 @@ Travailler son intro ...
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="#fcec00" class="a-vous"-->
 
-![full-width-screen bottom](./assets/images/g3d67955561_0_107.png)
+![](./assets/images/g3d67955561_0_107.png 'full-width-screen bottom')
 
 
 # A VOUS !
@@ -132,7 +151,9 @@ Maintenant c’est leur prendre les post-its  et d’écrire une action que vous
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3a864e7b0c_0_454.png"-->
 
 

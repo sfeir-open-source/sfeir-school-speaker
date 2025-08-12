@@ -1,4 +1,4 @@
-<!-- .slide:-->
+
 
 # Slides de la formation
 
@@ -9,7 +9,9 @@ http://bit.ly/sfeir-speaker-200
 <!-- .element: class="center" -->
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="prez" -->
 
 # Ce que n’est pas cette formation 
@@ -28,7 +30,9 @@ Cours de théatre
 Cours de positionement sur scénique ni de maitrise de son stress de façon approfondie
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="full" -->
 
 # Ce que n’est pas cette formation 
@@ -50,7 +54,9 @@ Cours de positionement sur scénique ni de maitrise de son stress de façon appr
 
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="prez"-->
 
 # Déroulement de la formation
@@ -81,7 +87,9 @@ Comment se comporter sur scène
 
 Que faire après
 
+
 ##==##
+
 <!-- .slide: data-type-show="full" -->
 
 # Déroulement de la formation

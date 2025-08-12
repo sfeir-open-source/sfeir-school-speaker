@@ -1,14 +1,17 @@
-<!-- .slide:-->
 
-![full-center](./assets/images/g3d67955561_0_48.png)
+
+![](./assets/images/g3d67955561_0_48.png) 
+<!-- .element: class="full-center" -->
 
 Notes:
 expliquer le principe de la courbe du hype
 
 
 
+
 ##==##
-<!-- .slide: class="transition underline bottom mask" data-background="./assets/images/g3a864e7b0c_0_496.png"-->
+
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3a864e7b0c_0_496.png"-->
 
 # Seul ou accompagné ?
 
@@ -19,7 +22,9 @@ Sinon, il fallait que je mettes une image de chat !
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3d67955561_0_63.png"-->
 
 <h1 class="bandeau block">Combien <br>
@@ -32,7 +37,9 @@ Avoir un sujet, c’est bien, savoir combien de temps on comptes en parler c’e
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1> Lightning Talk <br> (5min)</h1>
@@ -40,13 +47,15 @@ Avoir un sujet, c’est bien, savoir combien de temps on comptes en parler c’e
 
 <br>
 
-![w-500 center](./assets/images/g3d67955561_0_76.png)
+![](./assets/images/g3d67955561_0_76.png 'w-500 center')
 
 Notes:
 Très difficile
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1> Quickie <br> (15 - 20 min)</h1>
@@ -54,67 +63,77 @@ Très difficile
 
 <br>
 
-![w-500 center](./assets/images/g3d67955561_0_76.png)
+![](./assets/images/g3d67955561_0_76.png 'w-500 center')
 
 Notes:
 Temps idéal pour démarrer 
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1>Tools In Action <br>(30 min)</h1>
 
 <br>
 
-![w-500 center](./assets/images/g3d67955561_0_97.png)
+![](./assets/images/g3d67955561_0_97.png 'w-500 center')
 
 Notes:
 permet de démontrer un truc, live coding, démo live ...
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1>Conference<br>(40 - 60 min)</h1>
 
 <br>
 
-![w-500 center](./assets/images/g3d67955561_0_100.png)
+![](./assets/images/g3d67955561_0_100.png 'w-500 center')
 
 Notes:
 on peut vite s’égarer
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1>University<br>(120 - 180 min)</h1>
 
 
-![w-500 center](./assets/images/g3d67955561_0_98.png)
+![](./assets/images/g3d67955561_0_98.png 'w-500 center')
 
 Notes:
 très dur mais permet de rentrer dans un sujet à fond
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 <h1>Hand’s On<br>(120 - 180 min)</h1>
 
 
-![center w-500](./assets/images/g3d67955561_0_101.png)
+![](./assets/images/g3d67955561_0_101.png 'center w-500')
 
 Notes:
 bien car possède l’avantage de la proximité
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="full"-->
 
 # Les timings
@@ -131,11 +150,13 @@ bien car possède l’avantage de la proximité
 
 <img class="w-100" src="./assets/images/g3d67955561_0_101.png"><span>Hand’s On (120 - 180 min)</span>
 
+
 ##==##
 
-<!-- .slide:-->
 
-![h-900 center](./assets/images/gartner-timing.png)
+
+
+![](./assets/images/gartner-timing.png 'h-900 center')
 
 Notes:
 Retour sur la courbe et comment placer les timings dans la courbe

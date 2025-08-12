@@ -1,6 +1,6 @@
 <!-- .slide: data-background="#fcec00" class="a-vous"-->
 
-![full-width-screen bottom](./assets/images/g3d67955561_0_107.png)
+![](./assets/images/g3d67955561_0_107.png 'full-width-screen bottom')
 
 
 # A VOUS !

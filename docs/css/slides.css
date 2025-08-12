@@ -118,6 +118,8 @@ Specifics
   position: absolute;
   top: 0px;
   width: 100%;
+  text-align: center;
+  right: 200px;
 }
 .reveal .slides section.a-vous h1.bandeau.block {
   top: 50%;

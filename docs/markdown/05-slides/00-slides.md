@@ -1,8 +1,10 @@
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_202.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3d67955561_0_202.png"-->
 
 # Bien préparer ses slides
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_0.png"-->
 
 # Structurer ses idées
@@ -14,7 +16,9 @@ Notes:
 Parler du concept de mindmap
 
 
+
 ##==##
+
 <!-- .slide:  class="transition underline bottom mask" data-background="./assets/images/g3e3083f2f8_3_26.png"-->
 
 # Tuez des chiots
@@ -27,35 +31,45 @@ Il faut supprimer ces idées qu’on a qui font qu’on va déborder
 
 
 
+
 ##==##
+
 
 # Storytelling
 <!-- .element: class="big thin" -->
 
-![full-center h-700](./assets/images/storytelling.svg)
+![](./assets/images/storytelling.svg 'h-700') 
+<!-- .element: class="full-center" -->
 
 Notes:
 Toute histoire suit une même logique 
 
+
 ##==##
+
 
 # Storytelling - Phases et phrases
 <!-- .element: class="big thin" -->
 
-![full-center h-700](./assets/images/storytelling-phrases.svg)
+![](./assets/images/storytelling-phrases.svg 'h-700') 
+<!-- .element: class="full-center" -->
 
 Notes:
 On peut utiliser des phrases toutes faites
 
 
 
+
 ##==##
-<!-- .slide: class="transition bg-pink"-->
+
+<!-- .slide: class="transition"-->
 
 # POSEZ-VOUS CES QUESTIONS :
 
 
+
 ##==##
+
 <!-- .slide: class="transition bg-white" data-type-show="prez" -->
 
 # QUI EST MON AUDITOIRE ?
@@ -64,7 +78,9 @@ On peut utiliser des phrases toutes faites
 Notes:
 Public technique vs Public non tech
 
+
 ##==##
+
 <!-- .slide:  data-type-show="full" -->
 
 # Qui est mon auditoire ?
@@ -74,7 +90,9 @@ Public technique vs Public non tech
 Un public technique n’attendra pas la même chose qu’un public de décideurs !
 
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" data-type-show="prez" -->
 
 # QU’ATTENDENT-ILS ?
@@ -83,7 +101,9 @@ Un public technique n’attendra pas la même chose qu’un public de décideurs
 Notes:
 Ils attendent ce qui est écrit dans la description de votre cfp
 
+
 ##==##
+
 <!-- .slide: data-type-show="full" -->
 
 # Qu'attendent-tils ?
@@ -94,7 +114,9 @@ Ils attendent ce qui est écrit dans la description de votre cfp
 La réponse est simple :  Ils attendent ce qui est marqué dans la description de votre conférence ! 
 
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" data-type-show="prez" -->
 
 # SLIDES AUTOPORTEURS ?
@@ -106,7 +128,9 @@ Le plus important,c’est quoi ? vous ? ou les slides ? Clairement dans une conf
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez" -->
 
 <br><br>
@@ -119,7 +143,9 @@ Le plus important,c’est quoi ? vous ? ou les slides ? Clairement dans une conf
 https://sfeir-open-source.github.io/sfeir-school-speaker/index_prez.html
 <!-- .element: class="center" -->
 
+
 ##==##
+
 <!-- .slide: data-type-show="full" -->
 
 # Slides autoporteurs ?
@@ -140,64 +166,90 @@ Le plus important,c’est quoi ? vous ? ou les slides ? Clairement dans une conf
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 <br>
 
-![full-center h-600](./assets/images/g3d67955561_0_214.gif)
+![](./assets/images/g3d67955561_0_214.gif 'h-600') 
+<!-- .element: class="full-center" -->
+
 
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3d67955561_0_215.gif"-->
 
-##==##
-<!-- .slide:-->
-
-![full-center h-700](./assets/images/g3d67955561_0_222.png)
 
 ##==##
+
+
+
+![](./assets/images/g3d67955561_0_222.png 'h-700') 
+<!-- .element: class="full-center" -->
+
+
+##==##
+
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
 
 
 Notes:
 le plus important c’est le focus !!! c’est le conseil numéro 1
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
+
 ##==##
+
 
 # Voici ma place !
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
+
 ##==##
+
 
 # Mince c'est quoi déjà ?
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
+
 ##==##
+
 
 # A oui et quel siège ?
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 
 ##==##
+
 <!-- .slide: data-background="black"-->
 
 
+
 ##==##
+
 <!-- .slide: class="transition"-->
 
 # MISEZ SUR LA SIMPLICITÉ
@@ -205,7 +257,9 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 <br>
 
 
+
 ##==##
+
 <!-- .slide: class="awefull-slide"-->
 
 # Car avec un titre ça fait trop
@@ -235,14 +289,18 @@ Qui en plus, ont beaucoup de texte, c’est vraiment pas cool
 <!-- .element: class="big-text" -->
 
 
+
 ##==##
+
 <!-- .slide: class="no-background no-style"-->
 
 <br><br><br>
 
 # Mais pas sans style non plus
 
+
 ##==##
+
 <!-- .slide: data-background="#434343" id="dark-theme-slide"-->
 
 <br><br><br>
@@ -252,7 +310,9 @@ Qui en plus, ont beaucoup de texte, c’est vraiment pas cool
 Notes:
 Car au niveau contraste ça passe pas toujours !!
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" -->
 
 
@@ -262,8 +322,10 @@ Notes:
 Car au niveau contraste ça passe pas toujours !!
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Evitez aussi les Bullets Points
 
@@ -274,8 +336,10 @@ Car au niveau contraste ça passe pas toujours !!
 * Par bullet Point
 * En plus les participants cherchent à lire ce qui est écrit
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Privilégiez la simplicité
 
@@ -289,32 +353,42 @@ Car au niveau contraste ça passe pas toujours !!
 </ul>
 
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" -->
 
 
 # Une Idée = 1 Slide
 
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" -->
 
 
 <h1> 2 Fonts Maxi<br>
 Par slide</h1>
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition no-more-seven-words" -->
 
 
 <h1> Pas plus de sept mots par ligne</h1>
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition"-->
 # Jouons un petit jeu
 
+
 ##==##
+
 <!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
@@ -337,7 +411,9 @@ Par slide</h1>
 </div>
 
 
+
 ##==##
+
 <!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
@@ -359,7 +435,9 @@ Par slide</h1>
 
 
 
+
 ##==##
+
 <!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
@@ -379,7 +457,9 @@ Par slide</h1>
 
 
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/g3a864e7b0c_0_56.png" -->
 
@@ -388,7 +468,9 @@ Notes:
 Les plans ne servent à rien, vous déroulez vos slides, mais pourquoi annoncer aux gens le programme ? y a déjà la description pour ça
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3d67955561_0_317.png" class="history"-->
 
 # créez une histoire
@@ -399,7 +481,9 @@ parler de la vision du talk et l’histoire que l’on doit écrire pour aller d
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3d67955561_0_319.png"-->
 
 Notes:
@@ -411,7 +495,9 @@ Aller y respirez !
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3d67955561_0_323.gif"-->
 
 Notes:
@@ -419,14 +505,18 @@ Aller y respirez !
 
 
 
+
 ##==##
+
 
 <!-- .slide: class="bg-white transition" -->
 
 # MONTRER DU CODE OU UNE DÉMO
 
 
+
 ##==##
+
 <!-- .slide: class="with-code-dark" -->
 
 # Hello World.js
@@ -445,7 +535,9 @@ class HelloWorld {
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
+
 <!-- .slide: class="with-code-dark" -->
 
 # Hello World.js
@@ -463,7 +555,9 @@ class HelloWorld {
 ```
 <!-- .element: class="big-code" -->
 
+
 ##==##
+
 <!-- .slide: class="with-code-dark" -->
 
 # Hello World.js
@@ -482,7 +576,9 @@ class HelloWorld {
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
+
 <!-- .slide: class="with-code-dark" -->
 
 # Hello World.js
@@ -501,7 +597,9 @@ class HelloWorld {
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
+
 <!-- .slide: class="with-code" -->
 
 # Hello World.js
@@ -519,7 +617,9 @@ class HelloWorld {
 ```
 <!-- .element: class="big-code" -->
 
+
 ##==##
+
 <!-- .slide: class="with-code" -->
 
 # Hello World.js
@@ -537,7 +637,9 @@ class HelloWorld {
 ```
 <!-- .element: class="big-code" -->
 
+
 ##==##
+
 <!-- .slide: class="with-code" -->
 
 # Hello World.js
@@ -555,7 +657,9 @@ class HelloWorld {
 ```
 <!-- .element: class="big-code" -->
 
+
 ##==##
+
 
 <!-- .slide: class="with-code-dark" -->
 
@@ -575,51 +679,66 @@ class HelloWorld {
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
 
 
-![h-700 full-center](./assets/images/g3e2a33239d_1_0.png)
+
+![](./assets/images/g3e2a33239d_1_0.png 'h-700') 
+<!-- .element: class="full-center" -->
 
 Notes:
 même chose pour les démos
 
 
 
-##==##
-
-
-![h-700 full-center](./assets/images/crop_image.png)
-
 
 ##==##
+
+
+
+![](./assets/images/crop_image.png 'h-700') 
+<!-- .element: class="full-center" -->
+
+
+
+##==##
+
 
 <!-- .slide: class="bg-white transition" -->
 
 # DOIS JE METTRE UN SLIDE D'INTRO ?
 
+
 ##==##
+
 
 <!-- .slide: class="speaker-slide" data-type-show="prez" -->
 
+<div class="speaker-slide">
+
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
+![](./assets/images/jf.jpg 'speaker')
+
+![](./assets/images/gde.png 'badge')
 
 <h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
-<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo-sfeir-blanc.png)
+![](./assets/images/logo-sfeir-blanc.png 'company')
+
+</div>
 
 Notes:
 Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontacter / Pub
 
+
 ##==##
+
 
 <!-- .slide: data-type-show="full" -->
 
@@ -636,17 +755,23 @@ Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontact
 * Pub si on a été aidé
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/alex-413259-unsplash.jpg" data-type-show="prez" -->
 
 
+
 ##==##
-<!-- .slide: class="transition underline top" data-background="./assets/images/alex-413259-unsplash.jpg" data-type-show="full" -->
+
+<!-- .slide: class="transition top" data-background="./assets/images/alex-413259-unsplash.jpg" data-type-show="full" -->
 
 # N'oubliez pas de conclure
 
 
+
 ##==##
+
 <!-- .slide: class="transition bottom mask" data-background="./assets/images/g3a83c5854a_0_5.png"-->
 
 # Quand terminer ses slides ?
@@ -656,15 +781,19 @@ Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontact
 Notes:
 Au moins 1 semaine avant, la deadline n’est pas le jour de la prez mais 1 semaine avant ! ça nous permet d’être plus serein, de répéter, de faire des ajustements
 
+
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3e2b346e48_0_83.png"-->
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3e2b346e48_0_83.png"-->
 
 # A propos du tooling
 
 
 
+
 ##==##
-<!-- .slide: -->
+
+
 
 <div class="flex-row">
   <div class="moteur">
@@ -705,7 +834,9 @@ qu’est ce qu’on veut ?
 Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? …..
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez" -->
 
 <div class="flex-row">
@@ -733,7 +864,9 @@ Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? ….
 </div>
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="show" -->
 
 <div class="flex-row">
@@ -764,8 +897,10 @@ Est ce que vous pouvez mettre des notes ? est ce que c’est collaboratif ? ….
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 
 <div class="flex-row">
@@ -799,8 +934,10 @@ Vidéo enregistrée
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Quelques exemples
 
@@ -819,8 +956,10 @@ revenir sur des exemples de templates que j’ai fait
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Quelques ressources
 
@@ -840,8 +979,10 @@ revenir sur des exemples de templates que j’ai fait
 * Site de ressources SVG libres
   * https://thenounproject.com
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Autres ressources
 
@@ -859,7 +1000,9 @@ revenir sur des exemples de templates que j’ai fait
   * [Font Awesome Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1TCvrxwB47vjFybod0aHIm8rlU-Kyv_E1myUfNvIm9Sc/edit?usp=sharing)
   * [Feather Icons · SlidesCarnival Resources](https://docs.google.com/presentation/d/1PCvf62Y_XWecLXll4Kqt7r9Rs5kNse5JQUddqG7BjZ8/edit?usp=sharing)
 
+
 ##==##
+
 
 # Autres ressources
 
@@ -870,12 +1013,16 @@ revenir sur des exemples de templates que j’ai fait
  * [Prism](https://prismjs.com/)
 
 
+
 ##==##
+
 <!-- .slide: class="transition bottom" data-background="./assets/images/checklist-daily-report-data-972531.jpg"-->
 
 # Que vérifier pour son template ?
 
+
 ##==##
+
 <!-- .slide: class="transition" -->
 
 
@@ -884,55 +1031,70 @@ revenir sur des exemples de templates que j’ai fait
 ## avec éventuellement un sous titre
 
 
+
 ##==##
+
 
 <!-- .slide: class="speaker-slide" data-type-show="prez" -->
 
+<div class="speaker-slide">
+
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
+![](./assets/images/jf.jpg 'speaker')
+
+![](./assets/images/gde.png 'badge')
 
 <h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
-<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo-sfeir-blanc.png)
+![](./assets/images/logo-sfeir-blanc.png 'company')
+
+</div>
 
 Notes:
 Ne pas mettre son CV, informations importantes : Photo / Nom / Comment recontacter / Pub
 
 
+
 ##==##
+
 
 # Un slide classique 
 
 avec du contenu classique
 
+
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/memories-nostalgic-people-5842.jpg"-->
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/memories-nostalgic-people-5842.jpg"-->
 
 # Du contenu avec une image
 
+
 ##==##
-<!-- .slide: class="bg-pink transition" -->
+
+<!-- .slide: class="transition" -->
 
 
 # Slide de transition
 
 
+
 ##==##
+
 
 <br>
 
 >Slide pour des citations
 
 
+
 ##==##
+
 
 <!-- .slide: class="bg-white transition" -->
 
