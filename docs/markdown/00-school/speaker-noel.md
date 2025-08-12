@@ -1,13 +1,18 @@
 <!-- .slide: class="speaker-slide" -->
 
+<div class="speaker-slide">
+
 # Présentation
 
-![speaker](./assets/images/noel.jpg)
+![](./assets/images/noel.jpg 'speaker')
 
-![badge](./assets/images/avocado-rocks.png)
+![](./assets/images/avocado-rocks.png 'badge')
 
 ## Noël Macé
 
 ### Web Developer Advocate
 
 ### @noel_mace
+
+</div>
+

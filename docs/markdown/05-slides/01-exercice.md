@@ -12,7 +12,9 @@ Pendant la prez, ne pas regarder le public mais juste l'écran
 
 Prépa -> Enlever paramétrage de l'écran / Régler alarme téléphone / Commencer sans montrer le bon écran / Paramétrage du fond d'écran 'fake-desktop'
 
+
 ##==##
+
 
 <!-- .slide: class="transition-bg-sfeir-3" data-type-show="terrible"-->
 
@@ -28,8 +30,10 @@ Liste de choses à ne pas oublier : parler des nombres premiers / Promener le ch
 
 Prépa -> TEL / ECRAN
 
+
 ##==##
-<!-- .slide: -->
+
+
 
 <br><br><br><br>
 
@@ -41,12 +45,14 @@ Nantes le 15 juillet 2018 <!--.element: class="center" --><br>
 Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="center" -->
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Jean-François Garreau
 
-![float-left](./assets/images/photo-jf-old.png)
+![](./assets/images/photo-jf-old.png 'float-left')
 
 * Mutiples diplômes
   * Bac S spé Math
@@ -64,8 +70,10 @@ Jean-François Garreau : Director Engineering Sfeir Nantes <!--.element: class="
 Notes:
 MTS = Mozilla Tech Speaker
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -81,8 +89,10 @@ MTS = Mozilla Tech Speaker
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -98,8 +108,10 @@ MTS = Mozilla Tech Speaker
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -115,8 +127,10 @@ MTS = Mozilla Tech Speaker
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -132,8 +146,10 @@ MTS = Mozilla Tech Speaker
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Introduction : Pourquoi nous devons nous intéresser à cette problématique compliquée
 
@@ -147,8 +163,10 @@ MTS = Mozilla Tech Speaker
 Notes:
 Ne pas regarder les participants
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -164,29 +182,37 @@ Ne pas regarder les participants
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Des nombres premiers !
 
 
-![full-center h-900](./assets/images/first-1000-prime-numbers-thumb.png)
+![](./assets/images/first-1000-prime-numbers-thumb.png 'h-900') 
+<!-- .element: class="full-center" -->
 
 Notes: 
 Ici on voit très bien les 1000 premiers nombres premiers c'est important comme information !!
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Des statistiques de nombres
 
 
-![full-center h-800](./assets/images/distribution-chiffres.avif)
+![](./assets/images/distribution-chiffres.avif 'h-800') 
+<!-- .element: class="full-center" -->
 
 Notes: 
 Très très important de constater cette répartition de nombres surtout si on parle de nombres premiers.
 
+
 ##==##
+
 <!-- .slide: data-state="hide-notification-event"-->
 
 # Agenda
@@ -203,13 +229,16 @@ Très très important de constater cette répartition de nombres surtout si on p
 * Questions
 
 
+
 ##==##
+
 <!-- .slide:  data-state="show-notification-event"-->
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers.svg)
+![](./assets/images/generation-nb-premiers.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 Lire les notes sur ce slide !!
@@ -220,8 +249,11 @@ Il s'agit du théorème de Wilson créé en 1964
 
 
 
+
 ##==##
-<!-- .slide: class="two-column" data-state="hide-notification-event"-->
+<!-- .slide: class="tc-multiple-columns" data-state="hide-notification-event"-->
+
+##++##
 
 # Le saviez-vous ?
 
@@ -231,19 +263,21 @@ N est probablement premier sur une base B si :
 
 
 <blockquote><cite>N>1 et B^(N-1)%N ==1 </cite></blockquote>
+##++##
+##++##
+
+<br><br>
+
+![](./assets/images/g3a864e7b0c_0_125.png 'h-500')
+##++##
+
 
 Notes: 
 Alors là c'est facile ! 
 
 ça sert en fait pour éviter de partir sur des calculs trop longs ou complexes surtout en crypto où on va chercher à avoir des grands chiffres premiers et donc on aura besoin d'avoir une méthode de calcul plus rapide
-
-##--##
-
-<br><br>
-
-![h-500](./assets/images/g3a864e7b0c_0_125.png)
-
 ##==##
+
 <!-- .slide: data-state="hide-notification-event"-->
 
 # Agenda
@@ -260,7 +294,9 @@ Alors là c'est facile !
 * Questions
 
 
+
 ##==##
+
 <!-- .slide: class="with-code"-->
 
 # Un slide de code qui compile car c’est important
@@ -314,8 +350,10 @@ public class ProbablePrimeClass {
 ```
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -331,8 +369,10 @@ public class ProbablePrimeClass {
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pour conclure
 
@@ -340,8 +380,10 @@ public class ProbablePrimeClass {
 Pour conclure, les nombres premiers sont une chose complexe pouvant demander une très grande puissance de calcul et donc, on doit toujours manipuler ses nombres avec précautions et éventuellement faire appels à des variantes comme les nombres probablement premiers vus précédement.
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -357,8 +399,10 @@ Pour conclure, les nombres premiers sont une chose complexe pouvant demander une
 * Questions
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # C’est le moment d'interagir
 
@@ -371,24 +415,29 @@ https://docs.google.com/forms/d/e/1FAIpQLSe30j2ELgFY8-Jwhl5EMjyQaFpePx5BBxg2o9qp
 
 <br>
 
-![full-center](./assets/images/qrcode.png)
+![](./assets/images/qrcode.png) 
+<!-- .element: class="full-center" -->
 
 Notes:
 Rester 2 sec
 
+
 ##==##
+
 
 # Merci de votre attention
 
 ## Jean-François Garreau
 
-![float-left](./assets/images/photo-jf-old.png)
+![](./assets/images/photo-jf-old.png 'float-left')
 
 * Titulaire d'un bac S, DEUG MIAS, Diplome SLIR, Bafa
 * Contactez moi par Phax au +33666555444333
 
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/seriously.gif" class="transition" -->
 
@@ -402,13 +451,16 @@ Notes:
 * Ne pas regarder le public
 * Non inclusif
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # On peut faire mieux
 
 
-![full-center h-600](./assets/images/g3a864e7b0c_0_158.png)
+![](./assets/images/g3a864e7b0c_0_158.png 'h-600') 
+<!-- .element: class="full-center" -->
 
 Notes: 
 ### revenir sur : 
@@ -426,9 +478,11 @@ Toujours  en 2 temps, le slide qui va pas, on interroge les gens et on fait mieu
 
 
 
+
 ##==##
 
-<!-- .slide: -->
+
+
 
 <br><br><br><br>
 
@@ -450,7 +504,9 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 
 
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/numbers.jpeg" class="transition mask" -->
 
@@ -461,11 +517,13 @@ Le titre est beaucoup trop long, tout droit sorti d’une thèse ! Il faut que l
 Nantes le 31/05/22<!--.element: class="center" id="real-hour"--><br>
 
 
+
 ##==##
+
 
 # Jean-François Garreau
 
-![float-left](./assets/images/photo-jf-old.png)
+![](./assets/images/photo-jf-old.png 'float-left')
 
 * Mutiples diplômes
   * Bac S spé Math
@@ -490,7 +548,9 @@ Notes:
 On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h sur le sujet !
 
 
+
 ##==##
+
 
 <!-- .slide: class="quote-slide" -->
 
@@ -503,31 +563,37 @@ On cherche quoi là à convaincre les participants ? rien ne sert de passer 3h s
 </blockquote>-->
 
 
+
 ##==##
+
 
 <!-- .slide: class="speaker-slide" -->
 
+<div class="speaker-slide">
+
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
+![](./assets/images/jf.jpg 'speaker')
+
+![](./assets/images/gde.png 'badge')
 
 <h2> Jean-François<span> Garreau</span></h2>
 
 ### CTO front
-<!-- .element: class="icon-rule icon-first" -->
 
 ### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo-sfeir-blanc.png)
+![](./assets/images/logo-sfeir-blanc.png 'company')
 
+</div>
 
 Notes:
 ce qui est important pour les gens : votre nom, votre boite (histoire de faire un peu de pub), un moyen de vous suivre
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Agenda
 
@@ -546,7 +612,9 @@ ce qui est important pour les gens : votre nom, votre boite (histoire de faire u
 Notes:
 à remplacer par rien du tout !!! si le menu ne plait pas, les gens ont le droit de s’en aller ?
 
+
 ##==##
+
 
 <!-- .slide: class="quote-slide" -->
 
@@ -564,8 +632,10 @@ Notes:
 https://imgflip.com/meme/Running-Away-Balloon
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Introduction : Pourquoi nous devons nous intéresser à cette problématique compliquée
 
@@ -581,8 +651,10 @@ Pas de bullets points, rappel, 1 bullet point = une idée et surtout il ne faut 
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -599,8 +671,10 @@ on va réduire le texte affiché !
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -618,8 +692,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -632,8 +708,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -645,8 +723,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 * Cette présentation s’adresse à toutes les personnes qui se posent des questions sur leur compréhension des nombres premiers
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -658,8 +738,10 @@ on met des mots en gras, pour faire apparaître les infos principales
 * Pour **qui ?**
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pourquoi ?
 
@@ -674,7 +756,9 @@ avec une animation d’affichage
 
 
 
+
 ##==##
+
 <!-- .slide: class="bg-white transition" -->
 
 
@@ -682,7 +766,9 @@ avec une animation d’affichage
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/numbers-why.jpeg" class="transition right" -->
 
 
@@ -694,7 +780,9 @@ Ou alternative : 1 idée = 1 slide
 
 
 
+
 ##==##
+
 <!-- .slide: class="transition mask" data-background="./assets/images/pexels-black-ice-551383-1314543.jpg" -->
 
 # Pourquoi c'est important
@@ -705,8 +793,10 @@ Soit juste du texte
 
 
 
+
 ##==##
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/markus-spiske-iar-afB0QQw-unsplash.jpg" -->
+
+<!-- .slide: class="transition bottom" data-background="./assets/images/markus-spiske-iar-afB0QQw-unsplash.jpg" -->
 
 # utile en cryptographie
 
@@ -714,14 +804,16 @@ Soit juste du texte
 Notes:
 Une image peut aider à faire passer un message
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-state="hide-notification-event"-->
 
 # Des stats importantes !
 
 
-![h-500](./assets/images/first-1000-prime-numbers-thumb.png)
-![h-500](./assets/images/distribution-chiffres.avif)
+![](./assets/images/first-1000-prime-numbers-thumb.png 'h-500')
+![](./assets/images/distribution-chiffres.avif 'h-500')
 
 **On ne peut rien dégager comme information !!**<!-- .element: class="fragment"  -->
 
@@ -730,23 +822,27 @@ Il faut donc soit des unitées, soit guider le participant
 D'un côté, contextualiser ! De l'autre trop fouilli
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-state="hide-notification-event"-->
 
 # Nombres premiers dans les 100 premiers nombres
 
 
-![h-700](./assets/images/Primencomposite0100.svg.png)
+![](./assets/images/Primencomposite0100.svg.png 'h-700')
 
 Notes:
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-state="hide-notification-event"-->
 
 # Loi de Benford
 
 
-![h-700](./assets/images/distribution-chiffres.avif)
+![](./assets/images/distribution-chiffres.avif 'h-700')
 
 Fréquence relative d'apparition de la 1ère décimale
 
@@ -755,86 +851,110 @@ La loi de Benford, initialement appelée loi des nombres anormaux par Benford1,2
 
 
 
+
 ##==##
+
 <!-- .slide: data-state="show-notification-event"-->
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers.svg)
+![](./assets/images/generation-nb-premiers.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
+
 <!-- .slide: data-state="hide-notification-event"-->
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers-1.svg)
+![](./assets/images/generation-nb-premiers-1.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers-2.svg)
+![](./assets/images/generation-nb-premiers-2.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers-3.svg)
+![](./assets/images/generation-nb-premiers-3.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers-4.svg)
+![](./assets/images/generation-nb-premiers-4.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers-5.svg)
+![](./assets/images/generation-nb-premiers-5.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Une formule triviale
 
 
-![full-center h-500](./assets/images/generation-nb-premiers.svg)
+![](./assets/images/generation-nb-premiers.svg 'h-500') 
+<!-- .element: class="full-center" -->
 
 Notes:
 En soit pourquoi pas, mais il faut guider, diviser le problème, mettre en avant les choses à highlighter
 
+
 ##==##
-<!-- .slide: class="two-column" data-state="hide-notification-event"-->
+<!-- .slide: class="tc-multiple-columns" data-state="hide-notification-event"-->
+
+##++##
 
 # Le saviez-vous ?
 
@@ -844,6 +964,14 @@ N est probablement premier sur une base B si :
 
 
 <blockquote><cite>N>1 et B^(N-1)%N ==1 </cite></blockquote>
+##++##
+##++##
+
+<br><br>
+
+![](./assets/images/g3a864e7b0c_0_125.png 'h-500')
+##++##
+
 
 Notes: 
 Alors là c'est facile ! 
@@ -851,15 +979,9 @@ Alors là c'est facile !
 La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Ici, nous avons réuni théorie et pratique : Rien ne fonctionne... et personne ne sait pourquoi !
 
 Trivial non ?
-
-##--##
-
-<br><br>
-
-![h-500](./assets/images/g3a864e7b0c_0_125.png)
-
 ##==##
-<!-- .slide:-->
+
+
 
 # Le saviez-vous ?
 
@@ -875,15 +997,17 @@ Trivial non ?
 Notes:
 Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pas hésiter à mettre juste des mots clés
 
+
 ##==##
 
-<!-- .slide:-->
+
+
 
 # Logique !
 
 
 
-![h-700 center](./assets/images/g3a864e7b0c_0_125.png)
+![](./assets/images/g3a864e7b0c_0_125.png 'h-700 center')
 
 
 Notes:
@@ -891,7 +1015,9 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 
 
+
 ##==##
+
 
 <!-- .slide: class="quote-slide" -->
 
@@ -901,44 +1027,60 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
 
+
 ##==##
+
 
 # Voici ma place !
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
+
 ##==##
+
 
 # Mince c'est quoi déjà ?
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/charles-forerunner-gapYVvUg1M8-unsplash.jpg"-->
 
+
 ##==##
+
 
 # A oui et quel siège ?
 
-![center h-600](./assets/images/billet-train.png)
+![](./assets/images/billet-train.png 'center h-600')
+
 
 
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/javier-martinez-hUD0PUczwJQ-unsplash.jpg" class="transition" data-type-show="terrible"-->
 # Jouons un petit jeu
 
+
 ##==##
+
 <!-- .slide: class="flew-row" data-type-show="terrible"-->
 
 # Combien d'objets ?
@@ -961,7 +1103,9 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 </div>
 
 
+
 ##==##
+
 <!-- .slide: class="flew-row" data-type-show="terrible"-->
 
 # Combien d'objets ?
@@ -983,7 +1127,9 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 
 
 
+
 ##==##
+
 <!-- .slide: class="flew-row" data-type-show="terrible"-->
 
 # Combien d'objets ?
@@ -1002,7 +1148,9 @@ Plutôt que d’avoir de longues phrase que l’on va paraphraser, il ne faut pa
 </div>
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3a83c5854a_0_6.png"-->
 
 
@@ -1010,12 +1158,16 @@ Notes:
 le plus important c’est le focus !!! c’est le conseil numéro 1
 
 
+
 ##==##
+
 <!-- .slide: data-background="black"-->
 
 
 
+
 ##==##
+
 
 <!-- .slide: class="quote-slide" -->
 
@@ -1027,7 +1179,9 @@ le plus important c’est le focus !!! c’est le conseil numéro 1
 
 
 
+
 ##==##
+
 <!-- .slide: class="with-code"-->
 
 # Un slide de code qui compile car c’est important
@@ -1086,7 +1240,9 @@ un slide de code ne doit pas compiler !!! on doit faire passer des messages !
 
 
 
+
 ##==##
+
 <!-- .slide: class="with-code max-height"-->
 
 # WeakProbalePrime.java
@@ -1110,7 +1266,9 @@ c’est mieux si on guide l’attention du participant
 
 
 
+
 ##==##
+
 <!-- .slide: class="with-code max-height"-->
 
 # WeakProbalePrime.java
@@ -1130,7 +1288,9 @@ public integer modularExponentiation(int base, int exp, int mod){
 <!-- .element: class="big-code" -->
 
 
+
 ##==##
+
 <!-- .slide: class="with-code max-height"-->
 
 # WeakProbalePrime.java
@@ -1151,7 +1311,9 @@ public integer modularExponentiation(int base, int exp, int mod){
 
 
 
+
 ##==##
+
 <!-- .slide: class="with-code max-height"-->
 
 # WeakProbalePrime.java
@@ -1172,7 +1334,9 @@ public integer modularExponentiation(int base, int exp, int mod){
 
 
 
+
 ##==##
+
 
 <!-- .slide: class="quote-slide" -->
 
@@ -1183,8 +1347,10 @@ public integer modularExponentiation(int base, int exp, int mod){
 
 
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # Pour conclure
 
@@ -1197,15 +1363,19 @@ le pavé ne sert pas à grand chose sur scène
 
 
 
+
 ##==##
+
 <!-- .slide: data-background="./assets/images/g3a864e7b0c_0_411.png"-->
 
 
 Notes:
 Une image vaut mieux parfois que du texte afin de poser sa conclusion
 
+
 ##==##
-<!-- .slide:-->
+
+
 
 # C’est le moment d'interagir
 
@@ -1217,58 +1387,69 @@ Avec un peu de technologie c’est encore mieux
 
 <br>
 
-![full-center](./assets/images/qrcode.png)
+![](./assets/images/qrcode.png) 
+<!-- .element: class="full-center" -->
+
 
 
 ##==##
 
+
 <!-- .slide: class="speaker-slide" -->
+
+<div class="speaker-slide">
 
 # Merci de votre attention
 
-
-![speaker](./assets/images/jf.jpg)
+![](./assets/images/jf.jpg 'speaker')
 
 <h2> Jean-François<span> Garreau</span></h2>
 
 ### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo-sfeir-blanc.png)
+![](./assets/images/logo-sfeir-blanc.png 'company')
 
 <a style="color:white" href="https://url-slides">https://url-slides</a>
+
+</div>
 
 Notes:
 Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !
 
 
+
 ##==##
+
 
 <!-- .slide: data-background="./assets/images/pexels-ann-h-6980523.jpg" data-type-show="terrible"-->
 
 Notes:
 Conclusion !
 
+
 ##==##
+
 
 <!-- .slide: class="speaker-slide" data-type-show="terrible" -->
 
+<div class="speaker-slide">
+
 # Des Questions ?
 
-
-![speaker](./assets/images/jf.jpg)
+![](./assets/images/jf.jpg 'speaker')
 
 <h2> Jean-François<span> Garreau</span></h2>
 
 ### @jefbinomed
-<!-- .element: class="icon-twitter icon-second" -->
 
-![company](./assets/images/logo-sfeir-blanc.png)
+![](./assets/images/logo-sfeir-blanc.png 'company')
 
 <a style="color:white; top: 400px;" href="https://bit.ly/terrible-talk">https://bit.ly/terrible-talk</a>
 
 © Chet Haase
 <!-- .element: class="credits"-->
+
+</div>
 
 Notes:
 Un rappel de son twitter, l’url des slides, faire en sorte d’ouvrir la discussion avant tout !

@@ -1,5 +1,5 @@
 
-<!-- .slide: class="transition underline bottom" data-background="./assets/images/g3d67955561_0_120.png"-->
+<!-- .slide: class="transition bottom" data-background="./assets/images/g3d67955561_0_120.png"-->
 
 # Où aller ?
 
@@ -9,7 +9,9 @@ Savoir qu’on a un sujet, c’est une chose mais il faut maintenant se poser la
 
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="prez"-->
 
 # Souvenez-vous
@@ -28,7 +30,9 @@ Savoir qu’on a un sujet, c’est une chose mais il faut maintenant se poser la
 Notes:
 Revenir sur les endroits où on poste et où on parle
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="full"-->
 
 # Souvenez-vous
@@ -53,7 +57,9 @@ Revenir sur les endroits où on poste et où on parle
 
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="prez"-->
 
 # Dans sa société
@@ -73,7 +79,9 @@ Notes:
 les talks internes sont des lieux de confiance, il faut priviliégier les sujets de 20 min / 30 min
 
 
+
 ##==##
+
 <!-- .slide: class="flex-row" data-type-show="full"-->
 
 # Dans sa société
@@ -99,53 +107,61 @@ les talks internes sont des lieux de confiance, il faut priviliégier les sujets
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez"-->
 
 # A l’extérieur
 
 <br>
 
-![center h-600](./assets/images/g3d67955561_0_154.png)
+![](./assets/images/g3d67955561_0_154.png 'center h-600')
 
 Notes:
 Les meetups sont le lieux idéal pour se faire la main car ils souhaitent tous avoir des sujets ! il faut en profiter 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="full"-->
 
 # A l’extérieur
 
 <br>
 
-![center h-400](./assets/images/g3d67955561_0_154.png)
+![](./assets/images/g3d67955561_0_154.png 'center h-400')
 
 Les meetups sont le lieux idéal pour se faire la main car ils souhaitent tous avoir des sujets ! il faut en profiter 
 
 
 
+
 ##==##
+
 <!-- .slide: data-type-show="prez" -->
 
 # En conférence
 
 <br>
 
-![center h-500](./assets/images/g3d67955561_0_164.png)
+![](./assets/images/g3d67955561_0_164.png 'center h-500')
 
 Notes:
 Attention aux conférences spécialisées
 
 Cibler en premier lieu des confs qui démarrent, elles ont besoin d’aide et sont assez enclins à prendre des jeunes speakers
 
+
 ##==##
+
 <!-- .slide: data-type-show="full"-->
 
 # En conférence
 
 <br>
 
-![center h-400](./assets/images/g3d67955561_0_164.png)
+![](./assets/images/g3d67955561_0_164.png 'center h-400')
 
 Les conférences d’une journée sont le lieu idéal pour parler et partager son savoir. Visez en priorité les conférences qui démarrent, elles ont besoin de speakers. Attention par contre aux conférences spécialisées
