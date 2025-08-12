@@ -1,4 +1,4 @@
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3d67955561_0_202.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3d67955561_0_202.png"-->
 
 # Bien préparer ses slides
 

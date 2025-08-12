@@ -23,7 +23,7 @@ Savoir qu’on a un sujet, c’est une chose mais il faut maintenant se poser la
 <img class="h-300" src="./assets/images/g3d67955561_0_54.png">
 <img class="h-300" src="./assets/images/g3d67955561_0_56.png">
 <img class="h-300" src="./assets/images/g3d67955561_0_55.png">
-<img class="h-300" src="./assets/images/g3d67955561_0_57.png">
+<img class="h-300" src="./assets/images/greta.jpg">
 </p>
 
 

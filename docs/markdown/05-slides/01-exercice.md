@@ -415,8 +415,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe30j2ELgFY8-Jwhl5EMjyQaFpePx5BBxg2o9qp
 
 <br>
 
-![](./assets/images/qrcode.png) 
-<!-- .element: class="full-center" -->
+![](./assets/images/qrcode.png 'center') 
 
 Notes:
 Rester 2 sec
@@ -1387,8 +1386,7 @@ Avec un peu de technologie c’est encore mieux
 
 <br>
 
-![](./assets/images/qrcode.png) 
-<!-- .element: class="full-center" -->
+![](./assets/images/qrcode.png 'center') 
 
 
 
@@ -1409,7 +1407,7 @@ Avec un peu de technologie c’est encore mieux
 
 ![](./assets/images/logo-sfeir-blanc.png 'company')
 
-<a style="color:white" href="https://url-slides">https://url-slides</a>
+<a style="color:white; position: absolute; bottom: 400px; right:600px;" href="https://url-slides">https://url-slides</a>
 
 </div>
 

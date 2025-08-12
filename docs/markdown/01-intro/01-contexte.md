@@ -80,7 +80,7 @@ on partage à ses collègues, on partage à sa famille, dès tout petit, on le f
 <img class="h-300" src="./assets/images/g3d67955561_0_54.png">
 <img class="h-300" src="./assets/images/g3d67955561_0_56.png">
 <img class="h-300" src="./assets/images/g3d67955561_0_55.png">
-<img class="h-300" src="./assets/images/g3d67955561_0_57.png">
+<img class="h-300" src="./assets/images/greta.jpg">
 </p>
 
 Notes:
@@ -105,7 +105,7 @@ Expliquer que rock star n’est pas un achivement mais qu’au sein de chaque ni
 
 <p>
 <img class="h-300" src="./assets/images/g3d67955561_0_54.png"><span>Le Local</span>
-<img class="h-300" src="./assets/images/g3d67955561_0_57.png"><span>La Rockstar</span>
+<img class="h-300" src="./assets/images/greta.jpg"><span>La Rockstar</span>
 </p>
 
 Notes:

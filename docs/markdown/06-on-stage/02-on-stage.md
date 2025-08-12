@@ -129,7 +129,7 @@ Notes:
 
 ##==##
 
-<!-- .slide: class="transition bottom" data-background="./assets/images/g3e2b346e48_0_43.png"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/g3e2b346e48_0_43.png"-->
 
 # Attention à votre image
 
@@ -141,7 +141,7 @@ vous représentez votre société !! donc attention Nous ne sommes pas non plus 
 
 ##==##
 
-<!-- .slide: class="transition bottom" data-background="./assets/images/black-and-white-elderly-grayscale-1266005.jpg"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/black-and-white-elderly-grayscale-1266005.jpg"-->
 
 # Que faire de ses mains ?
 
@@ -151,7 +151,7 @@ Notes:
 
 ##==##
 
-<!-- .slide: class="transition bottom" data-background="./assets/images/adorable-animal-cat-1645631.jpg"-->
+<!-- .slide: class="transition bottom mask" data-background="./assets/images/adorable-animal-cat-1645631.jpg"-->
 
 # Pensez à boire
 
@@ -276,8 +276,7 @@ Si on peut pas l'utiliser => On est pas tout le monde ?
 # Très bon article sur le sujet
 
 
-https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-event/ 
-<!-- .element: class="center" -->
+<a href="https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-event/" class="center" style="color:white !important;" target="_blank">https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-event/</a> 
 
 
 
