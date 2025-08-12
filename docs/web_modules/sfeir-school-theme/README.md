@@ -264,13 +264,6 @@ Simply add a query parameter in the URL `data-lang` with the wanted langage afte
 <!-- .slide: class="speaker-slide" -->
 
 <div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
-<div class="speaker-slide">
 
 # Hello ! @SFEIR
 
@@ -282,20 +275,20 @@ Simply add a query parameter in the URL `data-lang` with the wanted langage afte
 
 ### @jefbinomed
 
-![](./assets/images/jf.jpg 'speaker' '' '' '' '' '' '' '')
+![](./assets/images/jf.jpg 'speaker')
 
-![](./assets/images/logo-sfeir-blanc.png 'company' '' '' '' '' '' '' '')
+![](./assets/images/logo-sfeir-blanc.png 'company')
 
-![](./assets/images/gde.png 'badge' '' '' '' '' '' '' '')
+![](./assets/images/gde.png 'badge')
 
-![](./assets/images/GDG-Logo-carre.png 'badge' '' '' '' '' '' '' '')
+![](./assets/images/GDG-Logo-carre.png 'badge')
 
-![](./assets/images/mts.png 'badge' '' '' '' '' '' '' '')
+![](./assets/images/mts.png 'badge')
 
 </div>
 ```
 
-![](./docs/images/speaker-slide.png '' '' '' '' '' '' '')
+![](./docs/images/speaker-slide.png)
 
 You can have up to 4 sub information (here CTO Front & @jefbinomed).
 
@@ -304,15 +297,6 @@ You can also have up to 6 badge
 ### Transitions slides
 
 ```md
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
 <!-- .slide: class="transition" -->
 
 # Management of custom slides

@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import fs from 'fs';
 import path from 'path';
 // #region Règles de nettoyage
@@ -64,7 +65,8 @@ function findFiles(dir, filter) {
     const list = fs.readdirSync(dir);
     list.forEach(function (file) {
         const fullPath = path.join(dir, file);
-        if (path.basename(fullPath) === 'web_modules') {
+        if (path.basename(fullPath) === 'web_modules' ||
+            path.basename(fullPath) === 'node_modules') {
             return; // Skip web_modules directory
         }
         const stat = fs.statSync(fullPath);
