@@ -11,7 +11,7 @@
     "start": "parallelshell \"npm run serve\" \"npm run sass\"",
     "prepare": "node ./scripts/dont-touch/prepare-script.js",
     "theme:cleanup": "sfeir-school-theme-cleanup",
-    "theme:migrate": "sfeir-school-theme-migration"
+    "theme:migrate": "sfeir-school-theme-migrate"
   },
   "repository": {
     "type": "git",
