@@ -9,7 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "live-server --port=4242 --open=\"./index_prez.html\" --watch=\"markdown/\"",
     "start": "parallelshell \"npm run serve\" \"npm run sass\"",
-    "prepare": "node ./scripts/dont-touch/prepare-script.js"
+    "prepare": "node ./scripts/dont-touch/prepare-script.js",
+    "theme:cleanup": "sfeir-school-theme-cleanup",
+    "theme:migrate": "sfeir-school-theme-migration"
   },
   "repository": {
     "type": "git",

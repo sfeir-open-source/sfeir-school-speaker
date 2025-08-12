@@ -1,0 +1,35 @@
+/**
+ * Sfeir Override theme for reveal.js.
+
+ * By Jean-François Garreau : jefBinomed
+ */
+
+@import './fonts';
+@import './colors';
+
+:root {
+    /**
+    * Reveal JS Override
+    **/
+
+    // Background of the presentation
+    --r-background-color: #fff;
+
+    // Primary/body text
+    --r-main-font: 'Poppins', sans-serif;
+    --r-main-font-size: 40px;
+    --r-main-color: var(--dark-grey);
+
+    // Headings
+    --r-heading-font: 'Poppins', Impact, sans-serif;
+    --r-heading-color: var(--r-main-color);
+    --r-heading-text-transform: initial;
+
+    // Links and actions
+    --r-link-color: var(--black);
+    --r-link-color-hover: lighten(var(--r-link-color), 20%);
+
+    // Text selection
+    --r-selection-background-color: rgba(140, 191, 240, 0.8);
+    --r-selection-color: #fff;
+}
