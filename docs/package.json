@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/sfeir-open-source/sfeir-school-speaker#readme",
   "dependencies": {
-    "sfeir-school-theme": "^4.0.0-rc-10"
+    "sfeir-school-theme": "^4.0.0-rc-11"
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",

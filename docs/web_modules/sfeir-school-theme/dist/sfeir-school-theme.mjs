@@ -9943,7 +9943,7 @@ function Ro(e) {
     e.tcIconOption.copyKeyword
   ), a = [
     ...document.querySelectorAll(
-      '.reveal .slides section[class*="with-code"] pre:has(code)'
+      ".reveal .slides *:is(.with-code, .with-code-dark, .with-code-bg-dark) pre:has(code)"
     )
   ];
   for (const n of a)
