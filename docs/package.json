@@ -1,6 +1,6 @@
 {
   "name": "sfeirschoolspeaker",
-  "version": "1.0.0",
+  "version": "2.6.1",
   "description": "Sfeir School Speaker with revealJS",
   "main": "index.js",
   "scripts": {
