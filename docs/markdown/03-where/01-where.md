@@ -47,7 +47,7 @@ Revenir sur les endroits où on poste et où on parle
 
 <p>
 <img class="h-300" src="./assets/images/g3d67955561_0_54.png"><span>Le Local</span>
-<img class="h-300" src="./assets/images/g3d67955561_0_57.png"><span>La Rockstar</span>
+<img class="h-300" src="./assets/images/greta.jpg"><span>La Rockstar</span>
 </p>
 
 
@@ -87,7 +87,7 @@ les talks internes sont des lieux de confiance, il faut priviliégier les sujets
 # Dans sa société
 
 <br>
-<div class="flew-row">
+<div class="flex-row">
 <p>
 <img class="w-300" src="./assets/images/g3d67955561_0_144.png">
 <img class="w-300" src="./assets/images/g3d67955561_0_145.png">

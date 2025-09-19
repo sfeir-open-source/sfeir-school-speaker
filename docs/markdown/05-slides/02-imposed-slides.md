@@ -1,6 +1,6 @@
 <!-- .slide: class="transition" -->
 
-# Exercice Bis : Imposer des slides
+# Exercice : Imposer des slides
 
 Notes:
 On prend une personne et on lui impose des slides -> 5 slides
