@@ -6,7 +6,7 @@
   "scripts": {
     "sass": "sass ./scss/speaker.scss:./css/slides.css --source-map --watch",
     "sass-once": "sass ./scss/speaker.scss:./css/slides.css --source-map",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "sfeir-school-theme check --rootDir=..",
     "serve": "live-server --port=4242 --open=\"./index_prez.html\" --watch=\"markdown/\"",
     "start": "parallelshell \"npm run serve\" \"npm run sass\"",
     "prepare": "node ./scripts/dont-touch/prepare-script.js",
@@ -27,14 +27,14 @@
     "url": "https://github.com/sfeir-open-source/sfeir-school-speaker/issues"
   },
   "homepage": "https://github.com/sfeir-open-source/sfeir-school-speaker#readme",
-  "dependencies": {
-    "sfeir-school-theme": "^4.0.0-rc-11"
-  },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
     "live-server": "^1.1.0",
     "parallelshell": "3.0.1",
     "sass": "^1.51.0",
     "shelljs": "^0.8.5"
+  },
+  "dependencies": {
+    "sfeir-school-theme": "^4.0.0-rc-15"
   }
 }

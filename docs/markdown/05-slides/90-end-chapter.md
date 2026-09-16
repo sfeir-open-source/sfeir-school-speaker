@@ -9,17 +9,19 @@ vient l’heure de la répet et de jouer ma prez
 
 ##==##
 
+<!-- .slide: class="exercice" data-type-show="prez" -->
 
-<!-- .slide: data-background="#fcec00" class="a-vous" data-type-show="prez"-->
+# Faisons des slides
 
-![](./assets/images/g3d67955561_0_107.png 'full-width-screen bottom')
+## Exercice
+
+<br>
+
+Vous allez concevoir un deck de slides pour un petit sujet avec les contraintes suivantes
+* 10 Slides environ
+* 1 slide d'intro
+* 1 slide de conclusion
 
 
-# A VOUS !
-<!-- .element: class="top" -->
+### Step: 03-write-slides
 
-
-<h1 class="fragment bandeau block">-10 Slides<br>
--1 Intro<br>
--1 Conclusion<br>
-</h1>

@@ -134,17 +134,20 @@ Travailler son intro ...
 
 ##==##
 
-<!-- .slide: data-background="#fcec00" class="a-vous"-->
+<!-- .slide: class="exercice" data-type-show="prez" -->
 
-![](./assets/images/g3d67955561_0_107.png 'full-width-screen bottom')
+# Repartez chez vous avec une action
+
+## Exercice
+
+<br>
+
+Qu'avez vous envie d'accomplir sur les 3 prochains mois. Prenez un post-it et posez dessus : 
+* 1 action que vous allez faire dans les 3 prochains mois
+* 1 chose que vous avez retenu que vous aller changer
 
 
-# A VOUS !
-<!-- .element: class="top" -->
-
-<h1 class="fragment bandeau block">-1 Idée<br>-1 Action<br>
-</h1>
-
+### Step: 05-after
 
 Notes:
 Maintenant c’est leur prendre les post-its  et d’écrire une action que vous aller faire dans les 3 prochains mois

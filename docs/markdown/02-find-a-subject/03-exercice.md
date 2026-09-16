@@ -1,16 +1,18 @@
-<!-- .slide: data-background="#fcec00" class="a-vous"-->
+<!-- .slide: class="exercice" data-type-show="prez" -->
 
-![](./assets/images/g3d67955561_0_107.png 'full-width-screen bottom')
+# Trouvons un sujet
+
+## Exercice
+
+<br>
+
+Prenez un post-it et posez dessus : 
+* Une idée 
+* Un format
 
 
-# A VOUS !
-<!-- .element: class="top" -->
+### Step: 01-find-topic
 
-
-<h1 class="fragment bandeau block">-1 Post-it<br>
--1 Sujet<br>
--1 Format<br>
-</h1>
 
 
 Notes:

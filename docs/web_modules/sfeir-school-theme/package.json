@@ -1,6 +1,6 @@
 {
     "name": "sfeir-school-theme",
-    "version": "4.0.0-rc-11",
+    "version": "4.0.0-rc-15",
     "description": "Sfeir School Theme for RevealJS",
     "files": [
         "dist"
@@ -14,7 +14,8 @@
     "style": "./dist/sfeir-school-theme.css",
     "bin": {
         "sfeir-school-theme-cleanup": "./dist/sfeir-school-theme-cleanup.mjs",
-        "sfeir-school-theme-migrate": "./dist/sfeir-school-theme-migration.mjs"
+        "sfeir-school-theme-migrate": "./dist/sfeir-school-theme-migration.mjs",
+        "sfeir-school-theme": "./dist/sfeir-school-theme-cli.mjs"
     },
     "exports": {
         ".": {
@@ -28,18 +29,22 @@
         }
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "vitest",
         "serve": "live-server --port=4242 --open=\"./demo/index.html\" --mount=\"/assets:./demo/assets\" --mount=\"/web_modules:./demo/web_modules\" --watch=\"./demo/web_modules/sfeir-school-theme,./demo/markdown/\"",
         "release": "echo \"Error: no deployement is configure for the moment, please just build the project\"",
         "prepare-demo": "tsx ./scripts/prepare-demo.ts",
         "prestart": "npm run prepare-demo",
         "start": "parallelshell \"npm run serve\" \"npm run build-watch\"",
         "postbuild": "tsx ./scripts/prepare-publish.ts",
-        "build": "tsc && vite build && npm run build:scripts",
+        "build": "tsc && vite build && npm run build:scripts && npm run cli-build",
         "build:scripts": "tsc -p tsconfig.scripts.json && chmod +x dist/sfeir-school-theme-cleanup.js dist/sfeir-school-theme-migration.js && mv dist/sfeir-school-theme-cleanup.js dist/sfeir-school-theme-cleanup.mjs && mv dist/sfeir-school-theme-migration.js dist/sfeir-school-theme-migration.mjs",
         "on-change:build": "chokidar \"./src\" -c \"npm run build\"",
         "on-change:copy": "chokidar \"./dist\" -c \"npm run prepare-demo\"",
-        "build-watch": "parallelshell \"npm run on-change:build\" \"npm run on-change:copy\""
+        "build-watch": "parallelshell \"npm run on-change:build\" \"npm run on-change:copy\"",
+        "lint": "eslint src/ cli/",
+        "lint:fix": "eslint --fix src/ cli/",
+        "cli-build": "tsup --config ./tsup.cli.config.ts",
+        "cli-run": "node dist/sfeir-school-theme-cli.mjs"
     },
     "repository": {
         "type": "git",
@@ -67,6 +72,7 @@
         "@types/node": "^20.14.9",
         "@types/reveal.js": "^5.0.3",
         "@types/shelljs": "^0.8.15",
+        "@vitest/ui": "^3.2.4",
         "chokidar-cli": "^3.0.0",
         "eslint": "^9.6.0",
         "globals": "^15.8.0",
@@ -75,15 +81,16 @@
         "prettier": "^3.3.3",
         "sass": "^1.77.6",
         "shelljs": "^0.8.5",
+        "tsup": "^8.5.0",
         "tsx": "^4.16.2",
         "type-fest": "^4.21.0",
-        "typescript": "^5.2.2",
-        "typescript-eslint": "^7.15.0",
+        "typescript": "^5.8.3",
+        "typescript-eslint": "^8.41.0",
         "vite": "^5.3.1",
         "vite-plugin-dts": "^4.2.1",
-        "vitest": "^1.6.0"
+        "vitest": "^3.2.4"
     },
     "overrides": {
-        "eslint": "$@eslint/js"
+        "eslint": "$eslint"
     }
 }

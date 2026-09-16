@@ -292,7 +292,7 @@ Qui en plus, ont beaucoup de texte, c’est vraiment pas cool
 
 ##==##
 
-<!-- .slide: class="no-background no-style"-->
+<!-- .slide: class="no-style"-->
 
 <br><br><br>
 
@@ -389,7 +389,6 @@ Par slide</h1>
 
 ##==##
 
-<!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
 
@@ -414,7 +413,6 @@ Par slide</h1>
 
 ##==##
 
-<!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
 
@@ -438,7 +436,6 @@ Par slide</h1>
 
 ##==##
 
-<!-- .slide: class="flew-row" -->
 
 # Combien d'objets ?
 
